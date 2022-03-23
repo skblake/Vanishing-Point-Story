@@ -39,6 +39,11 @@
 			<key>Row</key>
 			<integer>-1</integer>
 		</dict>
+		<key>04FC7F27-5318-4420-85E6-B02CFFEC3B77</key>
+		<dict>
+			<key>Row</key>
+			<integer>-1</integer>
+		</dict>
 		<key>066ABD97-1528-4816-AEA9-A1EB3A12E784</key>
 		<dict>
 			<key>Row</key>
@@ -71,6 +76,11 @@
 			<key>Row</key>
 			<integer>-1</integer>
 		</dict>
+		<key>0B7B17C4-018E-4FC6-A110-19E0655EBC54</key>
+		<dict>
+			<key>Row</key>
+			<integer>-1</integer>
+		</dict>
 		<key>0B8B95E1-23BD-47BE-B12F-6ABCCDE34940</key>
 		<dict>
 			<key>Row</key>
@@ -96,7 +106,17 @@
 			<key>Row</key>
 			<integer>-1</integer>
 		</dict>
+		<key>1938150C-AE2B-449D-877D-7562C3A19ED3</key>
+		<dict>
+			<key>Row</key>
+			<integer>-1</integer>
+		</dict>
 		<key>1F2616B2-08DD-44E5-A40A-6DF8EC31A2C6</key>
+		<dict>
+			<key>Row</key>
+			<integer>-1</integer>
+		</dict>
+		<key>21265C1A-AA99-44BA-84C7-08F05AB6356F</key>
 		<dict>
 			<key>Row</key>
 			<integer>-1</integer>
@@ -256,6 +276,11 @@
 			<key>Row</key>
 			<integer>-1</integer>
 		</dict>
+		<key>7F9A78B8-9F95-4F95-9452-72A3FEE95470</key>
+		<dict>
+			<key>Row</key>
+			<integer>-1</integer>
+		</dict>
 		<key>7FC829A2-1581-4589-A568-5113E351B83E</key>
 		<dict>
 			<key>Row</key>
@@ -326,6 +351,11 @@
 			<key>Row</key>
 			<integer>-1</integer>
 		</dict>
+		<key>B1CE40FB-1DF3-415A-B9B5-DE4705AD4BFB</key>
+		<dict>
+			<key>Row</key>
+			<integer>-1</integer>
+		</dict>
 		<key>B3A61912-396A-48EF-B363-261D60518D55</key>
 		<dict>
 			<key>Row</key>
@@ -371,6 +401,11 @@
 			<key>Row</key>
 			<integer>-1</integer>
 		</dict>
+		<key>D657596D-9C36-412A-9982-EA605B36CC19</key>
+		<dict>
+			<key>Row</key>
+			<integer>-1</integer>
+		</dict>
 		<key>D6BEA141-647C-4319-AC02-D11A76A6E103</key>
 		<dict>
 			<key>Row</key>
@@ -412,6 +447,11 @@
 			<integer>-1</integer>
 		</dict>
 		<key>F644FF95-8289-4698-BF8E-871AF6074B5E</key>
+		<dict>
+			<key>Row</key>
+			<integer>-1</integer>
+		</dict>
+		<key>FD372C7E-4567-4D71-BCC2-F723ECC4D978</key>
 		<dict>
 			<key>Row</key>
 			<integer>-1</integer>
@@ -509,7 +549,7 @@
 	<key>mainDocumentEditor.rulerIsVisible</key>
 	<false/>
 	<key>mainDocumentEditor.scrollRect</key>
-	<string>{{0, 0}, {620, 294}}</string>
+	<string>{{0, 0}, {620, 731}}</string>
 	<key>mainDocumentEditor.selectedRanges</key>
 	<string>{0, 0}</string>
 	<key>mainDocumentEditor.textEditorState</key>
