@@ -1,0 +1,1 @@
+As the player reaches the middle of the stairway, they move the 2D character from the wall to the pillar in the hallway. The player has to see how to line up the stairway platforms and something in the hallway to move the 2D character into the second floor.
