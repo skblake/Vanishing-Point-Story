@@ -102,10 +102,6 @@ Four. I’m supposed to bring a snack or something? She said I can bring anythin
         <Document ID="B3C584FF-E5EF-4736-A7F4-F64271D8D7D4">
             <Title>Break Room</Title>
         </Document>
-        <Document ID="4D6C0F19-295F-4286-B9C3-79451BC85FC0">
-            <Title>Puzzle 6 - Walking On Objects</Title>
-            <Synopsis>The player transfers the 2D character onto the water cooler and corkboard in the break room and moves it from there onto the stairway and upwards.</Synopsis>
-        </Document>
         <Document ID="76C3A7C2-03D8-45EB-AD7E-087D52D5337A">
             <Title>Puzzle 4 - Server Room to Executive Office</Title>
             <Synopsis>The player navigates to 2D character from the server room exit door to the executive office. The player lines up the 2D character with the boxes along the hallway to move the 2D character along a long hallway.
@@ -113,9 +109,6 @@ Four. I’m supposed to bring a snack or something? She said I can bring anythin
             <Text>[Let’s get this fragment loaded…
 ~~~]
 [Got it! We have all of the fragments now. Let’s bring them back to the root folder.]</Text>
-        </Document>
-        <Document ID="BF2494D2-793A-4113-90B8-269A5D382A91">
-            <Title>Places</Title>
         </Document>
         <Document ID="095E97C2-0222-48EB-920D-6AA5D9787DBE">
             <Title>Plot Drafting - 27 February 2022</Title>
@@ -381,13 +374,6 @@ Then I won’t go. You can’t make me.
 [Success! 1 of 11 fragments restored.]
 </Text>
         </Document>
-        <Document ID="68B36711-EEB0-4690-ABF2-E7F9D186E5A9">
-            <Title>All that bullshit you fed us about user privacy...
-</Title>
-            <Text>BRENT
-All that bullshit you fed us about user privacy...
-</Text>
-        </Document>
         <Document ID="990348FE-6DF4-49BB-8434-138AC5E35F8D">
             <Title>I’m sorry, El, I just didn’t notice––</Title>
             <Text>BRENT
@@ -438,16 +424,8 @@ Divergence Drive
         <Document ID="EA5D4F73-AD62-4777-A33C-458362A30C3D">
             <Title>Balcony</Title>
         </Document>
-        <Document ID="DDB2DFE7-69BD-436B-AD65-83DB90426F49">
-            <Text>Hello? Is someone there?
-Brent, is that you?</Text>
-        </Document>
         <Document ID="4CE87667-6228-4C7B-BF06-89444FF9AAB2">
             <Title>Research</Title>
-        </Document>
-        <Document ID="6EC4B857-2E70-4C05-B871-B0DEAAD59340">
-            <Title>Puzzle 3 - Transition - Atrium to Offices</Title>
-            <Synopsis>From the planter in the atrium the player can back up and reposition to jump in 2D from the planter to room 3.</Synopsis>
         </Document>
         <Document ID="D46E5E47-2E9D-43FF-A36E-9960CD98A503">
             <Title>Linda, this is my daughter, Eloise.
@@ -462,15 +440,11 @@ Hi.
             <Title>L3: ECHO IMAGINES FUTURE WATTERS HOME</Title>
             <Synopsis>☞ Brent got sucked into the program. ☞ The player is an older version of Eloise. </Synopsis>
         </Document>
-        <Document ID="E20ECBE5-BC88-4478-A760-2CA96D128977">
-            <Title>Reception</Title>
-        </Document>
         <Document ID="7B5EDD45-0861-4822-A106-979663576E3D">
             <Title>Level 2-B</Title>
         </Document>
-        <Document ID="94527FA3-E65A-494A-B4D7-14B9ED740838">
-            <Title>Puzzle 5 - Transition - Offices to Break Room</Title>
-            <Synopsis>The player navigates the 2D character to a desk in this corner of the office and then has to make their way to the break room to solve the next puzzle. </Synopsis>
+        <Document ID="D6BEA141-647C-4319-AC02-D11A76A6E103">
+            <Title>Proactive Help</Title>
         </Document>
         <Document ID="028F65FD-826A-4D5E-B70A-62E5D31CC3D6">
             <Title>Character Sketch</Title>
@@ -508,17 +482,11 @@ Notes
 
 </Text>
         </Document>
-        <Document ID="D6BEA141-647C-4319-AC02-D11A76A6E103">
-            <Title>Proactive Help</Title>
-        </Document>
         <Document ID="971CB1FF-46E4-47C2-8138-E8D80280DDC2">
             <Title>Are you threatening me?
 </Title>
             <Text>BRENT
 Are you threatening me?</Text>
-        </Document>
-        <Document ID="1938150C-AE2B-449D-877D-7562C3A19ED3">
-            <Title>Level 2</Title>
         </Document>
         <Document ID="2EAF0270-E6E0-44E5-A1CA-2FC8C6B9AE69">
             <Title>Reception</Title>
@@ -537,32 +505,8 @@ Are you threatening me?</Text>
 </Synopsis>
             <Text>[I’m starting to feel a little strange…]</Text>
         </Document>
-        <Document ID="8260EEC8-D831-44A0-AEB4-1D3E534AC4B8">
-            <Text>Plot Elements: 
-
-	•	Brent is a single father to his 12-year-old daughter, Eloise.
-	•	The game takes place in a 2006 snapshot of their family computer. 
-	•	Eloise skipped two grades in school and struggles to relate to other kids in her grade. 
-	•	At the time of the snapshot, Brent was focused on a work project at the expense of all else.
-	•	The 2D character is the software Brent was developing.
-	•	The software is a sentient AI that is trained based on the behavior of the person using it.
-	•	The 2D character was trained on Brent’s personality while he was developing it and acts like him.
-	•	The 2D character knows someone is using the computer and believes that person is Brent.
-	•	The company Brent works for planned to use the software to steal and sell user data. 
-	•	Brent was killed by the company he works for. 
-	•	The player is an older version of Eloise. 
-	•	The 2D character will act more like Eloise the more she interacts with it. 
-
-Game Sections:
-
-Level 0-OS
-</Text>
-        </Document>
         <Document ID="0B7B17C4-018E-4FC6-A110-19E0655EBC54">
             <Title>Screen Shot 2022-03-15 at 5.40.36 PM</Title>
-        </Document>
-        <Document ID="D090B799-E7BE-4887-AEB2-1271245A73D0">
-            <Title>Level 1</Title>
         </Document>
         <Document ID="C44CD7E8-6BDB-49A2-A51D-C6C4E69872BF">
             <Title>Puzzle 6 - Walking On Objects</Title>
@@ -726,19 +670,42 @@ Does this look right?
 ~~~]
 [It looks like this file has 11 fragments and 0 of them have been recovered. Let’s do this!]</Text>
         </Document>
-        <Document ID="6EE00691-B91E-46AB-A1D8-9145E3AC0E7E">
-            <Title>Front Matter</Title>
-        </Document>
         <Document ID="2FDCBA14-4445-48E0-BF59-C0A4DE3BC46D">
             <Title>L1-OS: </Title>
             <Synopsis>☞ Brent’s death is surrounded by suspicious circumstances related to C.O.V.E.</Synopsis>
         </Document>
-        <Document ID="55A25815-1DD9-4C73-930B-2DAFDF44E64A">
-            <Title>Characters</Title>
-        </Document>
-        <Document ID="E038C23E-0FAB-4CE6-9CC4-DBA6743E0E49">
-            <Title>Puzzle 2 - Transition - Lobby to Atrium</Title>
-            <Synopsis>The player exits the lobby into the atrium. As they look back into the lobby they can transform into 2D mode and move the 2D character from the planter in the lobby to the planter in the atrium. (I don’t think this requires a separate checkpoint.)</Synopsis>
+        <Document ID="AAAECD1E-912A-467D-B722-836F749891DD">
+            <Title>Setting Sketch</Title>
+            <Text>Name of Setting
+Location
+
+Role in Story
+
+
+Related Characters
+
+
+Season
+
+
+Unique Features
+
+
+Description
+
+
+Sights
+
+
+Sounds
+
+
+Smell
+
+
+Notes
+
+</Text>
         </Document>
         <Document ID="4BC5A8B2-ECF0-4276-95B8-180491ED1288">
             <Title>Screenplay Format</Title>
@@ -775,49 +742,9 @@ Like all templates in Scrivener, this project was originally created from the �
 
 You can create your own templates by setting up a skeletal project with the files, folders and settings you would like to use for new projects and using File &gt; Save As Template.</Text>
         </Document>
-        <Document ID="AAAECD1E-912A-467D-B722-836F749891DD">
-            <Title>Setting Sketch</Title>
-            <Text>Name of Setting
-Location
-
-Role in Story
-
-
-Related Characters
-
-
-Season
-
-
-Unique Features
-
-
-Description
-
-
-Sights
-
-
-Sounds
-
-
-Smell
-
-
-Notes
-
-</Text>
-        </Document>
-        <Document ID="70106D61-ABA4-4564-AF7C-5A4C55D519F3">
-            <Title>New Folder</Title>
-        </Document>
         <Document ID="4066EB37-FC50-4357-AB66-D61FB41DCA8C">
             <Title>L2B: CORRUPTED C.O.V.E. OFFICES</Title>
             <Synopsis>☞ Echo was the first Asphodel AI––it was trained on Brent’s personality. </Synopsis>
-        </Document>
-        <Document ID="A2790911-FCA4-4985-A3E4-FBB5AA744B87">
-            <Title>Puzzle 4 - Bridging the Wall</Title>
-            <Synopsis>Here the player must navigate the 2D character around a wall by standing looking at the width of the wall creating a small gap they have to jump over in 2D (I don’t think this requires a separate checkpoint.)</Synopsis>
         </Document>
         <Document ID="3B85E9CD-0407-4D4B-8CF4-C02C87C8F9B5">
             <Title>Break Room</Title>
@@ -825,9 +752,6 @@ Notes
         <Document ID="3DD01754-5E9C-425F-A7EE-9040BC168AA6">
             <Title>Floor 1</Title>
             <Synopsis>7 PUZZLES  Lobby, Offices, Atrium, Break Room, and Stairs</Synopsis>
-        </Document>
-        <Document ID="B1CE40FB-1DF3-415A-B9B5-DE4705AD4BFB">
-            <Title>Level 2</Title>
         </Document>
         <Document ID="F644FF95-8289-4698-BF8E-871AF6074B5E">
             <Title>Server Room</Title>
@@ -858,6 +782,10 @@ BRENT
             <Title>You think I’m just gonna let you do this? I’ll make sure everyone...</Title>
             <Text>BRENT
 You think I’m just gonna let you do this? I’ll make sure they all know.  My God. All that bullshit you fed us about user privacy––about regulations––I trusted you.</Text>
+        </Document>
+        <Document ID="0B096BA1-BD6A-4B11-9A06-EF7B0CD960D6">
+            <Title>New document</Title>
+            <Text>This is a new document.</Text>
         </Document>
         <Document ID="97C771CD-2D81-4DE1-A036-BE346277A1D0">
             <Title>L2 Drafting - 16 February 2022</Title>
@@ -935,54 +863,6 @@ My team has cracked the puzzle of simulated consciousness––and with your fun
 ~~~]
 [Asphodel…]
 [I remember.]</Text>
-        </Document>
-        <Document ID="09250003-E83D-40B9-9003-A3805902D5F2">
-            <Title>Title Page</Title>
-            <Text>
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;$PROJECTTITLE&gt;
-
-by
-
-&lt;$fullname&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Your Name
-Your Address
-Your phone number
-Your e-mail address</Text>
-            <Notes>The &lt;$PROJECTTITLE&gt; and &lt;$fullname&gt; tags get replaced with metadata information you can set when compiling. Other information is taken from Contacts when the project is created.
-
-Feel free to edit the text of the title page as required.</Notes>
         </Document>
     </Documents>
 </SearchIndexes>
