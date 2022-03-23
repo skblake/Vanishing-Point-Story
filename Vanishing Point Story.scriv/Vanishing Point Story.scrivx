@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Identifier="F1BB5BCB-C42B-4817-93C5-482B8E656448" Version="2.0" Creator="SCRMAC-3.2.3-14869" Device="Sams-MacBook-Pro" Author="" Modified="2022-03-23 13:14:43 -0400" ModID="6C4A3F3F-2344-416B-B674-506CACA9FEB3">
+<ScrivenerProject Identifier="F1BB5BCB-C42B-4817-93C5-482B8E656448" Version="2.0" Creator="SCRMAC-3.2.3-14869" Device="Sams-MacBook-Pro" Author="" Modified="2022-03-23 13:33:06 -0400" ModID="DB1C3628-86D7-493E-A827-2BC74A84AB7D">
     <Binder>
         <BinderItem UUID="3C57A925-E91E-4D5D-A1D6-F16A2F7A3D35" Type="DraftFolder" Created="2022-02-20 16:47:18 -0500" Modified="2022-02-20 19:05:15 -0500">
             <Title>Spatial Audio</Title>
@@ -755,6 +755,15 @@ Can I go to a party on Saturday?
                         <TextSelection>249,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
+                <BinderItem UUID="0B096BA1-BD6A-4B11-9A06-EF7B0CD960D6" Type="Text" Created="2022-03-23 13:32:44 -0400" Modified="2022-03-23 13:33:06 -0400">
+                    <Title>New document</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>23,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
             </Children>
         </BinderItem>
         <BinderItem UUID="4CE87667-6228-4C7B-BF06-89444FF9AAB2" Type="Folder" Created="2022-03-15 17:38:42 -0400" Modified="2022-03-15 17:38:44 -0400">
@@ -953,252 +962,6 @@ Can I go to a party on Saturday?
         </BinderItem>
         <BinderItem UUID="F4B0825A-2389-47FD-9E79-22D353C5F555" Type="TrashFolder" Created="2022-02-20 16:47:18 -0500" Modified="2022-02-20 16:47:18 -0500">
             <Title>Trash</Title>
-            <Children>
-                <BinderItem UUID="BF2494D2-793A-4113-90B8-269A5D382A91" Type="Folder" Created="2022-02-20 16:47:18 -0500" Modified="2022-02-20 16:47:18 -0500">
-                    <Title>Places</Title>
-                    <MetaData>
-                        <IncludeInCompile>Yes</IncludeInCompile>
-                        <IconFileName>Locations (Map)</IconFileName>
-                    </MetaData>
-                    <TextSettings>
-                        <TextSelection>0,0</TextSelection>
-                    </TextSettings>
-                    <DefaultChildTemplateUUID>AAAECD1E-912A-467D-B722-836F749891DD</DefaultChildTemplateUUID>
-                </BinderItem>
-                <BinderItem UUID="55A25815-1DD9-4C73-930B-2DAFDF44E64A" Type="Folder" Created="2022-02-20 16:47:18 -0500" Modified="2022-02-20 16:47:18 -0500">
-                    <Title>Characters</Title>
-                    <MetaData>
-                        <IncludeInCompile>Yes</IncludeInCompile>
-                        <IconFileName>Characters (Photo)</IconFileName>
-                    </MetaData>
-                    <TextSettings>
-                        <TextSelection>0,0</TextSelection>
-                    </TextSettings>
-                    <DefaultChildTemplateUUID>028F65FD-826A-4D5E-B70A-62E5D31CC3D6</DefaultChildTemplateUUID>
-                </BinderItem>
-                <BinderItem UUID="6EE00691-B91E-46AB-A1D8-9145E3AC0E7E" Type="Folder" Created="2022-02-20 16:47:18 -0500" Modified="2022-02-20 16:47:18 -0500">
-                    <Title>Front Matter</Title>
-                    <MetaData>
-                        <IncludeInCompile>Yes</IncludeInCompile>
-                        <IconFileName>Front Matter</IconFileName>
-                    </MetaData>
-                    <TextSettings>
-                        <TextSelection>0,0</TextSelection>
-                    </TextSettings>
-                    <Children>
-                        <BinderItem UUID="09250003-E83D-40B9-9003-A3805902D5F2" Type="Text" Created="2022-02-20 16:47:18 -0500" Modified="2022-02-20 16:47:19 -0500">
-                            <Title>Title Page</Title>
-                            <MetaData>
-                                <SectionType>924AD3CF-7782-4CCC-B7B9-186F46AE3305</SectionType>
-                                <IncludeInCompile>Yes</IncludeInCompile>
-                            </MetaData>
-                            <TextSettings>
-                                <TextSelection>0,0</TextSelection>
-                            </TextSettings>
-                        </BinderItem>
-                    </Children>
-                </BinderItem>
-                <BinderItem UUID="B1CE40FB-1DF3-415A-B9B5-DE4705AD4BFB" Type="Text" Created="2022-02-20 16:55:04 -0500" Modified="2022-02-20 16:55:36 -0500">
-                    <Title>Level 2</Title>
-                    <MetaData>
-                        <IncludeInCompile>Yes</IncludeInCompile>
-                        <IconFileName>Locations (Map)</IconFileName>
-                    </MetaData>
-                    <TextSettings>
-                        <TextMode>Script</TextMode>
-                        <TextSelection>0,0</TextSelection>
-                    </TextSettings>
-                    <Children>
-                        <BinderItem UUID="E20ECBE5-BC88-4478-A760-2CA96D128977" Type="Text" Created="2022-02-20 16:55:42 -0500" Modified="2022-02-20 16:56:02 -0500">
-                            <Title>Reception</Title>
-                            <MetaData>
-                                <IncludeInCompile>Yes</IncludeInCompile>
-                                <IconFileName>Locations (Location Sheet)</IconFileName>
-                            </MetaData>
-                            <TextSettings>
-                                <TextMode>Script</TextMode>
-                                <TextSelection>0,0</TextSelection>
-                            </TextSettings>
-                            <Children>
-                                <BinderItem UUID="1938150C-AE2B-449D-877D-7562C3A19ED3" Type="Text" Created="2022-02-20 16:47:18 -0500" Modified="2022-02-20 16:52:32 -0500">
-                                    <Title>Level 2</Title>
-                                    <MetaData>
-                                        <IncludeInCompile>Yes</IncludeInCompile>
-                                    </MetaData>
-                                    <TextSettings>
-                                        <TextMode>Script</TextMode>
-                                        <TextSelection>0,0</TextSelection>
-                                    </TextSettings>
-                                </BinderItem>
-                            </Children>
-                        </BinderItem>
-                    </Children>
-                </BinderItem>
-                <BinderItem UUID="04FC7F27-5318-4420-85E6-B02CFFEC3B77" Type="Text" Created="2022-02-20 19:03:59 -0500" Modified="2022-02-20 19:03:59 -0500">
-                    <MetaData>
-                        <IncludeInCompile>Yes</IncludeInCompile>
-                    </MetaData>
-                    <TextSettings>
-                        <TextMode>Script</TextMode>
-                        <TextSelection>0,0</TextSelection>
-                    </TextSettings>
-                </BinderItem>
-                <BinderItem UUID="70106D61-ABA4-4564-AF7C-5A4C55D519F3" Type="Folder" Created="2022-02-20 19:16:16 -0500" Modified="2022-02-20 19:16:16 -0500">
-                    <Title>New Folder</Title>
-                    <MetaData>
-                        <IncludeInCompile>Yes</IncludeInCompile>
-                    </MetaData>
-                    <TextSettings>
-                        <TextSelection>0,0</TextSelection>
-                    </TextSettings>
-                </BinderItem>
-                <BinderItem UUID="68B36711-EEB0-4690-ABF2-E7F9D186E5A9" Type="Text" Created="2022-02-20 19:24:09 -0500" Modified="2022-02-20 20:04:26 -0500">
-                    <Title>All that bullshit you fed us about user privacy...
-</Title>
-                    <MetaData>
-                        <IncludeInCompile>Yes</IncludeInCompile>
-                    </MetaData>
-                    <TextSettings>
-                        <TextMode>Script</TextMode>
-                        <TextSelection>57,0</TextSelection>
-                    </TextSettings>
-                </BinderItem>
-                <BinderItem UUID="45065D0B-6756-4B79-BF67-E36212590845" Type="Text" Created="2022-02-20 21:25:30 -0500" Modified="2022-02-20 21:25:30 -0500">
-                    <MetaData>
-                        <IncludeInCompile>Yes</IncludeInCompile>
-                    </MetaData>
-                    <TextSettings>
-                        <TextSelection>0,0</TextSelection>
-                    </TextSettings>
-                </BinderItem>
-                <BinderItem UUID="754E2C17-3326-470C-835A-99F0AD0EE65B" Type="Text" Created="2022-02-20 21:25:30 -0500" Modified="2022-02-20 21:25:30 -0500">
-                    <MetaData>
-                        <IncludeInCompile>Yes</IncludeInCompile>
-                    </MetaData>
-                    <TextSettings>
-                        <TextSelection>0,0</TextSelection>
-                    </TextSettings>
-                </BinderItem>
-                <BinderItem UUID="8260EEC8-D831-44A0-AEB4-1D3E534AC4B8" Type="Text" Created="2022-02-25 19:37:22 -0500" Modified="2022-02-25 19:38:09 -0500">
-                    <MetaData>
-                        <IncludeInCompile>Yes</IncludeInCompile>
-                    </MetaData>
-                    <TextSettings>
-                        <TextSelection>0,977</TextSelection>
-                    </TextSettings>
-                </BinderItem>
-                <BinderItem UUID="11A220DF-4395-4DB9-942D-2D2482C99B20" Type="Text" Created="2022-02-25 19:39:01 -0500" Modified="2022-02-25 19:39:12 -0500">
-                    <MetaData>
-                        <IncludeInCompile>Yes</IncludeInCompile>
-                    </MetaData>
-                    <TextSettings>
-                        <TextSelection>0,0</TextSelection>
-                    </TextSettings>
-                </BinderItem>
-                <BinderItem UUID="DDB2DFE7-69BD-436B-AD65-83DB90426F49" Type="Text" Created="2022-02-20 20:43:43 -0500" Modified="2022-02-24 16:40:40 -0500">
-                    <MetaData>
-                        <IncludeInCompile>Yes</IncludeInCompile>
-                    </MetaData>
-                    <TextSettings>
-                        <TextSelection>0,44</TextSelection>
-                    </TextSettings>
-                </BinderItem>
-                <BinderItem UUID="D090B799-E7BE-4887-AEB2-1271245A73D0" Type="Folder" Created="2022-02-20 20:43:14 -0500" Modified="2022-02-25 20:20:34 -0500">
-                    <Title>Level 1</Title>
-                    <MetaData>
-                        <IncludeInCompile>Yes</IncludeInCompile>
-                        <IconFileName>Locations (Map)</IconFileName>
-                    </MetaData>
-                    <TextSettings>
-                        <TextSelection>0,0</TextSelection>
-                    </TextSettings>
-                </BinderItem>
-                <BinderItem UUID="C553EBB9-51FA-42CB-AE18-C7D6A0D9FE3C" Type="Text" Created="2022-03-02 15:56:38 -0500" Modified="2022-03-02 15:56:38 -0500">
-                    <MetaData>
-                        <IncludeInCompile>Yes</IncludeInCompile>
-                    </MetaData>
-                    <TextSettings>
-                        <TextSelection>0,0</TextSelection>
-                    </TextSettings>
-                </BinderItem>
-                <BinderItem UUID="FD372C7E-4567-4D71-BCC2-F723ECC4D978" Type="Text" Created="2022-03-02 15:56:38 -0500" Modified="2022-03-02 15:56:38 -0500">
-                    <MetaData>
-                        <IncludeInCompile>Yes</IncludeInCompile>
-                    </MetaData>
-                    <TextSettings>
-                        <TextSelection>0,0</TextSelection>
-                    </TextSettings>
-                </BinderItem>
-                <BinderItem UUID="DFF08BD9-914A-4363-BB25-418C447BF663" Type="Text" Created="2022-03-07 17:13:59 -0500" Modified="2022-03-07 17:13:59 -0500">
-                    <MetaData>
-                        <IncludeInCompile>Yes</IncludeInCompile>
-                    </MetaData>
-                    <TextSettings>
-                        <TextSelection>0,0</TextSelection>
-                    </TextSettings>
-                </BinderItem>
-                <BinderItem UUID="A8FFA9C9-1B5A-4660-B9CF-FC13210F1DDE" Type="Text" Created="2022-03-15 16:54:43 -0400" Modified="2022-03-15 16:54:43 -0400">
-                    <MetaData>
-                        <IncludeInCompile>Yes</IncludeInCompile>
-                    </MetaData>
-                    <TextSettings>
-                        <TextSelection>0,0</TextSelection>
-                    </TextSettings>
-                </BinderItem>
-                <BinderItem UUID="E038C23E-0FAB-4CE6-9CC4-DBA6743E0E49" Type="Text" Created="2022-03-15 16:50:12 -0400" Modified="2022-03-15 16:51:51 -0400">
-                    <Title>Puzzle 2 - Transition - Lobby to Atrium</Title>
-                    <MetaData>
-                        <IncludeInCompile>Yes</IncludeInCompile>
-                    </MetaData>
-                    <TextSettings>
-                        <TextSelection>0,0</TextSelection>
-                    </TextSettings>
-                </BinderItem>
-                <BinderItem UUID="6EC4B857-2E70-4C05-B871-B0DEAAD59340" Type="Text" Created="2022-03-15 16:51:13 -0400" Modified="2022-03-15 16:52:47 -0400">
-                    <Title>Puzzle 3 - Transition - Atrium to Offices</Title>
-                    <MetaData>
-                        <IncludeInCompile>Yes</IncludeInCompile>
-                    </MetaData>
-                    <TextSettings>
-                        <TextSelection>0,0</TextSelection>
-                    </TextSettings>
-                </BinderItem>
-                <BinderItem UUID="A2790911-FCA4-4985-A3E4-FBB5AA744B87" Type="Text" Created="2022-03-15 16:52:48 -0400" Modified="2022-03-15 16:53:11 -0400">
-                    <Title>Puzzle 4 - Bridging the Wall</Title>
-                    <MetaData>
-                        <IncludeInCompile>Yes</IncludeInCompile>
-                    </MetaData>
-                    <TextSettings>
-                        <TextSelection>0,0</TextSelection>
-                    </TextSettings>
-                </BinderItem>
-                <BinderItem UUID="94527FA3-E65A-494A-B4D7-14B9ED740838" Type="Text" Created="2022-03-15 16:53:13 -0400" Modified="2022-03-15 16:53:43 -0400">
-                    <Title>Puzzle 5 - Transition - Offices to Break Room</Title>
-                    <MetaData>
-                        <IncludeInCompile>Yes</IncludeInCompile>
-                    </MetaData>
-                    <TextSettings>
-                        <TextSelection>0,0</TextSelection>
-                    </TextSettings>
-                </BinderItem>
-                <BinderItem UUID="4D6C0F19-295F-4286-B9C3-79451BC85FC0" Type="Text" Created="2022-03-15 16:53:47 -0400" Modified="2022-03-15 16:55:09 -0400">
-                    <Title>Puzzle 6 - Walking On Objects</Title>
-                    <MetaData>
-                        <IncludeInCompile>Yes</IncludeInCompile>
-                    </MetaData>
-                    <TextSettings>
-                        <TextSelection>0,0</TextSelection>
-                    </TextSettings>
-                </BinderItem>
-                <BinderItem UUID="FE82BE07-6B9F-48B2-9381-BAA4EAF337B7" Type="Text" Created="2022-03-15 16:55:11 -0400" Modified="2022-03-15 16:55:11 -0400">
-                    <MetaData>
-                        <IncludeInCompile>Yes</IncludeInCompile>
-                    </MetaData>
-                    <TextSettings>
-                        <TextSelection>0,0</TextSelection>
-                    </TextSettings>
-                </BinderItem>
-            </Children>
         </BinderItem>
     </Binder>
     <Collections>
@@ -1259,13 +1022,13 @@ Can I go to a party on Saturday?
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="Yes" Deadline="2011-04-21 06:44:59 -0400" IgnoreDeadline="Yes">0</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="No" NextResetDate="2022-03-24 01:00:00 -0400" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
-        <PreviousSession Words="0" Characters="0" Date="2022-03-23 13:14:41 -0400"/>
+        <PreviousSession Words="0" Characters="0" Date="2022-03-23 13:32:38 -0400"/>
     </ProjectTargets>
     <RecentWritingHistory Date="2022-03-23 00:00:00 -0400">
         <DraftWordCount>0</DraftWordCount>
         <DraftCharCount>0</DraftCharCount>
-        <OtherWordCount>0</OtherWordCount>
-        <OtherCharCount>0</OtherCharCount>
+        <OtherWordCount>5</OtherWordCount>
+        <OtherCharCount>23</OtherCharCount>
     </RecentWritingHistory>
     <TemplateFolderUUID>0B19D630-7D8D-4209-9D3D-205B3441842A</TemplateFolderUUID>
     <BookmarksFolderUUID>9C83B8CC-A802-4AE8-B3AE-38CD6B7FF1ED</BookmarksFolderUUID>

@@ -1,1 +1,0 @@
-Here the player must navigate the 2D character around a wall by standing looking at the width of the wall creating a small gap they have to jump over in 2D (I don’t think this requires a separate checkpoint.)

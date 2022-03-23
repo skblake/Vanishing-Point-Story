@@ -1,1 +1,0 @@
-From the planter in the atrium the player can back up and reposition to jump in 2D from the planter to room 3.
