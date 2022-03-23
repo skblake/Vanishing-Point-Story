@@ -1,0 +1,1 @@
+The player transfers the 2D character onto the water cooler and corkboard in the break room and moves it from there onto the stairway and upwards.

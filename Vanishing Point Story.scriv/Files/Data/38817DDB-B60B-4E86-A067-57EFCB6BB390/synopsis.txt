@@ -1,0 +1,1 @@
+The lobby puzzle starts with the player switching into 2D mode while looking at the Reception Desk. The 2D character falls onto the desk and the player navigates it over to the planter box. The player is tasked with exiting the reception room and must realize that the first step is to put the 2D character in somewhere they can see it from outside the room

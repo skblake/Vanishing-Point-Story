@@ -1,0 +1,1 @@
+The player navigates to 2D character from the server room exit door to the executive office. The player lines up the 2D character with the boxes along the hallway to move the 2D character along a long hallway.

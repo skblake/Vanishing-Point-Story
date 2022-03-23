@@ -1,0 +1,1 @@
+From the pillar the player moves the 2D character to the server room. The player lines up the pillar with the wall similarly to the previous puzzle. 

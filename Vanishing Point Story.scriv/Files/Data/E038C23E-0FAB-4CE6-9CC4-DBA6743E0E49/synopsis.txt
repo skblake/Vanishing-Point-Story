@@ -1,0 +1,1 @@
+The player exits the lobby into the atrium. As they look back into the lobby they can transform into 2D mode and move the 2D character from the planter in the lobby to the planter in the atrium. (I don’t think this requires a separate checkpoint.)

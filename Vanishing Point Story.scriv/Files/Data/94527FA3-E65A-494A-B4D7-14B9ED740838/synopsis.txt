@@ -1,0 +1,1 @@
+The player navigates the 2D character to a desk in this corner of the office and then has to make their way to the break room to solve the next puzzle. 
