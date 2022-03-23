@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Identifier="F1BB5BCB-C42B-4817-93C5-482B8E656448" Version="2.0" Creator="SCRMAC-3.2.3-14869" Device="Sams-MacBook-Pro" Author="" Modified="2022-03-23 13:14:43 -0400" ModID="6C4A3F3F-2344-416B-B674-506CACA9FEB3">
+<ScrivenerProject Identifier="F1BB5BCB-C42B-4817-93C5-482B8E656448" Version="2.0" Creator="SCRMAC-3.2.3-14869" Device="Sams-MacBook-Pro" Author="" Modified="2022-03-23 13:29:43 -0400" ModID="3BF513F9-B61D-46EB-851C-20FE5D541E6B">
     <Binder>
         <BinderItem UUID="3C57A925-E91E-4D5D-A1D6-F16A2F7A3D35" Type="DraftFolder" Created="2022-02-20 16:47:18 -0500" Modified="2022-02-20 19:05:15 -0500">
             <Title>Spatial Audio</Title>
@@ -666,8 +666,8 @@ Can I go to a party on Saturday?
                 </BinderItem>
             </Children>
         </BinderItem>
-        <BinderItem UUID="9C83B8CC-A802-4AE8-B3AE-38CD6B7FF1ED" Type="Folder" Created="2022-02-20 16:47:18 -0500" Modified="2022-02-20 16:47:18 -0500">
-            <Title>Notes</Title>
+        <BinderItem UUID="9C83B8CC-A802-4AE8-B3AE-38CD6B7FF1ED" Type="Folder" Created="2022-02-20 16:47:18 -0500" Modified="2022-03-23 13:29:34 -0400">
+            <Title>Sam's Notes</Title>
             <MetaData>
                 <IncludeInCompile>Yes</IncludeInCompile>
                 <IconFileName>Notes (Yellow Notepad)</IconFileName>
@@ -1259,7 +1259,7 @@ Can I go to a party on Saturday?
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="Yes" Deadline="2011-04-21 06:44:59 -0400" IgnoreDeadline="Yes">0</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="No" NextResetDate="2022-03-24 01:00:00 -0400" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
-        <PreviousSession Words="0" Characters="0" Date="2022-03-23 13:14:41 -0400"/>
+        <PreviousSession Words="0" Characters="0" Date="2022-03-23 13:29:09 -0400"/>
     </ProjectTargets>
     <RecentWritingHistory Date="2022-03-23 00:00:00 -0400">
         <DraftWordCount>0</DraftWordCount>
