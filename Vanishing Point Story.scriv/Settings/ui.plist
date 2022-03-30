@@ -24,7 +24,7 @@
 	<key>binderSplitFrames</key>
 	<array>
 		<string>{{0, 0}, {175, 817}}</string>
-		<string>{{176, 0}, {689, 817}}</string>
+		<string>{{176, 0}, {1034, 817}}</string>
 	</array>
 	<key>binderState</key>
 	<array>
@@ -554,7 +554,7 @@
 	<key>mainDocumentEditor.rulerIsVisible</key>
 	<false/>
 	<key>mainDocumentEditor.scrollRect</key>
-	<string>{{0, 0}, {620, 731}}</string>
+	<string>{{0, 0}, {620, 294}}</string>
 	<key>mainDocumentEditor.selectedRanges</key>
 	<string>{0, 0}</string>
 	<key>mainDocumentEditor.textEditorState</key>
@@ -565,7 +565,7 @@
 	<key>mainDocumentEditor.textMode</key>
 	<integer>1</integer>
 	<key>mainWindowFrame</key>
-	<string>640 99 865 845 0 0 1512 944 </string>
+	<string>17 99 1210 845 0 0 1512 944 </string>
 	<key>pageSizeOption</key>
 	<integer>0</integer>
 	<key>searchResultsTable</key>
