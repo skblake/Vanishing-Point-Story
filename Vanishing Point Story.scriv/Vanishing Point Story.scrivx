@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Identifier="F1BB5BCB-C42B-4817-93C5-482B8E656448" Version="2.0" Creator="SCRMAC-3.2.3-14869" Device="Sams-MacBook-Pro" Author="" Modified="2022-03-30 14:29:12 -0400" ModID="BED8094A-861A-44D9-A3D2-A3BB2B0A1CA2">
+<ScrivenerProject Identifier="F1BB5BCB-C42B-4817-93C5-482B8E656448" Version="2.0" Creator="SCRMAC-3.2.3-14869" Device="Sams-MacBook-Pro" Author="" Modified="2022-03-30 19:43:23 -0400" ModID="CD572DD0-2A6A-4ED4-A787-58922F46292C">
     <Binder>
         <BinderItem UUID="3C57A925-E91E-4D5D-A1D6-F16A2F7A3D35" Type="DraftFolder" Created="2022-02-20 16:47:18 -0500" Modified="2022-02-20 19:05:15 -0500">
             <Title>Spatial Audio</Title>
@@ -755,6 +755,15 @@ Can I go to a party on Saturday?
                         <TextSelection>249,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
+                <BinderItem UUID="1CFF7C40-5E1B-41C6-A639-083ADD6D2109" Type="Text" Created="2022-03-30 19:41:53 -0400" Modified="2022-03-30 19:43:23 -0400">
+                    <Title>30 March 2022</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>474,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
             </Children>
         </BinderItem>
         <BinderItem UUID="4CE87667-6228-4C7B-BF06-89444FF9AAB2" Type="Folder" Created="2022-03-15 17:38:42 -0400" Modified="2022-03-15 17:38:44 -0400">
@@ -1032,13 +1041,13 @@ Can I go to a party on Saturday?
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="Yes" Deadline="2011-04-21 06:44:59 -0400" IgnoreDeadline="Yes">0</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="No" NextResetDate="2022-03-31 01:00:00 -0400" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
-        <PreviousSession Words="0" Characters="0" Date="2022-03-30 14:29:07 -0400"/>
+        <PreviousSession Words="0" Characters="0" Date="2022-03-30 19:41:48 -0400"/>
     </ProjectTargets>
     <RecentWritingHistory Date="2022-03-30 00:00:00 -0400">
         <DraftWordCount>0</DraftWordCount>
         <DraftCharCount>0</DraftCharCount>
-        <OtherWordCount>0</OtherWordCount>
-        <OtherCharCount>0</OtherCharCount>
+        <OtherWordCount>85</OtherWordCount>
+        <OtherCharCount>474</OtherCharCount>
     </RecentWritingHistory>
     <TemplateFolderUUID>0B19D630-7D8D-4209-9D3D-205B3441842A</TemplateFolderUUID>
     <BookmarksFolderUUID>9C83B8CC-A802-4AE8-B3AE-38CD6B7FF1ED</BookmarksFolderUUID>
