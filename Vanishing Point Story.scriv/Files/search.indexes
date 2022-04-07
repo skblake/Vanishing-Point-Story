@@ -12,6 +12,14 @@
             <Text>BRENT
 I understand. It’ll be ready.</Text>
         </Document>
+        <Document ID="340233AC-7F73-4175-9038-6E113D068550">
+            <Title>Puzzle 5 - Bathroom - Selective Overlap</Title>
+            <Text>
+
+In the bathroom: The sink Teaching the concept of selective overlap
+
+</Text>
+        </Document>
         <Document ID="60BEFF3B-B66C-4CD8-891A-36496EE6D71F">
             <Title>Unplaced</Title>
         </Document>
@@ -341,6 +349,14 @@ presentation requirements will be emailed out this week.
 
 </Text>
         </Document>
+        <Document ID="9D79A4DF-DC88-4A43-9F1C-B730EDFB0228">
+            <Title>Puzzle 2 - Living Room - Wrapping Around Walls</Title>
+            <Text>
+
+Wrapping around walls: At the wall opposite the couch the second file with documentation Tells you about how placing yourself in certain positions to bridge gaps
+
+</Text>
+        </Document>
         <Document ID="06C48358-7DB0-4DC4-B076-EBA15D01FF32">
             <Title>We just need to be flexible right now. Once this project is done, I’ll have a lot more...
 </Title>
@@ -495,9 +511,32 @@ Are you threatening me?</Text>
             <Title>L2A: THE C.O.V.E. OFFICES</Title>
             <Synopsis>☞ At the time of the snapshot, Brent was hyper-focusing on a work project called Asphodel.  ☞ Asphodel generates an AI based on the user’s personality.</Synopsis>
         </Document>
+        <Document ID="1846D468-65A3-4792-ABF8-67BBFEA1A525">
+            <Title>End - Office</Title>
+            <Text>
+
+Last file on brents desk Give a narrative break to the level to tie up the tutoria
+
+</Text>
+        </Document>
         <Document ID="38DD2931-EA09-44D0-A48A-847ED1A11FB3">
             <Title>L2-OS: </Title>
             <Synopsis>☞ Echo’s personality has been corrupted (limited functionality). </Synopsis>
+        </Document>
+        <Document ID="D7B799F1-D8CF-4F8F-A6AF-CCC038153F84">
+            <Title>Introduction</Title>
+            <Text>
+Start of the tutorial quip: Echo gives you an introduction to the program Tells you to right click to get into 2d mode
+
+
+Welcome to Agave Debugger. I’m Echo, and I'm here to help!
+Let’s get started!
+	•	Click to debug. 
+	•	Press ‘E’ for help.
+	•	Press ‘Q’ to close this dialog. 
+
+
+</Text>
         </Document>
         <Document ID="7FC829A2-1581-4589-A568-5113E351B83E">
             <Title>Puzzle 2 - Pillar to Server Room</Title>
@@ -584,6 +623,15 @@ See “Why People Hate the Paperclip: Labels, Appearance, Behavior, and Social R
         <Document ID="9C83B8CC-A802-4AE8-B3AE-38CD6B7FF1ED">
             <Title>Sam's Notes</Title>
         </Document>
+        <Document ID="32BF50D5-48A1-4CAC-BC76-16560A295E9E">
+            <Title>Puzzle 3 - Brent's Room - Entering &amp; Exiting Rooms</Title>
+            <Text>
+
+Entering and exiting rooms: In the closet of brents room third documentation file Talk about how not all puzzles are contained to a single room and to think of creative places to change your perspective
+
+
+</Text>
+        </Document>
         <Document ID="0B8B95E1-23BD-47BE-B12F-6ABCCDE34940">
             <Title>Listen––I know. I know. It’s going to be fine. I’ll handle it.</Title>
             <Text>A coworker WHISPERS something to Brent.
@@ -603,6 +651,16 @@ The passion is very important in this. </Text>
         <Document ID="07CF87E8-8EBD-4AF6-81F0-02EB58ED1584">
             <Title>L1: WATTERS FAMILY HOME</Title>
             <Synopsis>☞ Brent is a single father to his 12-year-old daughter, Eloise.  ☞ Eloise skipped two grades in school and struggles to relate to other kids in her grade.</Synopsis>
+        </Document>
+        <Document ID="08D42754-B6D5-4542-8597-F504F6DCEEE4">
+            <Title>Puzzle 4 - Eloise's Room - Single Object, Multiple Perspectives</Title>
+            <Text>
+
+Single object multiple perspectives: On eloise’s desk Using a single object but moving the 3d perspective around it
+
+
+
+</Text>
         </Document>
         <Document ID="1CFF7C40-5E1B-41C6-A639-083ADD6D2109">
             <Title>30 March 2022</Title>
@@ -864,6 +922,15 @@ Sounds:
             <Title>My team is working on a project that will revolutionize the fields of...</Title>
             <Text>BRENT
 My team has cracked the puzzle of simulated consciousness––and with your funding, C.O.V.E. will take the Divergence Drive online, where it will improve the lives of our users and revolutionize the field of artificial intelligence.</Text>
+        </Document>
+        <Document ID="18384B12-6B62-43EB-9D46-8532DFA7B969">
+            <Title>Puzzle 1 - Entryway - Distance Platforming</Title>
+            <Text>
+Distance platforming: At the corner of the first wall and the couch the first file with documentation appears Tells you about the concept of flattening distant spaces into 2d
+
+
+This file is called ‘home.3dv’. 
+</Text>
         </Document>
         <Document ID="0B19D630-7D8D-4209-9D3D-205B3441842A">
             <Title>Template Sheets</Title>

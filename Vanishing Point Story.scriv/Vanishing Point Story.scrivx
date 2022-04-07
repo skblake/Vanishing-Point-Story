@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Identifier="F1BB5BCB-C42B-4817-93C5-482B8E656448" Version="2.0" Creator="SCRMAC-3.2.3-14869" Device="Sams-MacBook-Pro" Author="" Modified="2022-03-30 19:43:23 -0400" ModID="CD572DD0-2A6A-4ED4-A787-58922F46292C">
+<ScrivenerProject Identifier="F1BB5BCB-C42B-4817-93C5-482B8E656448" Version="2.0" Creator="SCRMAC-3.2.3-14869" Device="Sams-MacBook-Pro" Author="" Modified="2022-04-06 15:51:43 -0400" ModID="2598AE3E-0A56-4783-B7AF-B237B133FCA7">
     <Binder>
         <BinderItem UUID="3C57A925-E91E-4D5D-A1D6-F16A2F7A3D35" Type="DraftFolder" Created="2022-02-20 16:47:18 -0500" Modified="2022-02-20 19:05:15 -0500">
             <Title>Spatial Audio</Title>
@@ -447,6 +447,71 @@ Can I go to a party on Saturday?
                     <TextSettings>
                         <TextSelection>0,0</TextSelection>
                     </TextSettings>
+                    <Children>
+                        <BinderItem UUID="D7B799F1-D8CF-4F8F-A6AF-CCC038153F84" Type="Text" Created="2022-04-06 15:16:58 -0400" Modified="2022-04-06 15:33:35 -0400">
+                            <Title>Introduction</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>281,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="18384B12-6B62-43EB-9D46-8532DFA7B969" Type="Text" Created="2022-04-06 15:13:56 -0400" Modified="2022-04-06 15:51:43 -0400">
+                            <Title>Puzzle 1 - Entryway - Distance Platforming</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>210,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="9D79A4DF-DC88-4A43-9F1C-B730EDFB0228" Type="Text" Created="2022-04-06 15:14:02 -0400" Modified="2022-04-06 15:17:46 -0400">
+                            <Title>Puzzle 2 - Living Room - Wrapping Around Walls</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>165,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="32BF50D5-48A1-4CAC-BC76-16560A295E9E" Type="Text" Created="2022-04-06 15:14:20 -0400" Modified="2022-04-06 15:24:47 -0400">
+                            <Title>Puzzle 3 - Brent's Room - Entering &amp; Exiting Rooms</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>207,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="08D42754-B6D5-4542-8597-F504F6DCEEE4" Type="Text" Created="2022-04-06 15:14:31 -0400" Modified="2022-04-06 15:26:04 -0400">
+                            <Title>Puzzle 4 - Eloise's Room - Single Object, Multiple Perspectives</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>117,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="340233AC-7F73-4175-9038-6E113D068550" Type="Text" Created="2022-04-06 15:14:51 -0400" Modified="2022-04-06 15:26:13 -0400">
+                            <Title>Puzzle 5 - Bathroom - Selective Overlap</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>71,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="1846D468-65A3-4792-ABF8-67BBFEA1A525" Type="Text" Created="2022-04-06 15:15:10 -0400" Modified="2022-04-06 15:26:24 -0400">
+                            <Title>End - Office</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>86,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                    </Children>
                 </BinderItem>
                 <BinderItem UUID="2FDCBA14-4445-48E0-BF59-C0A4DE3BC46D" Type="Folder" Created="2022-02-20 20:43:14 -0500" Modified="2022-03-15 17:05:55 -0400">
                     <Title>L1-OS: </Title>
@@ -980,6 +1045,14 @@ Can I go to a party on Saturday?
                         <TextSelection>0,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
+                <BinderItem UUID="0C26215B-9137-4D1C-A5B6-8AAC04E55CF0" Type="Text" Created="2022-04-06 15:13:37 -0400" Modified="2022-04-06 15:17:12 -0400">
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
             </Children>
         </BinderItem>
     </Binder>
@@ -1040,14 +1113,14 @@ Can I go to a party on Saturday?
     </StatusSettings>
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="Yes" Deadline="2011-04-21 06:44:59 -0400" IgnoreDeadline="Yes">0</DraftTarget>
-        <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="No" NextResetDate="2022-03-31 01:00:00 -0400" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
-        <PreviousSession Words="0" Characters="0" Date="2022-03-30 19:41:48 -0400"/>
+        <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="No" NextResetDate="2022-04-07 01:00:00 -0400" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
+        <PreviousSession Words="0" Characters="0" Date="2022-04-06 15:13:11 -0400"/>
     </ProjectTargets>
-    <RecentWritingHistory Date="2022-03-30 00:00:00 -0400">
+    <RecentWritingHistory Date="2022-04-06 00:00:00 -0400">
         <DraftWordCount>0</DraftWordCount>
         <DraftCharCount>0</DraftCharCount>
-        <OtherWordCount>85</OtherWordCount>
-        <OtherCharCount>474</OtherCharCount>
+        <OtherWordCount>192</OtherWordCount>
+        <OtherCharCount>1142</OtherCharCount>
     </RecentWritingHistory>
     <TemplateFolderUUID>0B19D630-7D8D-4209-9D3D-205B3441842A</TemplateFolderUUID>
     <BookmarksFolderUUID>9C83B8CC-A802-4AE8-B3AE-38CD6B7FF1ED</BookmarksFolderUUID>
