@@ -111,6 +111,11 @@
 			<key>Row</key>
 			<integer>-1</integer>
 		</dict>
+		<key>1992CE9A-54AD-4769-A22D-4E7D26DABABE</key>
+		<dict>
+			<key>Row</key>
+			<integer>-1</integer>
+		</dict>
 		<key>1CFF7C40-5E1B-41C6-A639-083ADD6D2109</key>
 		<dict>
 			<key>Row</key>
@@ -237,6 +242,11 @@
 			<integer>-1</integer>
 		</dict>
 		<key>5C3323D1-35CC-4199-9777-C3828CF63AF9</key>
+		<dict>
+			<key>Row</key>
+			<integer>-1</integer>
+		</dict>
+		<key>5C877FDA-F490-49FD-8156-7781A6FB000B</key>
 		<dict>
 			<key>Row</key>
 			<integer>-1</integer>
@@ -386,6 +396,11 @@
 			<key>Row</key>
 			<integer>-1</integer>
 		</dict>
+		<key>B88BFD4A-5DE1-482E-A7AE-84F2786F60D1</key>
+		<dict>
+			<key>Row</key>
+			<integer>-1</integer>
+		</dict>
 		<key>C44CD7E8-6BDB-49A2-A51D-C6C4E69872BF</key>
 		<dict>
 			<key>Row</key>
@@ -457,6 +472,21 @@
 			<integer>-1</integer>
 		</dict>
 		<key>F644FF95-8289-4698-BF8E-871AF6074B5E</key>
+		<dict>
+			<key>Row</key>
+			<integer>-1</integer>
+		</dict>
+		<key>F89204D0-EC98-484F-8469-C59EDFBC3286</key>
+		<dict>
+			<key>Row</key>
+			<integer>-1</integer>
+		</dict>
+		<key>FAD2AB15-44F8-4265-9908-E7EDDC03324F</key>
+		<dict>
+			<key>Row</key>
+			<integer>-1</integer>
+		</dict>
+		<key>FB2F994D-589A-46D0-94DB-B019ADA7A9C9</key>
 		<dict>
 			<key>Row</key>
 			<integer>-1</integer>
@@ -624,7 +654,7 @@
 		<array/>
 	</dict>
 	<key>supportingDocumentEditor.scrollRect</key>
-	<string>{{0, 0}, {620, 294}}</string>
+	<string>{{0, 0}, {606, 294}}</string>
 	<key>supportingDocumentEditor.selectedItemIDs</key>
 	<array/>
 	<key>supportingDocumentEditor.selectedItemUUIDs</key>
