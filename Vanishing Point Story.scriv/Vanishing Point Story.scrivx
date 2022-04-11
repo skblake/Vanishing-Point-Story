@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Template="No" Version="2.0" Identifier="F1BB5BCB-C42B-4817-93C5-482B8E656448" Creator="SCRWIN-3.1.1.0" Device="LAPTOP-CC1T0PUN" Modified="2022-04-06 16:26:38 -0400" ModID="0AC1B906-C2E3-41B8-817A-1922E1A7F312">
+<ScrivenerProject Template="No" Version="2.0" Identifier="F1BB5BCB-C42B-4817-93C5-482B8E656448" Creator="SCRWIN-3.1.1.0" Device="LAPTOP-CC1T0PUN" Modified="2022-04-11 14:17:24 -0400" ModID="EBA0A7E0-FA9E-4EA0-A73E-55A8DE8B7044">
     <Binder>
         <BinderItem UUID="3C57A925-E91E-4D5D-A1D6-F16A2F7A3D35" Type="DraftFolder" Created="2022-02-20 16:47:18 -0400" Modified="2022-02-20 19:05:15 -0400">
             <Title>Spatial Audio</Title>
@@ -942,58 +942,58 @@ Can I go to a party on Saturday?
                         <TextSelection>305,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem UUID="5C877FDA-F490-49FD-8156-7781A6FB000B" Type="Text" Created="2022-04-06 14:48:30 -0400" Modified="2022-04-06 15:30:53 -0400">
+                <BinderItem UUID="5C877FDA-F490-49FD-8156-7781A6FB000B" Type="Text" Created="2022-04-06 14:48:30 -0400" Modified="2022-04-11 14:03:23 -0400">
                     <Title>Distance platforming</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>440,0</TextSelection>
+                        <TextSelection>554,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem UUID="B88BFD4A-5DE1-482E-A7AE-84F2786F60D1" Type="Text" Created="2022-04-06 14:48:42 -0400" Modified="2022-04-06 15:35:22 -0400">
+                <BinderItem UUID="B88BFD4A-5DE1-482E-A7AE-84F2786F60D1" Type="Text" Created="2022-04-06 14:48:42 -0400" Modified="2022-04-11 14:04:28 -0400">
                     <Title>Wrapping around walls</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>497,0</TextSelection>
+                        <TextSelection>624,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem UUID="FB2F994D-589A-46D0-94DB-B019ADA7A9C9" Type="Text" Created="2022-04-06 14:48:49 -0400" Modified="2022-04-06 15:36:35 -0400">
+                <BinderItem UUID="FB2F994D-589A-46D0-94DB-B019ADA7A9C9" Type="Text" Created="2022-04-06 14:48:49 -0400" Modified="2022-04-11 14:08:20 -0400">
                     <Title>Entering and exiting rooms</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>135,0</TextSelection>
+                        <TextSelection>379,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem UUID="4219E723-FE9D-47DB-9763-8D4AC2F332A8" Type="Text" Created="2022-04-06 14:48:58 -0400" Modified="2022-04-06 15:48:01 -0400">
+                <BinderItem UUID="4219E723-FE9D-47DB-9763-8D4AC2F332A8" Type="Text" Created="2022-04-06 14:48:58 -0400" Modified="2022-04-11 14:10:48 -0400">
                     <Title>Single object multiple perspectives</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>373,0</TextSelection>
+                        <TextSelection>430,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem UUID="4BF92F67-4760-4490-9BDA-BAA8EC41E6AF" Type="Text" Created="2022-04-06 14:49:10 -0400" Modified="2022-04-06 15:49:58 -0400">
+                <BinderItem UUID="4BF92F67-4760-4490-9BDA-BAA8EC41E6AF" Type="Text" Created="2022-04-06 14:49:10 -0400" Modified="2022-04-11 14:12:57 -0400">
                     <Title>In the bathroom</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>443,0</TextSelection>
+                        <TextSelection>533,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem UUID="1992CE9A-54AD-4769-A22D-4E7D26DABABE" Type="Text" Created="2022-04-06 14:49:16 -0400" Modified="2022-04-06 16:26:35 -0400">
+                <BinderItem UUID="1992CE9A-54AD-4769-A22D-4E7D26DABABE" Type="Text" Created="2022-04-06 14:49:16 -0400" Modified="2022-04-11 14:17:15 -0400">
                     <Title>Inverted mechanics</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>358,0</TextSelection>
+                        <TextSelection>524,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
                 <BinderItem UUID="58D33BF7-420A-4483-A2E5-3E67DD51AE81" Type="Text" Created="2022-04-06 14:49:23 -0400" Modified="2022-04-06 14:49:30 -0400">
@@ -1148,7 +1148,7 @@ Can I go to a party on Saturday?
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="Yes" Deadline="2011-04-21 06:44:59 -0400" IgnoreDeadline="Yes">0</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="No" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" CanWriteOnDeadlineDate="No" WritingDays="">0</SessionTarget>
-        <PreviousSession Words="0" Characters="0" Date="2022-04-06 16:26:38 -0400"/>
+        <PreviousSession Words="0" Characters="0" Date="2022-04-11 14:17:24 -0400"/>
     </ProjectTargets>
     <AutoCompleteList>
         <Completion Scope="2">Brent</Completion>
@@ -1156,11 +1156,11 @@ Can I go to a party on Saturday?
     </AutoCompleteList>
     <TemplateFolderUUID>0B19D630-7D8D-4209-9D3D-205B3441842A</TemplateFolderUUID>
     <BookmarksFolderUUID>9C83B8CC-A802-4AE8-B3AE-38CD6B7FF1ED</BookmarksFolderUUID>
-    <RecentWritingHistory Date="2022-04-06 00:00:00 -0400">
+    <RecentWritingHistory Date="2022-04-11 00:00:00 -0400">
         <DraftWordCount>0</DraftWordCount>
         <DraftCharCount>0</DraftCharCount>
-        <OtherWordCount>464</OtherWordCount>
-        <OtherCharCount>2601</OtherCharCount>
+        <OtherWordCount>175</OtherWordCount>
+        <OtherCharCount>994</OtherCharCount>
     </RecentWritingHistory>
     <PrintSettings PaperSize="612.0,792.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="na-letter" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"/>
 </ScrivenerProject>

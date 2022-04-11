@@ -58,7 +58,10 @@
         <Document ID="1992CE9A-54AD-4769-A22D-4E7D26DABABE">
             <Title>Inverted mechanics</Title>
             <Text>In the same way you can use your perspective to overlap hazards with platforms, you can also use your perspective to create negative space in walls. It can be helpful to tunnel through platforms you might otherwise not be able to pass through.
-You’ve got lots of options when it comes to getting through areas that might seem blocked off at first glance, so be sure to keep an eye out for possible shortcuts.</Text>
+You’ve got lots of options when it comes to getting through areas that might seem blocked off at first glance, so be sure to keep an eye out for possible shortcuts.
+
+- You can also put objects which create negative space between you and a solid object to allow Echo to tunnel through them
+- This can be necessary to pass through walls blocking Echo from your route to the next document</Text>
         </Document>
         <Document ID="1CFF7C40-5E1B-41C6-A639-083ADD6D2109">
             <Title>30 March 2022</Title>
@@ -251,7 +254,9 @@ FADE OUT.
         <Document ID="4219E723-FE9D-47DB-9763-8D4AC2F332A8">
             <Title>Single object multiple perspectives</Title>
             <Text>Sometimes, a single object might be positioned in a way that could give you access to other platforms, if you consider your route carefully. Try wrapping around objects to get from one part of the room to another.
-You can do so by walking Echo to one side of the object when in the 2D platforming mode, then switching back to 3D and walking around it to repeat the process.</Text>
+You can do so by walking Echo to one side of the object when in the 2D platforming mode, then switching back to 3D and walking around it to repeat the process.
+
+- Wrap around objects by entering 2D mode, moving Echo all the way to one side, then walking around to that side in 3D</Text>
         </Document>
         <Document ID="43533C4E-F9CF-4CA7-81DA-E0512299A95D">
             <Title>Puzzle 3 - Server Room</Title>
@@ -273,7 +278,10 @@ You can do so by walking Echo to one side of the object when in the 2D platformi
         <Document ID="4BF92F67-4760-4490-9BDA-BAA8EC41E6AF">
             <Title>In the bathroom</Title>
             <Text>When you position your perspective creatively, you can use objects in the room to block potential hazards. See if you can find items which can place negative space over obstacles, or which can replace them with traversable platforms.
-Every hazardous platform in the space can be navigated around in some way, so do your best to find a path which will allow you to cover up anything that might get in the way between Echo and the next document.</Text>
+Every hazardous platform in the space can be navigated around in some way, so do your best to find a path which will allow you to cover up anything that might get in the way between Echo and the next document.
+
+- Hazardous objects can create a significant barrier between Echo and the next objective
+- Put objects between you and hazards to pass through or navigate around them</Text>
         </Document>
         <Document ID="4CE87667-6228-4C7B-BF06-89444FF9AAB2">
             <Title>Research</Title>
@@ -289,7 +297,11 @@ Every hazardous platform in the space can be navigated around in some way, so do
         <Document ID="5C877FDA-F490-49FD-8156-7781A6FB000B">
             <Title>Distance platforming</Title>
             <Text>When you enter the 2D platforming mode, everything in your field of vision is flattened onto a single plane. To navigate across the space, be sure to position yourself and make use of any possible platforming surfaces, no matter how far away.
-It’s always worth getting a good sense of the space around you before you start navigating Echo. Try to identify routes while you walk around the space first, then get Echo from point A to point B.</Text>
+It’s always worth getting a good sense of the space around you before you start navigating Echo. Try to identify routes while you walk around the space first, then get Echo from point A to point B.
+
+- LEFT CLICK to flatten your point of view
+- WASD to control Echo in the 2D space
+- Be aware of your perspective</Text>
         </Document>
         <Document ID="5D01B960-E88B-41E0-BE9C-ADD7133FF134">
             <Title>Plot Drafting - 2 March 2022</Title>
@@ -411,7 +423,10 @@ Can I go to a party on Saturday?
         <Document ID="B88BFD4A-5DE1-482E-A7AE-84F2786F60D1">
             <Title>Wrapping around walls</Title>
             <Text>Where you position yourself can open up new passages and bridge gaps across the 2D space. Be sure to use your perspective strategically to wrap around doorways and hop between platforms that may, at first, appear too far apart.
-Where you move in the 3D space can push surfaces closer together or grant you access to platforms in another room. For example, if you stand in the doorway between two areas, you might be able to use the angle of your perspective to create a path from one to the other.</Text>
+Where you move in the 3D space can push surfaces closer together or grant you access to platforms in another room. For example, if you stand in the doorway between two areas, you might be able to use the angle of your perspective to create a path from one to the other.
+
+- Use your perspective to reveal new paths
+- Pay attention to your distance from objects and the angle at which you view them</Text>
         </Document>
         <Document ID="C44CD7E8-6BDB-49A2-A51D-C6C4E69872BF">
             <Title>Puzzle 6 - Walking On Objects</Title>
@@ -480,7 +495,11 @@ This powerful piece of software is designed to recover corrupted data. I see you
         <Document ID="FB2F994D-589A-46D0-94DB-B019ADA7A9C9">
             <Title>Entering and exiting rooms</Title>
             <Text>Puzzles might not be contained to just one room! Get creative and use perspective to navigate between different sections of the space.
-</Text>
+How near or far from objects you align yourself can make a huge impact on your route through the space, so make the best of your 3D environment.
+
+- Puzzles can span across rooms
+- Find ways to traverse between them
+- Think *way* outside the box</Text>
         </Document>
     </Documents>
 </SearchIndexes>
