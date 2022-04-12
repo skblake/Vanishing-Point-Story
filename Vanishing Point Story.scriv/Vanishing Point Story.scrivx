@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Identifier="F1BB5BCB-C42B-4817-93C5-482B8E656448" Version="2.0" Creator="SCRMAC-3.2.3-14869" Device="Sams-MacBook-Pro" Author="" Modified="2022-04-11 16:19:51 -0400" ModID="0C80346E-18B5-48EE-9E31-9AAD8F7DFF4C">
+<ScrivenerProject Identifier="F1BB5BCB-C42B-4817-93C5-482B8E656448" Version="2.0" Creator="SCRMAC-3.2.3-14869" Device="Sams-MacBook-Pro" Author="" Modified="2022-04-12 17:49:55 -0400" ModID="3148943A-F4A9-4FE0-8342-F22F9DF249EF">
     <Binder>
         <BinderItem UUID="3C57A925-E91E-4D5D-A1D6-F16A2F7A3D35" Type="DraftFolder" Created="2022-02-20 15:47:18 -0500" Modified="2022-02-20 18:05:15 -0500">
             <Title>Spatial Audio</Title>
@@ -912,67 +912,67 @@ Can I go to a party on Saturday?
                 <TextSelection>0,0</TextSelection>
             </TextSettings>
             <Children>
-                <BinderItem UUID="F89204D0-EC98-484F-8469-C59EDFBC3286" Type="Text" Created="2022-04-06 14:48:22 -0400" Modified="2022-04-11 16:13:44 -0400">
+                <BinderItem UUID="F89204D0-EC98-484F-8469-C59EDFBC3286" Type="Text" Created="2022-04-06 14:48:22 -0400" Modified="2022-04-12 17:44:41 -0400">
                     <Title>Start of tutorial</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>238,0</TextSelection>
+                        <TextSelection>576,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem UUID="5C877FDA-F490-49FD-8156-7781A6FB000B" Type="Text" Created="2022-04-06 14:48:30 -0400" Modified="2022-04-11 16:17:17 -0400">
+                <BinderItem UUID="5C877FDA-F490-49FD-8156-7781A6FB000B" Type="Text" Created="2022-04-06 14:48:30 -0400" Modified="2022-04-12 17:35:36 -0400">
                     <Title>Distance platforming</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>588,0</TextSelection>
+                        <TextSelection>536,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem UUID="B88BFD4A-5DE1-482E-A7AE-84F2786F60D1" Type="Text" Created="2022-04-06 14:48:42 -0400" Modified="2022-04-11 16:19:51 -0400">
+                <BinderItem UUID="B88BFD4A-5DE1-482E-A7AE-84F2786F60D1" Type="Text" Created="2022-04-06 14:48:42 -0400" Modified="2022-04-12 17:43:48 -0400">
                     <Title>Wrapping around walls</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>198,0</TextSelection>
+                        <TextSelection>528,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem UUID="FB2F994D-589A-46D0-94DB-B019ADA7A9C9" Type="Text" Created="2022-04-06 14:48:49 -0400" Modified="2022-04-11 14:08:20 -0400">
+                <BinderItem UUID="FB2F994D-589A-46D0-94DB-B019ADA7A9C9" Type="Text" Created="2022-04-06 14:48:49 -0400" Modified="2022-04-12 17:43:48 -0400">
                     <Title>Entering and exiting rooms</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>379,0</TextSelection>
+                        <TextSelection>274,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem UUID="4219E723-FE9D-47DB-9763-8D4AC2F332A8" Type="Text" Created="2022-04-06 14:48:58 -0400" Modified="2022-04-11 14:10:48 -0400">
+                <BinderItem UUID="4219E723-FE9D-47DB-9763-8D4AC2F332A8" Type="Text" Created="2022-04-06 14:48:58 -0400" Modified="2022-04-12 17:43:48 -0400">
                     <Title>Single object multiple perspectives</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>430,0</TextSelection>
+                        <TextSelection>279,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem UUID="4BF92F67-4760-4490-9BDA-BAA8EC41E6AF" Type="Text" Created="2022-04-06 14:49:10 -0400" Modified="2022-04-11 14:12:57 -0400">
+                <BinderItem UUID="4BF92F67-4760-4490-9BDA-BAA8EC41E6AF" Type="Text" Created="2022-04-06 14:49:10 -0400" Modified="2022-04-12 17:44:28 -0400">
                     <Title>In the bathroom</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>533,0</TextSelection>
+                        <TextSelection>394,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem UUID="1992CE9A-54AD-4769-A22D-4E7D26DABABE" Type="Text" Created="2022-04-06 14:49:16 -0400" Modified="2022-04-11 14:17:15 -0400">
+                <BinderItem UUID="1992CE9A-54AD-4769-A22D-4E7D26DABABE" Type="Text" Created="2022-04-06 14:49:16 -0400" Modified="2022-04-12 17:49:55 -0400">
                     <Title>Inverted mechanics</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>358,0</TextSelection>
+                        <TextSelection>372,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
                 <BinderItem UUID="58D33BF7-420A-4483-A2E5-3E67DD51AE81" Type="Text" Created="2022-04-06 14:49:23 -0400" Modified="2022-04-06 14:49:30 -0400">
@@ -1063,6 +1063,14 @@ Can I go to a party on Saturday?
                         <TextSelection>0,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
+                <BinderItem UUID="06BBBD87-9D74-4C6F-964B-C581BC55256B" Type="Text" Created="2022-04-12 17:45:04 -0400" Modified="2022-04-12 17:45:04 -0400">
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
             </Children>
         </BinderItem>
     </Binder>
@@ -1124,14 +1132,14 @@ Can I go to a party on Saturday?
     </StatusSettings>
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="Yes" Deadline="2011-04-21 06:44:59 -0400" IgnoreDeadline="Yes">0</DraftTarget>
-        <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="No" NextResetDate="2022-04-12 01:00:00 -0400" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
-        <PreviousSession Words="0" Characters="0" Date="2022-04-11 16:09:43 -0400"/>
+        <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="No" NextResetDate="2022-04-13 01:00:00 -0400" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
+        <PreviousSession Words="0" Characters="0" Date="2022-04-12 17:21:27 -0400"/>
     </ProjectTargets>
-    <RecentWritingHistory Date="2022-04-11 00:00:00 -0400">
+    <RecentWritingHistory Date="2022-04-12 00:00:00 -0400">
         <DraftWordCount>0</DraftWordCount>
         <DraftCharCount>0</DraftCharCount>
-        <OtherWordCount>185</OtherWordCount>
-        <OtherCharCount>1043</OtherCharCount>
+        <OtherWordCount>-118</OtherWordCount>
+        <OtherCharCount>-633</OtherCharCount>
     </RecentWritingHistory>
     <TemplateFolderUUID>0B19D630-7D8D-4209-9D3D-205B3441842A</TemplateFolderUUID>
     <BookmarksFolderUUID>9C83B8CC-A802-4AE8-B3AE-38CD6B7FF1ED</BookmarksFolderUUID>

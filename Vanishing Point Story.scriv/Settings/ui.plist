@@ -49,6 +49,11 @@
 			<key>Row</key>
 			<integer>-1</integer>
 		</dict>
+		<key>06BBBD87-9D74-4C6F-964B-C581BC55256B</key>
+		<dict>
+			<key>Row</key>
+			<integer>-1</integer>
+		</dict>
 		<key>06C48358-7DB0-4DC4-B076-EBA15D01FF32</key>
 		<dict>
 			<key>Row</key>
@@ -216,6 +221,11 @@
 			<key>Row</key>
 			<integer>-1</integer>
 		</dict>
+		<key>4219E723-FE9D-47DB-9763-8D4AC2F332A8</key>
+		<dict>
+			<key>Row</key>
+			<integer>-1</integer>
+		</dict>
 		<key>43533C4E-F9CF-4CA7-81DA-E0512299A95D</key>
 		<dict>
 			<key>Row</key>
@@ -236,7 +246,17 @@
 			<key>Row</key>
 			<integer>-1</integer>
 		</dict>
+		<key>4BF92F67-4760-4490-9BDA-BAA8EC41E6AF</key>
+		<dict>
+			<key>Row</key>
+			<integer>-1</integer>
+		</dict>
 		<key>4CE87667-6228-4C7B-BF06-89444FF9AAB2</key>
+		<dict>
+			<key>Row</key>
+			<integer>-1</integer>
+		</dict>
+		<key>58D33BF7-420A-4483-A2E5-3E67DD51AE81</key>
 		<dict>
 			<key>Row</key>
 			<integer>-1</integer>
@@ -540,7 +560,7 @@
 	<integer>0</integer>
 	<key>inspectorSplitFrames</key>
 	<array>
-		<string>{{0, 0}, {302, 807}}</string>
+		<string>{{0, 0}, {512, 807}}</string>
 	</array>
 	<key>inspectorWidth</key>
 	<real>227</real>
@@ -600,7 +620,7 @@
 	<key>mainDocumentEditor.textMode</key>
 	<integer>1</integer>
 	<key>mainWindowFrame</key>
-	<string>17 99 1210 845 0 0 1512 944 </string>
+	<string>163 339 1210 845 0 0 2560 1415 </string>
 	<key>pageSizeOption</key>
 	<integer>0</integer>
 	<key>searchResultsTable</key>
