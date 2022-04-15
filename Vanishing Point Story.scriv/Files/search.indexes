@@ -20,6 +20,9 @@ In the bathroom: The sink Teaching the concept of selective overlap
 
 </Text>
         </Document>
+        <Document ID="FAD2AB15-44F8-4265-9908-E7EDDC03324F">
+            <Title>Documentation</Title>
+        </Document>
         <Document ID="60BEFF3B-B66C-4CD8-891A-36496EE6D71F">
             <Title>Unplaced</Title>
         </Document>
@@ -90,6 +93,13 @@ Well, sure, you can go. What time?
 ELOISE
 Four. I’m supposed to bring a snack or something? She said I can bring anything as long as it isn’t chips because that’s what everyone else is bringing. Do you think I can just wear my regular clothes? 
 (Max repetitions: 1)</Text>
+        </Document>
+        <Document ID="4BF92F67-4760-4490-9BDA-BAA8EC41E6AF">
+            <Title>In the bathroom</Title>
+            <Text>You can use objects in the room to block potential hazards. If you encounter a hazard, try placing negative space or a platform in front of it. All hazards can be crossed in some way, so do your best to find a path that will get me to the next fragment unscathed! 
+
+- Hazards can make it difficult for Echo to reach certain fragments.
+- Try blocking hazards by placing objects in front of them.</Text>
         </Document>
         <Document ID="43533C4E-F9CF-4CA7-81DA-E0512299A95D">
             <Title>Puzzle 3 - Server Room</Title>
@@ -304,6 +314,9 @@ Level 3-OS  - Eloise’s account? Brent’s account?
             <Title>L0-OS: INSTALLER &amp; 2D TUTORIAL</Title>
             <Synopsis>☞ The game takes place in a 2006 snapshot of their family computer. </Synopsis>
         </Document>
+        <Document ID="58D33BF7-420A-4483-A2E5-3E67DD51AE81">
+            <Title>Last file on Brent's desk</Title>
+        </Document>
         <Document ID="EF93B95B-FE12-4EBC-BAA1-7262B9EC23ED">
             <Text>I know that hearing the voices is what makes me different
 but in the years I’ve been in here, I’ve wanted to ask 
@@ -357,6 +370,13 @@ Wrapping around walls: At the wall opposite the couch the second file with docum
 
 </Text>
         </Document>
+        <Document ID="1992CE9A-54AD-4769-A22D-4E7D26DABABE">
+            <Title>Inverted mechanics</Title>
+            <Text>You can use perspective to create negative space in walls. Use this technique to tunnel through platforms that might otherwise be impassable.There are many ways to reach areas that might seem blocked off at first glance, so always keep an eye out for shortcuts!
+
+- Place a negative-space object between you and a positive-space object.
+- Guide me through the empty space. </Text>
+        </Document>
         <Document ID="06C48358-7DB0-4DC4-B076-EBA15D01FF32">
             <Title>We just need to be flexible right now. Once this project is done, I’ll have a lot more...
 </Title>
@@ -366,8 +386,27 @@ Brent EXHALES.
 BRENT
 I’m sorry, El. This is just for now––just for a couple more weeks. Once the project is done, we can get all the ice cream we want––and we can go on a trip––anywhere you want to go. Okay?</Text>
         </Document>
+        <Document ID="B88BFD4A-5DE1-482E-A7AE-84F2786F60D1">
+            <Title>Wrapping around walls</Title>
+            <Text>By changing your point of view, you can open new paths and bridge gaps in 2D repair mode. Use your perspective strategically to wrap around doorways and hop between platforms that seem far apart. 
+
+Moving through 3D space can bring surfaces closer together or grant access to platforms in another room. Try standing in the doorway between two areas. At the right angle, you might be able to make a path from one to the other. 
+
+
+- Use your perspective to reveal new paths.
+- Try looking at 3D space from new angles or distances.
+</Text>
+        </Document>
         <Document ID="26CF3935-7390-475A-95C6-30762B0C6DBB">
             <Title>Echo Dialogue</Title>
+        </Document>
+        <Document ID="FB2F994D-589A-46D0-94DB-B019ADA7A9C9">
+            <Title>Entering and exiting rooms</Title>
+            <Text>I’ll sometimes need you to guide me between multiple rooms. Make strategic use of perspective in 3D space! Remember that your distance from objects can affect your route. 
+
+- Puzzles can span across rooms.
+- Find ways to traverse between them.
+- Think *way* outside the box.</Text>
         </Document>
         <Document ID="39007539-933D-4C70-AFA7-80C46DEE7DD7">
             <Title>It’s not fair! You’re never there for me...</Title>
@@ -452,9 +491,29 @@ ELOISE
 Hi.
 </Text>
         </Document>
+        <Document ID="F89204D0-EC98-484F-8469-C59EDFBC3286">
+            <Title>Start of tutorial</Title>
+            <Text>You have entered the Agave Recovery Tool. Welcome! This powerful software helps you visualize and recover corrupted data. I’m Echo, and I’m here to help!
+
+I see you’re attempting to restore a .3dv file. The Debugger has rendered the file’s contents in 3D. Click the left mouse button to enter 2D repair mode, where you can guide me to the data fragments. 
+
+- Move the mouse to look around and use WASD or the arrow keys to move.
+- Left click to enter 2D repair mode. Use the arrow keys to guide me to file fragments.
+- Use ‘Q’ to close dialogs and windows, including this one.</Text>
+        </Document>
         <Document ID="B4AE6F84-D6F7-4AE9-9C0E-FCB1D4A148F7">
             <Title>L3: ECHO IMAGINES FUTURE WATTERS HOME</Title>
-            <Synopsis>☞ Brent got sucked into the program. ☞ The player is an older version of Eloise. </Synopsis>
+            <Synopsis>☞ Brent got sucked into the program.
+☞ The player is an older version of Eloise. </Synopsis>
+        </Document>
+        <Document ID="5C877FDA-F490-49FD-8156-7781A6FB000B">
+            <Title>Distance platforming</Title>
+            <Text>When you enter 2D repair mode, everything in your field of vision is flattened onto a single plane. In this flattened perspective, you can guide me across any surface, no matter how far away. Position yourself to make creative use of surfaces! 
+
+It’s always worth getting a good sense of the file space around you before you start to guide me. Walk around the space, look at things from different angles, and try to identify routes––then guide me from point A to point B. 
+
+- In 2D repair mode, you can navigate Echo across any surface.
+- If you’re stuck, try changing your perspective! </Text>
         </Document>
         <Document ID="7B5EDD45-0861-4822-A106-979663576E3D">
             <Title>Level 2-B</Title>
@@ -509,7 +568,8 @@ Are you threatening me?</Text>
         </Document>
         <Document ID="B3A61912-396A-48EF-B363-261D60518D55">
             <Title>L2A: THE C.O.V.E. OFFICES</Title>
-            <Synopsis>☞ At the time of the snapshot, Brent was hyper-focusing on a work project called Asphodel.  ☞ Asphodel generates an AI based on the user’s personality.</Synopsis>
+            <Synopsis>☞ At the time of the snapshot, Brent was hyper-focusing on a work project called Asphodel. 
+☞ Asphodel generates an AI based on the user’s personality.</Synopsis>
         </Document>
         <Document ID="1846D468-65A3-4792-ABF8-67BBFEA1A525">
             <Title>End - Office</Title>
@@ -650,7 +710,8 @@ The passion is very important in this. </Text>
         </Document>
         <Document ID="07CF87E8-8EBD-4AF6-81F0-02EB58ED1584">
             <Title>L1: WATTERS FAMILY HOME</Title>
-            <Synopsis>☞ Brent is a single father to his 12-year-old daughter, Eloise.  ☞ Eloise skipped two grades in school and struggles to relate to other kids in her grade.</Synopsis>
+            <Synopsis>☞ Brent is a single father to his 12-year-old daughter, Eloise. 
+☞ Eloise skipped two grades in school and struggles to relate to other kids in her grade.</Synopsis>
         </Document>
         <Document ID="08D42754-B6D5-4542-8597-F504F6DCEEE4">
             <Title>Puzzle 4 - Eloise's Room - Single Object, Multiple Perspectives</Title>
@@ -661,6 +722,14 @@ Single object multiple perspectives: On eloise’s desk Using a single object bu
 
 
 </Text>
+        </Document>
+        <Document ID="4219E723-FE9D-47DB-9763-8D4AC2F332A8">
+            <Title>Single object multiple perspectives</Title>
+            <Text>Some objects can be used to access other platforms, if you look at them from the right angle. Try looking at the same object from different angles to get from one part of the room to another. 
+
+- Enter 2D mode.
+- Move Echo all the way to one side.
+- Walk around the object in 3D.</Text>
         </Document>
         <Document ID="1CFF7C40-5E1B-41C6-A639-083ADD6D2109">
             <Title>30 March 2022</Title>
@@ -855,7 +924,7 @@ You think I’m just gonna let you do this? I’ll make sure they all know.  My 
         </Document>
         <Document ID="0B096BA1-BD6A-4B11-9A06-EF7B0CD960D6">
             <Title>New document</Title>
-            <Text>This is a new document.</Text>
+            <Text>This is a new document. I have added some text to it. </Text>
         </Document>
         <Document ID="97C771CD-2D81-4DE1-A036-BE346277A1D0">
             <Title>L2 Drafting - 16 February 2022</Title>
