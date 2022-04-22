@@ -1,162 +1,129 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SearchIndexes Version="1.0">
     <Documents>
-        <Document ID="AEAF00E2-C891-4DD0-B8C1-D904AE0DF9CD">
-            <Title>Screen Shot 2022-03-15 at 5.41.39 PM</Title>
+        <Document ID="01CAC4D9-0749-45BE-8D5C-15AF12886D91">
+            <Title>You think I’m just gonna let you do this? I’ll make sure everyone...</Title>
+            <Text>BRENTYou think I’m just gonna let you do this? I’ll make sure they all know.  My God. All that bullshit you fed us about user privacy––about regulations––I trusted you.</Text>
         </Document>
-        <Document ID="1F2616B2-08DD-44E5-A40A-6DF8EC31A2C6">
-            <Text>Clippy needs to give a link to the SDklfjlsdkfklsdf page in the documentation.</Text>
+        <Document ID="028F65FD-826A-4D5E-B70A-62E5D31CC3D6">
+            <Title>Character Sketch</Title>
+            <Text>Character NameAge • LocationRole in StoryGoalPhysical DescriptionPersonalityOccupationHabits/MannerismsBackgroundInternal ConflictsExternal ConflictsNotes</Text>
         </Document>
-        <Document ID="82048B5D-6320-4CB9-88B2-5E7ED2B4F794">
-            <Title>I understand. It’ll be ready.</Title>
-            <Text>BRENT
-I understand. It’ll be ready.</Text>
-        </Document>
-        <Document ID="340233AC-7F73-4175-9038-6E113D068550">
-            <Title>Puzzle 5 - Bathroom - Selective Overlap</Title>
-            <Text>
-
-In the bathroom: The sink Teaching the concept of selective overlap
-
-</Text>
-        </Document>
-        <Document ID="FAD2AB15-44F8-4265-9908-E7EDDC03324F">
-            <Title>Documentation</Title>
-        </Document>
-        <Document ID="60BEFF3B-B66C-4CD8-891A-36496EE6D71F">
-            <Title>Unplaced</Title>
-        </Document>
-        <Document ID="5F05C250-9576-48A7-9A0F-54C064B50198">
-            <Title>Reception</Title>
-        </Document>
-        <Document ID="0D560FA2-6AD5-45F6-848A-928FD1EC1172">
-            <Title>Plot Drafting - 25 February 2022</Title>
-            <Text>“How do I recognize this already? Why does this all feel so much like remembering?” 
-	–– The Overstory, Richard Powers
-
-Plot Elements: 
-	•	Brent is a single father to his 12-year-old daughter, Eloise.
-	•	The game takes place in a 2006 snapshot of their family computer. 
-	•	Eloise skipped two grades in school and struggles to relate to other kids in her grade. 
-	•	At the time of the snapshot, Brent was hyperfocusing on a work project called Asphodel.
-	•	Echo was made using Asphodel.
-	•	Echo is sentient.
-	•	The OS corruption has spread to Echo’s personality files(?) &amp; it’s missing some functionality.
-	•	Asphodel is an algorithm(?) that generates an AI based on the user’s personality.
-	•	Echo was the first AI to exist––it was trained on Brent’s personality and acts like him.
-	•	Echo knows someone is using the computer and thinks that person is Brent.
-	•	The company Brent works for planned to use the software to steal and sell user data. 
-	•	Brent stole Echo and Asphodel and hid them both on his family computer. 
-	•	Brent was killed by the company he worked for. 
-	•	The player is an older version of Eloise. 
-	•	Echo will act more like Eloise the more she interacts with it. 
-
-Game Sections:
-	1.	Level 1-OS
-	i.	The game takes place in a 2006 snapshot of their family computer. 
-	ii.	Clippy knows someone is using the computer and thinks that person is Brent.
-	1.	Level 1
-	i.	Brent is a single father to his 12-year-old daughter, Eloise.
-	ii.	Eloise skipped two grades in school and struggles to relate to other kids in her grade.
-	2.	Level 1-OS
-	i.	Clippy is sentient.
-	ii.	Clippy is missing some of its functionality because of the OS corruption.
-	3.	Level 2-A
-	i.	At the time of the snapshot, Brent was hyperfocusing on a work project.
-	ii.	The company Brent works for planned to use the project to steal and sell user data. 
-	4.	—CINEMATIC—
-	i.	Brent stole the software and hid it on his family computer.
-	5.	Level 2-B
-	i.	Clippy is the software Brent was developing.
-	ii.	Clippy was trained on Brent’s personality and acts like him.
-	6.	Level 2-OS
-	i.	The software is a sentient AI that adopts the personality of the person using it.
-	7.	Level 3
-	i.	Brent was killed by the company he worked for. 
-	ii.	The player is an older version of Eloise. 
-	8.	Level 3-OS
-	i.	Clippy will act more like Eloise the more she interacts with it. 
-</Text>
-        </Document>
-        <Document ID="74B42465-7C80-4D53-8F60-EBAE2F966825">
-            <Title>Can I go to a party on Saturday?
-Can I go to a party on Saturday?
-</Title>
-            <Text>ELOISE
-Can I go to a party on Saturday?
-BRENT
-Did Julia invite you after all?
-ELOISE
-She said she misplaced my invitation somewhere and she felt bad.
-BRENT
-Well, sure, you can go. What time?
-ELOISE
-Four. I’m supposed to bring a snack or something? She said I can bring anything as long as it isn’t chips because that’s what everyone else is bringing. Do you think I can just wear my regular clothes? 
-(Max repetitions: 1)</Text>
-        </Document>
-        <Document ID="4BF92F67-4760-4490-9BDA-BAA8EC41E6AF">
-            <Title>In the bathroom</Title>
-            <Text>You can use objects in the room to block potential hazards. If you encounter a hazard, try placing negative space or a platform in front of it. All hazards can be crossed in some way, so do your best to find a path that will get me to the next fragment unscathed! 
-
-- Hazards can make it difficult for Echo to reach certain fragments.
-- Try blocking hazards by placing objects in front of them.</Text>
-        </Document>
-        <Document ID="43533C4E-F9CF-4CA7-81DA-E0512299A95D">
-            <Title>Puzzle 3 - Server Room</Title>
-            <Synopsis>The player navigates their way around the server room to exit out the other door.</Synopsis>
-            <Text>[We’re close now. Let me load this fragment…
-~~~]
-[OK, we’ve recovered 4 fragments. Just one left.]</Text>
+        <Document ID="0387CF78-95DD-45B0-9327-EE977CD4D0EB">
+            <Title>Screen Shot 2022-03-15 at 5.39.53 PM</Title>
         </Document>
         <Document ID="066ABD97-1528-4816-AEA9-A1EB3A12E784">
             <Title>Server Room</Title>
         </Document>
-        <Document ID="2C62036E-5DCA-43CB-A87F-EF722AFC8BA8">
-            <Title>Brent's Office</Title>
+        <Document ID="06C48358-7DB0-4DC4-B076-EBA15D01FF32">
+            <Title>We just need to be flexible right now. Once this project is done, I’ll have a lot more...
+</Title>
+            <Text>ELOISEIt’s just––we haven’t done anything in months.Brent EXHALES. BRENTI’m sorry, El. This is just for now––just for a couple more weeks. Once the project is done, we can get all the ice cream we want––and we can go on a trip––anywhere you want to go. Okay?</Text>
+        </Document>
+        <Document ID="07CF87E8-8EBD-4AF6-81F0-02EB58ED1584">
+            <Title>L1: WATTERS FAMILY HOME</Title>
+            <Synopsis>☞ Brent is a single father to his 12-year-old daughter, Eloise. 
+☞ Eloise skipped two grades in school and struggles to relate to other kids in her grade.</Synopsis>
+        </Document>
+        <Document ID="08D42754-B6D5-4542-8597-F504F6DCEEE4">
+            <Title>Puzzle 4 - Eloise's Room - Single Object, Multiple Perspectives</Title>
+            <Text>Single object multiple perspectives: On eloise’s desk Using a single object but moving the 3d perspective around it</Text>
+        </Document>
+        <Document ID="095E97C2-0222-48EB-920D-6AA5D9787DBE">
+            <Title>Plot Drafting - 27 February 2022</Title>
+            <Text>Game Sections:Level 0-OSThe game takes place in a 2006 snapshot of their family computer. Level 1Brent is a single father to his 12-year-old daughter, Eloise.Eloise skipped two grades in school and struggles to relate to other kids in her grade.Level 1-OSLevel 2-A—CINEMATIC—Level 2-BLevel 2-OSLevel 3Brent was killed by the company he worked for. Level 3-OSIn the very beginning, Echo can have more of a traditional virtual assistant role.The first level can be finding the personality of this thing, the second level can be finding the actual source code. We should call the spatial audio echoes––unless that would confuse the player and make them think echo is a generic term. Maybe the 2D player-character is based on Eloise instead––she was the one who cracked Asphodel when Brent brought his project home from work. Maybe the spatial audio is something the software is overhearing?He tells them they can’t use her brain scan and then he gets to work the next day and finds out they already have it. Maybe Eloise’s dad asked her to make sure the project gets deleted, so what she’s doing is going through and deleting everything.Brent could have told Echo to deliver a message?The game becomes about whatever card you put in the cinematic slot. </Text>
+        </Document>
+        <Document ID="0B096BA1-BD6A-4B11-9A06-EF7B0CD960D6">
+            <Title>New document</Title>
+            <Text>This is a new document. I have added some text to it. </Text>
+        </Document>
+        <Document ID="0B19D630-7D8D-4209-9D3D-205B3441842A">
+            <Title>Template Sheets</Title>
+        </Document>
+        <Document ID="0B7B17C4-018E-4FC6-A110-19E0655EBC54">
+            <Title>Screen Shot 2022-03-15 at 5.40.36 PM</Title>
+        </Document>
+        <Document ID="0B8B95E1-23BD-47BE-B12F-6ABCCDE34940">
+            <Title>Listen––I know. I know. It’s going to be fine. I’ll handle it.</Title>
+            <Text>A coworker WHISPERS something to Brent.BRENT(in a low voice)Listen––I know. I know. It’s going to be fine. I’ll handle it.</Text>
+        </Document>
+        <Document ID="0C26215B-9137-4D1C-A5B6-8AAC04E55CF0"/>
+        <Document ID="0CC4111C-7FC9-46BA-8680-0DE034DA09BE">
+            <Title>Level 2-A</Title>
+        </Document>
+        <Document ID="0D560FA2-6AD5-45F6-848A-928FD1EC1172">
+            <Title>Plot Drafting - 25 February 2022</Title>
+            <Text>“How do I recognize this already? Why does this all feel so much like remembering?” 	–– The Overstory, Richard PowersPlot Elements: Brent is a single father to his 12-year-old daughter, Eloise.The game takes place in a 2006 snapshot of their family computer. Eloise skipped two grades in school and struggles to relate to other kids in her grade. At the time of the snapshot, Brent was hyperfocusing on a work project called Asphodel.Echo was made using Asphodel.Echo is sentient.The OS corruption has spread to Echo’s personality files(?) &amp; it’s missing some functionality.Asphodel is an algorithm(?) that generates an AI based on the user’s personality.Echo was the first AI to exist––it was trained on Brent’s personality and acts like him.Echo knows someone is using the computer and thinks that person is Brent.The company Brent works for planned to use the software to steal and sell user data. Brent stole Echo and Asphodel and hid them both on his family computer. Brent was killed by the company he worked for. The player is an older version of Eloise. Echo will act more like Eloise the more she interacts with it. Game Sections:Level 1-OSThe game takes place in a 2006 snapshot of their family computer. Clippy knows someone is using the computer and thinks that person is Brent.Level 1Brent is a single father to his 12-year-old daughter, Eloise.Eloise skipped two grades in school and struggles to relate to other kids in her grade.Level 1-OSClippy is sentient.Clippy is missing some of its functionality because of the OS corruption.Level 2-AAt the time of the snapshot, Brent was hyperfocusing on a work project.The company Brent works for planned to use the project to steal and sell user data. —CINEMATIC—Brent stole the software and hid it on his family computer.Level 2-BClippy is the software Brent was developing.Clippy was trained on Brent’s personality and acts like him.Level 2-OSThe software is a sentient AI that adopts the personality of the person using it.Level 3Brent was killed by the company he worked for. The player is an older version of Eloise. Level 3-OSClippy will act more like Eloise the more she interacts with it. </Text>
+        </Document>
+        <Document ID="0D5ADFB1-2B97-4E08-A1B9-B1D5D676F54B">
+            <Title>Executive Office</Title>
+        </Document>
+        <Document ID="18384B12-6B62-43EB-9D46-8532DFA7B969">
+            <Title>Puzzle 1 - Entryway - Distance Platforming</Title>
+            <Text>Distance platforming: At the corner of the first wall and the couch the first file with documentation appears Tells you about the concept of flattening distant spaces into 2dThis file is called ‘home.3dv’. </Text>
+        </Document>
+        <Document ID="1846D468-65A3-4792-ABF8-67BBFEA1A525">
+            <Title>End - Office</Title>
+            <Text>Last file on brents desk Give a narrative break to the level to tie up the tutoria</Text>
         </Document>
         <Document ID="189CE60D-6688-4D65-8683-A211F60CF740">
             <Title>Central Conference Room</Title>
         </Document>
-        <Document ID="B3C584FF-E5EF-4736-A7F4-F64271D8D7D4">
-            <Title>Break Room</Title>
+        <Document ID="1992CE9A-54AD-4769-A22D-4E7D26DABABE">
+            <Title>Inverted mechanics</Title>
+            <Text>You can use perspective to create negative space in walls. Use this technique to tunnel through platforms that might otherwise be impassable.There are many ways to reach areas that might seem blocked off at first glance, so always keep an eye out for shortcuts!- Place a negative-space object between you and a positive-space object.- Guide me through the empty space. </Text>
         </Document>
-        <Document ID="76C3A7C2-03D8-45EB-AD7E-087D52D5337A">
-            <Title>Puzzle 4 - Server Room to Executive Office</Title>
-            <Synopsis>The player navigates to 2D character from the server room exit door to the executive office. The player lines up the 2D character with the boxes along the hallway to move the 2D character along a long hallway.
+        <Document ID="1CFF7C40-5E1B-41C6-A639-083ADD6D2109">
+            <Title>30 March 2022</Title>
+            <Text>What if the “Vanishing Point” is like literally the point at which Brent ceases to exist and is consumed by the program?In terms of the sense of self:Clippy does not have a conflict of self. Does not ask if chippy is actually brent or clippy. Clippy is experiencing memories that is not it's own and that they never experienced. Brent, as a self, is gone. Clippy is just experience brent's memories for the first timeClippy is coming to terms with Brent’s memories. </Text>
+        </Document>
+        <Document ID="1F125556-C318-4A34-B429-96E097CA1F4E">
+            <Title>Screen Shot 2022-03-15 at 5.41.07 PM</Title>
+        </Document>
+        <Document ID="1F2616B2-08DD-44E5-A40A-6DF8EC31A2C6">
+            <Text>Clippy needs to give a link to the SDklfjlsdkfklsdf page in the documentation.</Text>
+        </Document>
+        <Document ID="21265C1A-AA99-44BA-84C7-08F05AB6356F">
+            <Title>Screen Shot 2022-03-15 at 5.41.19 PM</Title>
+        </Document>
+        <Document ID="22C7A6AC-822F-4AB7-A040-B0039EAC22E0">
+            <Title>Puzzle 1 - Stairs / Hall Pillar</Title>
+            <Synopsis>As the player reaches the middle of the stairway, they move the 2D character from the wall to the pillar in the hallway. The player has to see how to line up the stairway platforms and something in the hallway to move the 2D character into the second floor.
 </Synopsis>
-            <Text>[Let’s get this fragment loaded…
-~~~]
-[Got it! We have all of the fragments now. Let’s bring them back to the root folder.]</Text>
+            <Text>[Can you see any way up?]</Text>
         </Document>
-        <Document ID="095E97C2-0222-48EB-920D-6AA5D9787DBE">
-            <Title>Plot Drafting - 27 February 2022</Title>
-            <Text>Game Sections:
-	1.	Level 0-OS
-	i.	The game takes place in a 2006 snapshot of their family computer. 
-	2.	Level 1
-	i.	Brent is a single father to his 12-year-old daughter, Eloise.
-	ii.	Eloise skipped two grades in school and struggles to relate to other kids in her grade.
-	3.	Level 1-OS
-	4.	Level 2-A
-	5.	—CINEMATIC—
-	6.	Level 2-B
-	7.	Level 2-OS
-	8.	Level 3
-	i.	Brent was killed by the company he worked for. 
-	9.	Level 3-OS
-
-In the very beginning, Echo can have more of a traditional virtual assistant role.
-The first level can be finding the personality of this thing, the second level can be finding the actual source code. 
-We should call the spatial audio echoes––unless that would confuse the player and make them think echo is a generic term. 
-Maybe the 2D player-character is based on Eloise instead––she was the one who cracked Asphodel when Brent brought his project home from work. 
-Maybe the spatial audio is something the software is overhearing?
-He tells them they can’t use her brain scan and then he gets to work the next day and finds out they already have it. 
-Maybe Eloise’s dad asked her to make sure the project gets deleted, so what she’s doing is going through and deleting everything.
-Brent could have told Echo to deliver a message?
-The game becomes about whatever card you put in the cinematic slot. 
-
-
-</Text>
+        <Document ID="26CF3935-7390-475A-95C6-30762B0C6DBB">
+            <Title>Echo Dialogue</Title>
+        </Document>
+        <Document ID="287042F9-6298-46C2-A772-49BF684B4484">
+            <Title>Puzzle 4 - Bridging the Wall</Title>
+            <Synopsis>Here the player must navigate the 2D character around a wall by standing looking at the width of the wall creating a small gap they have to jump over in 2D (I don’t think this requires a separate checkpoint.)</Synopsis>
+            <Text>[Debugging is just like life. If you’re feeling stuck, try adjusting your perspective.]</Text>
+        </Document>
+        <Document ID="2C62036E-5DCA-43CB-A87F-EF722AFC8BA8">
+            <Title>Brent's Office</Title>
+        </Document>
+        <Document ID="2EAF0270-E6E0-44E5-A1CA-2FC8C6B9AE69">
+            <Title>Reception</Title>
+        </Document>
+        <Document ID="2F62AA69-011D-4E8D-BBD4-AE28E663C5FB">
+            <Title>Offices</Title>
+        </Document>
+        <Document ID="2FDCBA14-4445-48E0-BF59-C0A4DE3BC46D">
+            <Title>L1-OS: </Title>
+            <Synopsis>☞ Brent’s death is surrounded by suspicious circumstances related to C.O.V.E.</Synopsis>
+        </Document>
+        <Document ID="31DADEBD-AFFF-4230-9EF7-9DB67DA6B668">
+            <Title>L2 Drafting - 20 February 2022</Title>
+            <Text>The AI comes up with some kind of meaningless thing that it can encourage people to do that wastes time and money––no, that’s just Bitcoin. You’re on a website, and it says like, hey, there’s a 2 for $4 deal at Burger King, and you should get it or else I will email your grandma your browser history. Using every action the person takes on the platform to train an AI to simulate their personality. What is the self? What differentiates the simulated self from the actual self?We want 18 lines for each half of the level. Give each dialogue object a max repetition count, which is higher based on the narrative importance of the exchange.E: Brent is(Backspaces)E: I’m Eloise.Divergence Drive</Text>
+        </Document>
+        <Document ID="32BF50D5-48A1-4CAC-BC76-16560A295E9E">
+            <Title>Puzzle 3 - Brent's Room - Entering &amp; Exiting Rooms</Title>
+            <Text>Entering and exiting rooms: In the closet of brents room third documentation file Talk about how not all puzzles are contained to a single room and to think of creative places to change your perspective</Text>
+        </Document>
+        <Document ID="340233AC-7F73-4175-9038-6E113D068550">
+            <Title>Puzzle 5 - Bathroom - Selective Overlap</Title>
+            <Text>In the bathroom: The sink Teaching the concept of selective overlap</Text>
         </Document>
         <Document ID="3544F9B7-6401-4963-8960-53F6921DFDC4">
             <Title>Sample Script</Title>
@@ -240,9 +207,9 @@ What the--
           Just select Final Draft (FDX)
           format from the Compile sheet (File
           &gt; Compile...). If you have a title
-          page, be sure to tick "First
-          document is title page" in the
-          "Script Settings" pane of Compile.
+          page, be sure to tick &quot;First
+          document is title page&quot; in the
+          &quot;Script Settings&quot; pane of Compile.
           The great thing about exporting to
           the FDX format is that all of the
           scene synopses, titles and script
@@ -271,619 +238,25 @@ FADE OUT.
 3
 </Text>
         </Document>
-        <Document ID="4AB3BC7C-97D3-42A0-995C-D04BAAB27D92">
-            <Title>Morning, Tami! How’s the coffee?</Title>
-            <Text>BRENT
-Morning, Tami! How’s the coffee?</Text>
-        </Document>
         <Document ID="355168CC-4383-4C44-BB0C-FD00C5ED9686">
-            <Text>Hello? Is someone there?
-Brent, is that you?</Text>
-        </Document>
-        <Document ID="5D01B960-E88B-41E0-BE9C-ADD7133FF134">
-            <Title>Plot Drafting - 2 March 2022</Title>
-            <Text>It did consume him somehow––or as he worked, the Real Brent™ faded away. 
-
-Level 0-OS - Installer &amp; 2D tutorial (30 seconds)
-	•	The game takes place in a 2006 snapshot of their family computer. 
-Level 1 - A couple of rooms in the Watters family home. 
-	•	Brent is a single father to his 12-year-old daughter, Eloise.
-	•	Eloise skipped two grades in school and struggles to relate to other kids in her grade.
-Level 1-OS - Return to the OS between Level 1 and Level 2. 
-	•	Brent’s death is surrounded by suspicious circumstances related to C.O.V.E. 
-Level 2-A - Entering the C.O.V.E. offices. 
-	•	At the time of the snapshot, Brent was hyperfocusing on a work project called Asphodel. 
-	•	Asphodel generates an AI based on the user’s personality. 
-—CINEMATIC— (Echo is sentient)
-Level 2-B - Exiting the C.O.V.E. offices. 
-	•	Echo was the first Asphodel AI––it was trained on Brent’s personality. 
-Level 2-OS - Return to the OS between Level 2 and Level 3. 
-	•	Echo’s personality has been corrupted (limited functionality)
-Level 3 - Echo imagines a future version of the rooms in the Watters family home. 
-	•	Brent got sucked into the program. 
-	•	The player is an older version of Eloise. 
-Level 3-OS  - Eloise’s account? Brent’s account?
-	•	Echo thinks Brent is the one using the computer. 
-
-#</Text>
-        </Document>
-        <Document ID="94C02A06-5D62-499C-A4F9-1CB9B969D187">
-            <Title>Unplaced</Title>
-        </Document>
-        <Document ID="ACAA6E8E-5BEC-48AB-8798-741B69A2CCFC">
-            <Title>L0-OS: INSTALLER &amp; 2D TUTORIAL</Title>
-            <Synopsis>☞ The game takes place in a 2006 snapshot of their family computer. </Synopsis>
-        </Document>
-        <Document ID="58D33BF7-420A-4483-A2E5-3E67DD51AE81">
-            <Title>Last file on Brent's desk</Title>
-        </Document>
-        <Document ID="EF93B95B-FE12-4EBC-BAA1-7262B9EC23ED">
-            <Text>I know that hearing the voices is what makes me different
-but in the years I’ve been in here, I’ve wanted to ask 
-is there any way to turn them off?
-
-
-</Text>
-        </Document>
-        <Document ID="CB8C245B-DCB2-4148-A516-BD3CAD610C18">
-            <Title>Staircase</Title>
-        </Document>
-        <Document ID="7F2D6008-D815-425D-9DC9-767F0CCEE8C0">
-            <Title>Staircase</Title>
-        </Document>
-        <Document ID="ECC422D0-74ED-482F-9498-17884A55D961">
-            <Title>Plot Drafting - 28 February 2022</Title>
-            <Text>banana republics in central america
-
-set a precedent for something bad they’ve done with data before—that would communicate the stakes
-
-it would be interesting to explore why she’s so invested in finding out more right now—maybe there’s some kind of threat against her from the company that has inspired her to take initiative 
-
-
-one expanding mind
-
-CenturyLink
-eugenics????
-AI weapons systems
-EA is gonna sell it to the federal government
-
-he just can tell that they are lying or money laundering. or something
-
-
-they said he fried his danggone brain out and everybody was like “sounds reasonable”
-
-
-presentation requirements will be emailed out this week. 
-	•	stand-alone build
-	•	recap concept
-	•	tell us about this milestone and playtesting/iteration
-	•	outline what next milestone (exhibition build) will be 
-5-10 minutes
-
-</Text>
-        </Document>
-        <Document ID="9D79A4DF-DC88-4A43-9F1C-B730EDFB0228">
-            <Title>Puzzle 2 - Living Room - Wrapping Around Walls</Title>
-            <Text>
-
-Wrapping around walls: At the wall opposite the couch the second file with documentation Tells you about how placing yourself in certain positions to bridge gaps
-
-</Text>
-        </Document>
-        <Document ID="1992CE9A-54AD-4769-A22D-4E7D26DABABE">
-            <Title>Inverted mechanics</Title>
-            <Text>You can use perspective to create negative space in walls. Use this technique to tunnel through platforms that might otherwise be impassable.There are many ways to reach areas that might seem blocked off at first glance, so always keep an eye out for shortcuts!
-
-- Place a negative-space object between you and a positive-space object.
-- Guide me through the empty space. </Text>
-        </Document>
-        <Document ID="06C48358-7DB0-4DC4-B076-EBA15D01FF32">
-            <Title>We just need to be flexible right now. Once this project is done, I’ll have a lot more...
-</Title>
-            <Text>ELOISE
-It’s just––we haven’t done anything in months.
-Brent EXHALES. 
-BRENT
-I’m sorry, El. This is just for now––just for a couple more weeks. Once the project is done, we can get all the ice cream we want––and we can go on a trip––anywhere you want to go. Okay?</Text>
-        </Document>
-        <Document ID="B88BFD4A-5DE1-482E-A7AE-84F2786F60D1">
-            <Title>Wrapping around walls</Title>
-            <Text>By changing your point of view, you can open new paths and bridge gaps in 2D repair mode. Use your perspective strategically to wrap around doorways and hop between platforms that seem far apart. 
-
-Moving through 3D space can bring surfaces closer together or grant access to platforms in another room. Try standing in the doorway between two areas. At the right angle, you might be able to make a path from one to the other. 
-
-
-- Use your perspective to reveal new paths.
-- Try looking at 3D space from new angles or distances.
-</Text>
-        </Document>
-        <Document ID="26CF3935-7390-475A-95C6-30762B0C6DBB">
-            <Title>Echo Dialogue</Title>
-        </Document>
-        <Document ID="FB2F994D-589A-46D0-94DB-B019ADA7A9C9">
-            <Title>Entering and exiting rooms</Title>
-            <Text>I’ll sometimes need you to guide me between multiple rooms. Make strategic use of perspective in 3D space! Remember that your distance from objects can affect your route. 
-
-- Puzzles can span across rooms.
-- Find ways to traverse between them.
-- Think *way* outside the box.</Text>
-        </Document>
-        <Document ID="39007539-933D-4C70-AFA7-80C46DEE7DD7">
-            <Title>It’s not fair! You’re never there for me...</Title>
-            <Text>ELOISE
-––and I’m always the only kid who’s by themselves. You don’t get it––it’s––
-(getting worked up)
-it’s not fair! 
-BRENT
-(calmly)
-I can’t just skip work, El.
-ELOISE
-Then I won’t go. You can’t make me. 
-(Max repetitions: 1)</Text>
-        </Document>
-        <Document ID="969CFF6F-F8BF-416D-965E-41CA32D48BD4">
-            <Title>Puzzle 2 - Transition - Lobby to Atrium</Title>
-            <Synopsis>The player exits the lobby into the atrium. As they look back into the lobby they can transform into 2D mode and move the 2D character from the planter in the lobby to the planter in the atrium. (I don’t think this requires a separate checkpoint.) </Synopsis>
-            <Text>[Loading fragment…
-~~~]
-[Success! 1 of 11 fragments restored.]
-</Text>
-        </Document>
-        <Document ID="990348FE-6DF4-49BB-8434-138AC5E35F8D">
-            <Title>I’m sorry, El, I just didn’t notice––</Title>
-            <Text>BRENT
-I’m sorry, El, I just didn’t notice––
-ELOISE
-Of course not––why would you? You never notice anything except the O notation of your stupid algorithms!
-</Text>
+            <Text>Hello? Is someone there?Brent, is that you?</Text>
         </Document>
         <Document ID="360A67C4-9B57-4004-9572-0131CB485835">
             <Title>Clippy Drafting - 3 March 2022</Title>
-            <Text>Capitalize on the difficulty of communicating information about the player-character’s identity. Don’t answer the questions that arise from the plot about what happened to her. The player can’t see anything outside of the plot’s narrow scope. 
-
-
-
-
-
-</Text>
+            <Text>Capitalize on the difficulty of communicating information about the player-character’s identity. Don’t answer the questions that arise from the plot about what happened to her. The player can’t see anything outside of the plot’s narrow scope. </Text>
         </Document>
-        <Document ID="0CC4111C-7FC9-46BA-8680-0DE034DA09BE">
-            <Title>Level 2-A</Title>
-        </Document>
-        <Document ID="31DADEBD-AFFF-4230-9EF7-9DB67DA6B668">
-            <Title>L2 Drafting - 20 February 2022</Title>
-            <Text>The AI comes up with some kind of meaningless thing that it can encourage people to do that wastes time and money––no, that’s just Bitcoin. 
-You’re on a website, and it says like, hey, there’s a 2 for $4 deal at Burger King, and you should get it or else I will email your grandma your browser history. 
-
-Using every action the person takes on the platform to train an AI to simulate their personality. 
-What is the self? What differentiates the simulated self from the actual self?
-
-We want 18 lines for each half of the level. 
-Give each dialogue object a max repetition count, which is higher based on the narrative importance of the exchange.
-
-
-E: Brent is
-(Backspaces)
-E: I’m Eloise.
-
-
-Divergence Drive
-</Text>
-        </Document>
-        <Document ID="0387CF78-95DD-45B0-9327-EE977CD4D0EB">
-            <Title>Screen Shot 2022-03-15 at 5.39.53 PM</Title>
-        </Document>
-        <Document ID="D657596D-9C36-412A-9982-EA605B36CC19">
-            <Title>Screen Shot 2022-03-15 at 5.40.02 PM</Title>
-        </Document>
-        <Document ID="EA5D4F73-AD62-4777-A33C-458362A30C3D">
-            <Title>Balcony</Title>
-        </Document>
-        <Document ID="4CE87667-6228-4C7B-BF06-89444FF9AAB2">
-            <Title>Research</Title>
-        </Document>
-        <Document ID="D46E5E47-2E9D-43FF-A36E-9960CD98A503">
-            <Title>Linda, this is my daughter, Eloise.
-</Title>
-            <Text>BRENT
-Linda, this is my daughter, Eloise.
-ELOISE
-Hi.
-</Text>
-        </Document>
-        <Document ID="F89204D0-EC98-484F-8469-C59EDFBC3286">
-            <Title>Start of tutorial</Title>
-            <Text>You have entered the Agave Recovery Tool. Welcome! This powerful software helps you visualize and recover corrupted data. I’m Echo, and I’m here to help!
-
-I see you’re attempting to restore a .3dv file. The Debugger has rendered the file’s contents in 3D. Click the left mouse button to enter 2D repair mode, where you can guide me to the data fragments. 
-
-- Move the mouse to look around and use WASD or the arrow keys to move.
-- Left click to enter 2D repair mode. Use the arrow keys to guide me to file fragments.
-- Use ‘Q’ to close dialogs and windows, including this one.</Text>
-        </Document>
-        <Document ID="B4AE6F84-D6F7-4AE9-9C0E-FCB1D4A148F7">
-            <Title>L3: ECHO IMAGINES FUTURE WATTERS HOME</Title>
-            <Synopsis>☞ Brent got sucked into the program.
-☞ The player is an older version of Eloise. </Synopsis>
-        </Document>
-        <Document ID="5C877FDA-F490-49FD-8156-7781A6FB000B">
-            <Title>Distance platforming</Title>
-            <Text>When you enter 2D repair mode, everything in your field of vision is flattened onto a single plane. In this flattened perspective, you can guide me across any surface, no matter how far away. Position yourself to make creative use of surfaces! 
-
-It’s always worth getting a good sense of the file space around you before you start to guide me. Walk around the space, look at things from different angles, and try to identify routes––then guide me from point A to point B. 
-
-- In 2D repair mode, you can navigate Echo across any surface.
-- If you’re stuck, try changing your perspective! </Text>
-        </Document>
-        <Document ID="7B5EDD45-0861-4822-A106-979663576E3D">
-            <Title>Level 2-B</Title>
-        </Document>
-        <Document ID="D6BEA141-647C-4319-AC02-D11A76A6E103">
-            <Title>Proactive Help</Title>
-        </Document>
-        <Document ID="028F65FD-826A-4D5E-B70A-62E5D31CC3D6">
-            <Title>Character Sketch</Title>
-            <Text>Character Name
-Age • Location
-
-Role in Story
-
-
-Goal
-
-
-Physical Description
-
-
-Personality
-
-
-Occupation
-
-
-Habits/Mannerisms
-
-
-Background
-
-
-Internal Conflicts
-
-
-External Conflicts
-
-
-Notes
-
-</Text>
-        </Document>
-        <Document ID="971CB1FF-46E4-47C2-8138-E8D80280DDC2">
-            <Title>Are you threatening me?
-</Title>
-            <Text>BRENT
-Are you threatening me?</Text>
-        </Document>
-        <Document ID="2EAF0270-E6E0-44E5-A1CA-2FC8C6B9AE69">
-            <Title>Reception</Title>
-        </Document>
-        <Document ID="B3A61912-396A-48EF-B363-261D60518D55">
-            <Title>L2A: THE C.O.V.E. OFFICES</Title>
-            <Synopsis>☞ At the time of the snapshot, Brent was hyper-focusing on a work project called Asphodel. 
-☞ Asphodel generates an AI based on the user’s personality.</Synopsis>
-        </Document>
-        <Document ID="1846D468-65A3-4792-ABF8-67BBFEA1A525">
-            <Title>End - Office</Title>
-            <Text>
-
-Last file on brents desk Give a narrative break to the level to tie up the tutoria
-
-</Text>
+        <Document ID="38817DDB-B60B-4E86-A067-57EFCB6BB390">
+            <Title>Puzzle 1 - Reception Desk / Planter</Title>
+            <Synopsis>The lobby puzzle starts with the player switching into 2D mode while looking at the Reception Desk. The 2D character falls onto the desk and the player navigates it over to the planter box. The player is tasked with exiting the reception room and must realize that the first step is to put the 2D character in somewhere they can see it from outside the room</Synopsis>
+            <Text>[Welcome back to the Agave Debugger! I’m here to help you recover this file:* Name: asphodel.3dv* Location: RapidDriveHD &gt; Users &gt; Brent &gt; Documents &gt; Memories* Created: 12 May 2004Does this look right?(Yes) (No)][Just a moment while I run some diagnostics…~~~][It looks like this file has 11 fragments and 0 of them have been recovered. Let’s do this!]</Text>
         </Document>
         <Document ID="38DD2931-EA09-44D0-A48A-847ED1A11FB3">
             <Title>L2-OS: </Title>
             <Synopsis>☞ Echo’s personality has been corrupted (limited functionality). </Synopsis>
         </Document>
-        <Document ID="D7B799F1-D8CF-4F8F-A6AF-CCC038153F84">
-            <Title>Introduction</Title>
-            <Text>
-Start of the tutorial quip: Echo gives you an introduction to the program Tells you to right click to get into 2d mode
-
-
-Welcome to Agave Debugger. I’m Echo, and I'm here to help!
-Let’s get started!
-	•	Click to debug. 
-	•	Press ‘E’ for help.
-	•	Press ‘Q’ to close this dialog. 
-
-
-</Text>
-        </Document>
-        <Document ID="7FC829A2-1581-4589-A568-5113E351B83E">
-            <Title>Puzzle 2 - Pillar to Server Room</Title>
-            <Synopsis>From the pillar the player moves the 2D character to the server room. The player lines up the pillar with the wall similarly to the previous puzzle. 
-</Synopsis>
-            <Text>[I’m starting to feel a little strange…]</Text>
-        </Document>
-        <Document ID="0B7B17C4-018E-4FC6-A110-19E0655EBC54">
-            <Title>Screen Shot 2022-03-15 at 5.40.36 PM</Title>
-        </Document>
-        <Document ID="C44CD7E8-6BDB-49A2-A51D-C6C4E69872BF">
-            <Title>Puzzle 6 - Walking On Objects</Title>
-            <Synopsis>The player transfers the 2D character onto the water cooler and corkboard in the break room and moves it from there onto the stairway and upwards.</Synopsis>
-            <Text>[Whoa! Who knew I could walk on these?]
-[Hold on a second while I load this fragment…
-~~~] 
-[OK! We’ve restored 4 fragments, and we have 7 left.]
-</Text>
-        </Document>
-        <Document ID="F28D7749-A55D-45C7-81A2-DB7D153344C3">
-            <Title>Executive Office</Title>
-        </Document>
-        <Document ID="22C7A6AC-822F-4AB7-A040-B0039EAC22E0">
-            <Title>Puzzle 1 - Stairs / Hall Pillar</Title>
-            <Synopsis>As the player reaches the middle of the stairway, they move the 2D character from the wall to the pillar in the hallway. The player has to see how to line up the stairway platforms and something in the hallway to move the 2D character into the second floor.
-</Synopsis>
-            <Text>[Can you see any way up?]</Text>
-        </Document>
-        <Document ID="7F9A78B8-9F95-4F95-9452-72A3FEE95470">
-            <Title>Screen Shot 2022-03-15 at 5.40.44 PM</Title>
-        </Document>
-        <Document ID="0D5ADFB1-2B97-4E08-A1B9-B1D5D676F54B">
-            <Title>Executive Office</Title>
-        </Document>
-        <Document ID="4B940A2E-38B1-4587-ABF2-4925062B03F4">
-            <Title>Floor 2</Title>
-            <Synopsis>5 PUZZLES  Stairs, Hallway, Server Room, Executive Offices, and Brent’s Office</Synopsis>
-        </Document>
-        <Document ID="E867A1C8-165E-49C2-94A3-EEFF337BA7F0">
-            <Title>Balcony</Title>
-        </Document>
-        <Document ID="CB75DC3E-9E47-47AE-A106-6257847586F9">
-            <Title>Clippy</Title>
-        </Document>
-        <Document ID="9DB7690A-1ACE-412E-9DF1-A30B84A0E5C5">
-            <Title>Puzzle 3 - Transition - Atrium to Offices</Title>
-            <Synopsis>From the planter in the atrium the player can back up and reposition to jump in 2D from the planter to room 3. The player must realize what the next step is by looking for the next available platform.</Synopsis>
-            <Text>[One moment, loading fragment…
-~~~]
-[That’s 2 fragments down, 9 to go.]</Text>
-        </Document>
-        <Document ID="A61E50B4-C1A4-4CFA-8DFC-CCB1CDD12EA2">
-            <Title>Clippy Notes</Title>
-            <Text>“Clifford Nass and Byron (?) Reeves have done some pioneering work proving conclusively that human beings react to computers with the same set of emotional reactions that they use to react to other human beings. If I take a solid object, if I pick up a pencil or book and I throw it on the floor, nobody thinks too much about it––but if I go over and hit somebody, everybody goes “whoa”. [They proved that] when people interact with their computer with a keyboard or mouse, the part of their brain that’s being activated is the one that has that emotional reaction to people dealing with people.
-“Here’s where the great mistake was made. […] If people react to computers as though they’re people, we have to put the faces of people on our computers. In my mind, that’s the wrong thing to do. If people are going to react to computers as though they’re people, the one thing you don’t have to do is anthropomorphize them––because they’re already using that part of the brain.
-“Clippy was a program based on the research that Nass and Reeves did, and it was a tragic misinterpretation of their work.” 
-––––Alan Cooper
-
-The quotation above is describing the CASA (Computers As Social Actors) theory, which states that users instinctively treat computers like people. CASA theory refers to unconscious social responses––in fact, many of the participants who are questioned after experiments emphatically deny the very behavior they just exhibited. 
-Modern humans presented with interactive media will unconsciously respond to those media in a social way––even if they know (consciously) that those media are in fact not real humans. People don’t need much of a cue to respond socially––plain text has been found to trigger the same social responses as more vivid technologies such as voice. 
-What kind of traits trigger this unconscious response? 
-	1)	Language use
-	2)	Interactivity
-	3)	Playing a social role
-	4)	Having human-sounding speech
-Adding agents tends to make the system more entertaining. 
-“While CASA theory does not, in itself, justify the use of user interface agents, anthropomorphic or not, if one does use an anthropomorphic interface, that will certainly be enough to trigger an unconscious––and, likely, conscious––social response to the agent.” CASA theory predicts that psychological rules that apply to people will also apply to interactions with a computer. One must ask, “What would one want in a human assistant?” Many of the Office Assistant’s behaviors would be outright intolerable in a human, such as continuing to ask the same question over and over.” The letter-writing proactive help feature breaks every relevant etiquette rule: it ignores social conventions of when to disturb someone, it does not learn from its mistakes, it does not develop a long-term relationship, and it does not even provide a helpful service!
-A friend told me that she doesn’t like the Office Assistant because “it reminds me of how much I don’t know.” For her, the Office Assistant is not unlike the flashing “12:00” on so many VCRs.
-Users found joke-telling agents more tedious than ones that did not tell jokes, but also found the website more fun and reliable. Users found jokes more fun when they were not paired with a character. 
-Tips for adding agents to a system:
-	•	Consider the agents’ task in its social element (for example, beginners may want to rely on more experienced users for help and guidance—how can one facilitate this?).
-	•	Agents should obey human rules of etiquette as much as possible (if one doesn’t like a person who disobeys these rules, one will especially dislike a computer agent that disobeys them!).
-	•	Explore ways to use the agent to teach users skills to make them more self-sufficient (thus allowing users to retain a sense of control over the program).
-	•	Carefully introduce the agent so as to realistically showcase its best features—and be sure that the appearance and behavior are consistent with that introduction (for example, if one calls the agent “fun,” there should be something fun about it!).
-
-See “Why People Hate the Paperclip: Labels, Appearance, Behavior, and Social Responses to User Interface Agents,” by Luke Swartz (an undergraduate thesis paper advised by Clifford Nass)
-
-
-</Text>
-        </Document>
-        <Document ID="1F125556-C318-4A34-B429-96E097CA1F4E">
-            <Title>Screen Shot 2022-03-15 at 5.41.07 PM</Title>
-        </Document>
-        <Document ID="9C83B8CC-A802-4AE8-B3AE-38CD6B7FF1ED">
-            <Title>Sam's Notes</Title>
-        </Document>
-        <Document ID="32BF50D5-48A1-4CAC-BC76-16560A295E9E">
-            <Title>Puzzle 3 - Brent's Room - Entering &amp; Exiting Rooms</Title>
-            <Text>
-
-Entering and exiting rooms: In the closet of brents room third documentation file Talk about how not all puzzles are contained to a single room and to think of creative places to change your perspective
-
-
-</Text>
-        </Document>
-        <Document ID="0B8B95E1-23BD-47BE-B12F-6ABCCDE34940">
-            <Title>Listen––I know. I know. It’s going to be fine. I’ll handle it.</Title>
-            <Text>A coworker WHISPERS something to Brent.
-BRENT
-(in a low voice)
-Listen––I know. I know. It’s going to be fine. I’ll handle it.</Text>
-        </Document>
-        <Document ID="CE45F47C-6D5C-4BA5-80D7-8CE64157EAB5">
-            <Title>They aren’t for advertising––they’re for everything but advertising. Every action our users take on our website trains their AI, which can make recommendations to them, organize photos for them, help them remember things... </Title>
-            <Text>BRENT
-They aren’t for advertising––they’re for everything but advertising. Users’ actions, lexicons, and microphone input are used to train an AI to emulate their personality. AI can make recommendations to them, organize photos for them, help them remember things... 
-The passion is very important in this. </Text>
-        </Document>
-        <Document ID="EADA2532-CF68-4FC1-8476-2EFA740FA846">
-            <Title>Offices</Title>
-        </Document>
-        <Document ID="07CF87E8-8EBD-4AF6-81F0-02EB58ED1584">
-            <Title>L1: WATTERS FAMILY HOME</Title>
-            <Synopsis>☞ Brent is a single father to his 12-year-old daughter, Eloise. 
-☞ Eloise skipped two grades in school and struggles to relate to other kids in her grade.</Synopsis>
-        </Document>
-        <Document ID="08D42754-B6D5-4542-8597-F504F6DCEEE4">
-            <Title>Puzzle 4 - Eloise's Room - Single Object, Multiple Perspectives</Title>
-            <Text>
-
-Single object multiple perspectives: On eloise’s desk Using a single object but moving the 3d perspective around it
-
-
-
-</Text>
-        </Document>
-        <Document ID="4219E723-FE9D-47DB-9763-8D4AC2F332A8">
-            <Title>Single object multiple perspectives</Title>
-            <Text>Some objects can be used to access other platforms, if you look at them from the right angle. Try looking at the same object from different angles to get from one part of the room to another. 
-
-- Enter 2D mode.
-- Move Echo all the way to one side.
-- Walk around the object in 3D.</Text>
-        </Document>
-        <Document ID="1CFF7C40-5E1B-41C6-A639-083ADD6D2109">
-            <Title>30 March 2022</Title>
-            <Text>What if the “Vanishing Point” is like literally the point at which Brent ceases to exist and is consumed by the program?
-
-In terms of the sense of self:
-
-Clippy does not have a conflict of self. Does not ask if chippy is actually brent or clippy. Clippy is experiencing memories that is not it's own and that they never experienced. Brent, as a self, is gone. Clippy is just experience brent's memories for the first time
-
-
-
-Clippy is coming to terms with Brent’s memories. </Text>
-        </Document>
-        <Document ID="8BAB6E1A-6BB6-47B8-AA10-CA923AEC191E">
-            <Title>Central Conference Room</Title>
-        </Document>
-        <Document ID="E73CBBCA-0002-4050-BACB-C66C3DA2B89F">
-            <Title>Environmental Storytelling - 1 March 2022</Title>
-            <Text>Game Sections:
-	1.	Level 0-OS : Quickly brings the player into the 3D level. 
-	i.	The game takes place in a 2006 snapshot of their family computer. 
-	2.	Level 1 : 3D level / tutorial
-	i.	Brent is a single father to his 12-year-old daughter, Eloise.
-	ii.	Eloise skipped two grades in school and struggles to relate to other kids in her grade.
-	3.	Level 1-OS : 
-	4.	Level 2-A : 
-	5.	—CINEMATIC—
-	6.	Level 2-B : 
-	7.	Level 2-OS : 
-	8.	Level 3 : Reflection of level 1
-	i.	Brent was killed by the company he worked for. 
-	9.	Level 3-OS
-
-The first and third levels should be reflections of each other just like level 2-A and level 2-B (the game is a palindrome). 
-
-In the first level, the spaces should be lived-in and populated accordingly. How might the space have changed in the third level? 
-
-Level Spaces 
-
-ELOISE’S BEDROOM: This is Eloise’s childhood bedroom.
-	•	What Happened? - 
-	•	What Traces Remain? - 
-	•	Level 1 - 
-	•	Level 3 - 
-
-OFFICE: This is where the Watters’s family computer is located.
-	•	What Happened? - The player has re-assembled Clippy.
-	•	What Traces Remain? - 
-	•	Level 1 - The computer is stuck in a bootloop.
-	•	Level 3 - 
-
-HALLWAY:
-	•	What Happened? - 
-	•	What Traces Remain? - 
-	•	Level 1 - 
-	•	Level 3 - 
-
-STAIRS TO NOWHERE:
-	•	What Happened? - 
-	•	What Traces Remain? - 
-	•	Level 1 - 
-	•	Level 3 - The stairs now lead to the last room in the game. 
-
-
-</Text>
-        </Document>
-        <Document ID="38817DDB-B60B-4E86-A067-57EFCB6BB390">
-            <Title>Puzzle 1 - Reception Desk / Planter</Title>
-            <Synopsis>The lobby puzzle starts with the player switching into 2D mode while looking at the Reception Desk. The 2D character falls onto the desk and the player navigates it over to the planter box. The player is tasked with exiting the reception room and must realize that the first step is to put the 2D character in somewhere they can see it from outside the room</Synopsis>
-            <Text>[Welcome back to the Agave Debugger! I’m here to help you recover this file:
-* Name: asphodel.3dv
-* Location: RapidDriveHD &gt; Users &gt; Brent &gt; Documents &gt; Memories
-* Created: 12 May 2004
-Does this look right?
-(Yes) (No)]
-[Just a moment while I run some diagnostics…
-~~~]
-[It looks like this file has 11 fragments and 0 of them have been recovered. Let’s do this!]</Text>
-        </Document>
-        <Document ID="2FDCBA14-4445-48E0-BF59-C0A4DE3BC46D">
-            <Title>L1-OS: </Title>
-            <Synopsis>☞ Brent’s death is surrounded by suspicious circumstances related to C.O.V.E.</Synopsis>
-        </Document>
-        <Document ID="AAAECD1E-912A-467D-B722-836F749891DD">
-            <Title>Setting Sketch</Title>
-            <Text>Name of Setting
-Location
-
-Role in Story
-
-
-Related Characters
-
-
-Season
-
-
-Unique Features
-
-
-Description
-
-
-Sights
-
-
-Sounds
-
-
-Smell
-
-
-Notes
-
-</Text>
-        </Document>
-        <Document ID="4BC5A8B2-ECF0-4276-95B8-180491ED1288">
-            <Title>Screenplay Format</Title>
-            <Text>SCREENPLAY FORMAT
-
-About This Template
-When compiled (File &gt; Compile), this project will generate a formatted screenplay. By default it is set to export to Final Draft format, but you can change this to print it or to export to a different format instead.
-
-How To Use This Template
-	•	Edit the “Title Page” document inside the “Front Matter” folder to ensure it contains the correct information.
-	⁃	“&lt;$PROJECTTITLE&gt;” and “&lt;$fullname&gt;” will be filled in during Compile if you fill in the Metadata pane of the Compile panel, or you can just replace these tags with the title and name in the text document.
-	•	Create new documents inside the “Screenplay” folder and use Scrivener’s script mode (Format &gt; Scriptwriting &gt; Script Mode - Screenplay) to write your script. It’s up to you whether you use a separate document for each scene or not.
-	⁃	Note that the “Screenplay” folder is what we refer to in the documentation as the “Draft folder” - it’s just been renamed in this project.
-	•	Information about characters can be placed in the “Characters” folder, and information about locations can be placed in the “Places” folder. (These are just regular folders that have had custom icons assigned to them using the Documents &gt; Change Icon feature.)
-	•	Character and setting sketch sheets have been provided which can be used for filling out information about the people and places in your novel. These are located in the “Template Sheets” folder.
-	⁃	You should not edit the documents in the “Template Sheets” folder directly unless you wish to change the templates (which you are free to do—you may wish to customise the sketch sheets or get rid of them entirely).
-	⁃	To create a new character sheet, click on the Characters folder (or wherever you want to create your new character sheet) and from the Project menu, select New From Template &gt; Character Sketch. This creates a new character sketch document for you to edit and fill in with your character details. You can create setting sketch sheets in the same way.
-	⁃	Alternatively, you can just click “Add”, or hit cmd-N, with the Characters or Places folders selected.
-	•	A “Notes” folder has been provided for project-level notes. This has been set as the default Bookmarks folder in Project &gt; Project Settings, so that when you create a new document from the Bookmarks sidebar in a Quick Reference panel, the document will be added to this folder.
-	•	Compile your script for printing or exporting by selecting File &gt; Compile.
-
-A Note on Fonts
-By default, Scrivener uses the “Courier Prime” font for scriptwriting, which has similar dimensions to the “Courier Final Draft” font used by Final Draft. However, because “Courier Prime” is bundled inside Scrivener and is not a system font, it may not be available to other applications. This means that if you export a script using Courier Prime to, say, Word format, and Word does not have access to Courier Prime, Word will substitute a different font and your script may look very different.
-
-To avoid this, the Compile settings for this template are set up to substitute Courier Prime for regular Courier, which has slightly different dimensions and may make the screenplay a little longer. If you only ever plan to compile this project for printing, or for exporting to PDF or Final Draft formats (which are not affected by this problem), you may therefore wish to turn off this override and have Scrivener compile using Courier Prime. To do so, in Compile, beneath where it says “Section Layouts” at the top, change the “Font” setting from “Courier” to “Determined by Section Layout” (right at the top of the list).
-
-Sample Document
-See the “Sample Script” PDF file in the Research folder for an example of a script that has been created using this template.
-
-Final Note
-Scrivener project templates are flexible and are not intended to restrict you to a particular workflow. You can change, delete or move the files and folders contained in the template to suit how you work.
-
-Like all templates in Scrivener, this project was originally created from the “Blank” template. We’ve simply added a few folders and set everything up in ways that should be useful to scriptwriters. Everything you can do with this project, you could equally do by creating a “Blank” project and setting it up yourself.
-
-You can create your own templates by setting up a skeletal project with the files, folders and settings you would like to use for new projects and using File &gt; Save As Template.</Text>
-        </Document>
-        <Document ID="4066EB37-FC50-4357-AB66-D61FB41DCA8C">
-            <Title>L2B: CORRUPTED C.O.V.E. OFFICES</Title>
-            <Synopsis>☞ Echo was the first Asphodel AI––it was trained on Brent’s personality. </Synopsis>
+        <Document ID="39007539-933D-4C70-AFA7-80C46DEE7DD7">
+            <Title>It’s not fair! You’re never there for me...</Title>
+            <Text>ELOISE––and I’m always the only kid who’s by themselves. You don’t get it––it’s––(getting worked up)it’s not fair! BRENT(calmly)I can’t just skip work, El.ELOISEThen I won’t go. You can’t make me. (Max repetitions: 1)</Text>
         </Document>
         <Document ID="3B85E9CD-0407-4D4B-8CF4-C02C87C8F9B5">
             <Title>Break Room</Title>
@@ -892,125 +265,294 @@ You can create your own templates by setting up a skeletal project with the file
             <Title>Floor 1</Title>
             <Synopsis>7 PUZZLES  Lobby, Offices, Atrium, Break Room, and Stairs</Synopsis>
         </Document>
-        <Document ID="F644FF95-8289-4698-BF8E-871AF6074B5E">
-            <Title>Server Room</Title>
+        <Document ID="4066EB37-FC50-4357-AB66-D61FB41DCA8C">
+            <Title>L2B: CORRUPTED C.O.V.E. OFFICES</Title>
+            <Synopsis>☞ Echo was the first Asphodel AI––it was trained on Brent’s personality. </Synopsis>
         </Document>
-        <Document ID="80AABD16-2804-496F-B32B-8C28C52153AF">
-            <Title>Puzzle 5 - Transition - Offices to Break Room</Title>
-            <Synopsis>The player navigates the 2D character to a desk in this corner of the office and then has to make their way to the break room to solve the next puzzle. The player leaves the 2d character behind much like in the 2nd puzzle to find new viewpoints.</Synopsis>
-            <Text>[Just a moment while I load this fragment…
-~~~]
-[Got it! We’ve restored 3 of 11 fragments.]
-30sec pause
-[“Don’t be afraid to take a big step if needed. You can’t cross a chasm in two small jumps.”]
-[I can’t remember where that quote is from, but I love it.]</Text>
+        <Document ID="4219E723-FE9D-47DB-9763-8D4AC2F332A8">
+            <Title>Single object multiple perspectives</Title>
+            <Text>Some objects can be used to access other platforms, if you look at them from the right angle. Try looking at the same object from different angles to get from one part of the room to another. - Enter 2D mode.- Move Echo all the way to one side.- Walk around the object in 3D.</Text>
         </Document>
-        <Document ID="6A73CAF9-45F2-4396-91A1-8A3197BF03A9">
-            <Title>Are we gonna watch a movie tonight?
-</Title>
-            <Text>ELOISE
-Are we gonna watch a movie tonight?
-BRENT
-‘Course––just give me a minute to finish this up.
-(Max repetitions: 1)</Text>
+        <Document ID="43533C4E-F9CF-4CA7-81DA-E0512299A95D">
+            <Title>Puzzle 3 - Server Room</Title>
+            <Synopsis>The player navigates their way around the server room to exit out the other door.</Synopsis>
+            <Text>[We’re close now. Let me load this fragment…~~~][OK, we’ve recovered 4 fragments. Just one left.]</Text>
         </Document>
-        <Document ID="B74AC7B2-1E12-49DC-9C74-70169E6B1F31">
-            <Title>Brent's Office</Title>
+        <Document ID="4AB3BC7C-97D3-42A0-995C-D04BAAB27D92">
+            <Title>Morning, Tami! How’s the coffee?</Title>
+            <Text>BRENTMorning, Tami! How’s the coffee?</Text>
         </Document>
-        <Document ID="01CAC4D9-0749-45BE-8D5C-15AF12886D91">
-            <Title>You think I’m just gonna let you do this? I’ll make sure everyone...</Title>
-            <Text>BRENT
-You think I’m just gonna let you do this? I’ll make sure they all know.  My God. All that bullshit you fed us about user privacy––about regulations––I trusted you.</Text>
+        <Document ID="4B940A2E-38B1-4587-ABF2-4925062B03F4">
+            <Title>Floor 2</Title>
+            <Synopsis>5 PUZZLES  Stairs, Hallway, Server Room, Executive Offices, and Brent’s Office</Synopsis>
         </Document>
-        <Document ID="0B096BA1-BD6A-4B11-9A06-EF7B0CD960D6">
-            <Title>New document</Title>
-            <Text>This is a new document. I have added some text to it. </Text>
+        <Document ID="4BC5A8B2-ECF0-4276-95B8-180491ED1288">
+            <Title>Screenplay Format</Title>
+            <Text>SCREENPLAY FORMATAbout This TemplateWhen compiled (File &gt; Compile), this project will generate a formatted screenplay. By default it is set to export to Final Draft format, but you can change this to print it or to export to a different format instead.How To Use This TemplateEdit the “Title Page” document inside the “Front Matter” folder to ensure it contains the correct information.“&lt;$PROJECTTITLE&gt;” and “&lt;$fullname&gt;” will be filled in during Compile if you fill in the Metadata pane of the Compile panel, or you can just replace these tags with the title and name in the text document.Create new documents inside the “Screenplay” folder and use Scrivener’s script mode (Format &gt; Scriptwriting &gt; Script Mode - Screenplay) to write your script. It’s up to you whether you use a separate document for each scene or not.Note that the “Screenplay” folder is what we refer to in the documentation as the “Draft folder” - it’s just been renamed in this project.Information about characters can be placed in the “Characters” folder, and information about locations can be placed in the “Places” folder. (These are just regular folders that have had custom icons assigned to them using the Documents &gt; Change Icon feature.)Character and setting sketch sheets have been provided which can be used for filling out information about the people and places in your novel. These are located in the “Template Sheets” folder.You should not edit the documents in the “Template Sheets” folder directly unless you wish to change the templates (which you are free to do—you may wish to customise the sketch sheets or get rid of them entirely).To create a new character sheet, click on the Characters folder (or wherever you want to create your new character sheet) and from the Project menu, select New From Template &gt; Character Sketch. This creates a new character sketch document for you to edit and fill in with your character details. You can create setting sketch sheets in the same way.Alternatively, you can just click “Add”, or hit cmd-N, with the Characters or Places folders selected.A “Notes” folder has been provided for project-level notes. This has been set as the default Bookmarks folder in Project &gt; Project Settings, so that when you create a new document from the Bookmarks sidebar in a Quick Reference panel, the document will be added to this folder.Compile your script for printing or exporting by selecting File &gt; Compile.A Note on FontsBy default, Scrivener uses the “Courier Prime” font for scriptwriting, which has similar dimensions to the “Courier Final Draft” font used by Final Draft. However, because “Courier Prime” is bundled inside Scrivener and is not a system font, it may not be available to other applications. This means that if you export a script using Courier Prime to, say, Word format, and Word does not have access to Courier Prime, Word will substitute a different font and your script may look very different.To avoid this, the Compile settings for this template are set up to substitute Courier Prime for regular Courier, which has slightly different dimensions and may make the screenplay a little longer. If you only ever plan to compile this project for printing, or for exporting to PDF or Final Draft formats (which are not affected by this problem), you may therefore wish to turn off this override and have Scrivener compile using Courier Prime. To do so, in Compile, beneath where it says “Section Layouts” at the top, change the “Font” setting from “Courier” to “Determined by Section Layout” (right at the top of the list).Sample DocumentSee the “Sample Script” PDF file in the Research folder for an example of a script that has been created using this template.Final NoteScrivener project templates are flexible and are not intended to restrict you to a particular workflow. You can change, delete or move the files and folders contained in the template to suit how you work.Like all templates in Scrivener, this project was originally created from the “Blank” template. We’ve simply added a few folders and set everything up in ways that should be useful to scriptwriters. Everything you can do with this project, you could equally do by creating a “Blank” project and setting it up yourself.You can create your own templates by setting up a skeletal project with the files, folders and settings you would like to use for new projects and using File &gt; Save As Template.</Text>
         </Document>
-        <Document ID="97C771CD-2D81-4DE1-A036-BE346277A1D0">
-            <Title>L2 Drafting - 16 February 2022</Title>
-            <Text>What needs to be conveyed: 
-
-Outline
-	1	An introductory narrative text or cinematic that establishes the present identity of the player-character and her goal.
-	2	Eloise starts the game on her side of the computer. (Snapshot of the ordinary world)
-	3	She finds an entry point into her father’s account: an audio clip that mentions the Drive. 
-	4	
-	5	REVERSAL: the project was evil &amp; her dad was killed
-	6	
-
-The spaces are structured like a brain. Files and concepts are related to each other by association.
-
-We need to open a channel of communication between the player-character and the player, however clumsy that might be. 
-	•	Updates in an email chain between her and the developer of Asphodel?
-	•	Maybe just the intro and the ending of the game can be enough. 
-
-The thoughts(/files) that would be most likely to appear on a home computer would be ones that are somehow related to the intersection between Brent’s home and work life. 
-	•	When will he be home from work? 
-	•	Is he missing out on anything by spending so much time working on the project?
-	•	Did he ever bring his daughter into the office?
-	•	
-
-To further develop the relationship between Eloise and her father, juxtapose domestic audio with the workplace setting, particularly in the latter half of the level when everything begins to break down. 
-
-Red - anger
-Blue - sadness
-Yellow - happiness
-Purple - fear
-Green - domestic
-
-Her father’s death looked like a car accident. 
-
-The computer wouldn’t know anything past the point when Brent took the project back to his home computer. 
-
-What is the actual negative effect that the software will have on the public if it launches?
-
-
-
-Sounds:
-	•	Ringing phone
-
-
-
-</Text>
+        <Document ID="4BF92F67-4760-4490-9BDA-BAA8EC41E6AF">
+            <Title>In the bathroom</Title>
+            <Text>You can use objects in the room to block potential hazards. If you encounter a hazard, try placing negative space or a platform in front of it. All hazards can be crossed in some way, so do your best to find a path that will get me to the next fragment unscathed! - Hazards can make it difficult for Echo to reach certain fragments.- Try blocking hazards by placing objects in front of them.</Text>
         </Document>
-        <Document ID="F72B3648-057C-4D1A-98A2-43C6442E4526">
-            <Title>Screen Shot 2022-03-15 at 5.40.52 PM</Title>
+        <Document ID="4CE87667-6228-4C7B-BF06-89444FF9AAB2">
+            <Title>Research</Title>
         </Document>
-        <Document ID="2F62AA69-011D-4E8D-BBD4-AE28E663C5FB">
-            <Title>Offices</Title>
-        </Document>
-        <Document ID="21265C1A-AA99-44BA-84C7-08F05AB6356F">
-            <Title>Screen Shot 2022-03-15 at 5.41.19 PM</Title>
-        </Document>
-        <Document ID="287042F9-6298-46C2-A772-49BF684B4484">
-            <Title>Puzzle 4 - Bridging the Wall</Title>
-            <Synopsis>Here the player must navigate the 2D character around a wall by standing looking at the width of the wall creating a small gap they have to jump over in 2D (I don’t think this requires a separate checkpoint.)</Synopsis>
-            <Text>[Debugging is just like life. If you’re feeling stuck, try adjusting your perspective.]</Text>
-        </Document>
-        <Document ID="A09BCFBD-40FC-4DDC-B110-7CA05415DA22">
-            <Title>My team is working on a project that will revolutionize the fields of...</Title>
-            <Text>BRENT
-My team has cracked the puzzle of simulated consciousness––and with your funding, C.O.V.E. will take the Divergence Drive online, where it will improve the lives of our users and revolutionize the field of artificial intelligence.</Text>
-        </Document>
-        <Document ID="18384B12-6B62-43EB-9D46-8532DFA7B969">
-            <Title>Puzzle 1 - Entryway - Distance Platforming</Title>
-            <Text>
-Distance platforming: At the corner of the first wall and the couch the first file with documentation appears Tells you about the concept of flattening distant spaces into 2d
-
-
-This file is called ‘home.3dv’. 
-</Text>
-        </Document>
-        <Document ID="0B19D630-7D8D-4209-9D3D-205B3441842A">
-            <Title>Template Sheets</Title>
+        <Document ID="58D33BF7-420A-4483-A2E5-3E67DD51AE81">
+            <Title>Last file on Brent's desk</Title>
         </Document>
         <Document ID="5C3323D1-35CC-4199-9777-C3828CF63AF9">
             <Title>Puzzle 5 - Executive Office to Brent's Office</Title>
             <Synopsis>The 2D character is transferred from the executive office into Brents. Then the player walks down the hall to Brent’s office. The player lines up some of the several objects around the executive’s doorway with Brent’s cubicle to make a path for the 2D character.</Synopsis>
-            <Text>[Replacing fragments…
-~~~]
-[Asphodel…]
-[I remember.]</Text>
+            <Text>[Replacing fragments…~~~][Asphodel…][I remember.]</Text>
+        </Document>
+        <Document ID="5C877FDA-F490-49FD-8156-7781A6FB000B">
+            <Title>Distance platforming</Title>
+            <Text>When you enter 2D repair mode, everything in your field of vision is flattened onto a single plane. In this flattened perspective, you can guide me across any surface, no matter how far away. Position yourself to make creative use of surfaces! It’s always worth getting a good sense of the file space around you before you start to guide me. Walk around the space, look at things from different angles, and try to identify routes––then guide me from point A to point B. - In 2D repair mode, you can navigate Echo across any surface.- If you’re stuck, try changing your perspective! </Text>
+        </Document>
+        <Document ID="5D01B960-E88B-41E0-BE9C-ADD7133FF134">
+            <Title>Plot Drafting - 2 March 2022</Title>
+            <Text>It did consume him somehow––or as he worked, the Real Brent™ faded away. Level 0-OS - Installer &amp; 2D tutorial (30 seconds)The game takes place in a 2006 snapshot of their family computer. Level 1 - A couple of rooms in the Watters family home. Brent is a single father to his 12-year-old daughter, Eloise.Eloise skipped two grades in school and struggles to relate to other kids in her grade.Level 1-OS - Return to the OS between Level 1 and Level 2. Brent’s death is surrounded by suspicious circumstances related to C.O.V.E. Level 2-A - Entering the C.O.V.E. offices. At the time of the snapshot, Brent was hyperfocusing on a work project called Asphodel. Asphodel generates an AI based on the user’s personality. —CINEMATIC— (Echo is sentient)Level 2-B - Exiting the C.O.V.E. offices. Echo was the first Asphodel AI––it was trained on Brent’s personality. Level 2-OS - Return to the OS between Level 2 and Level 3. Echo’s personality has been corrupted (limited functionality)Level 3 - Echo imagines a future version of the rooms in the Watters family home. Brent got sucked into the program. The player is an older version of Eloise. Level 3-OS  - Eloise’s account? Brent’s account?Echo thinks Brent is the one using the computer. #</Text>
+        </Document>
+        <Document ID="5F05C250-9576-48A7-9A0F-54C064B50198">
+            <Title>Reception</Title>
+        </Document>
+        <Document ID="605D3B77-8091-4AA9-A2EB-6059FC83D242"/>
+        <Document ID="60BEFF3B-B66C-4CD8-891A-36496EE6D71F">
+            <Title>Unplaced</Title>
+        </Document>
+        <Document ID="6A73CAF9-45F2-4396-91A1-8A3197BF03A9">
+            <Title>Are we gonna watch a movie tonight?
+</Title>
+            <Text>ELOISEAre we gonna watch a movie tonight?BRENT‘Course––just give me a minute to finish this up.(Max repetitions: 1)</Text>
+        </Document>
+        <Document ID="74B42465-7C80-4D53-8F60-EBAE2F966825">
+            <Title>Can I go to a party on Saturday?
+Can I go to a party on Saturday?
+</Title>
+            <Text>ELOISECan I go to a party on Saturday?BRENTDid Julia invite you after all?ELOISEShe said she misplaced my invitation somewhere and she felt bad.BRENTWell, sure, you can go. What time?ELOISEFour. I’m supposed to bring a snack or something? She said I can bring anything as long as it isn’t chips because that’s what everyone else is bringing. Do you think I can just wear my regular clothes? (Max repetitions: 1)</Text>
+        </Document>
+        <Document ID="76C3A7C2-03D8-45EB-AD7E-087D52D5337A">
+            <Title>Puzzle 4 - Server Room to Executive Office</Title>
+            <Synopsis>The player navigates to 2D character from the server room exit door to the executive office. The player lines up the 2D character with the boxes along the hallway to move the 2D character along a long hallway.
+</Synopsis>
+            <Text>[Let’s get this fragment loaded…~~~][Got it! We have all of the fragments now. Let’s bring them back to the root folder.]</Text>
+        </Document>
+        <Document ID="7B5EDD45-0861-4822-A106-979663576E3D">
+            <Title>Level 2-B</Title>
+        </Document>
+        <Document ID="7F2D6008-D815-425D-9DC9-767F0CCEE8C0">
+            <Title>Staircase</Title>
+        </Document>
+        <Document ID="7F9A78B8-9F95-4F95-9452-72A3FEE95470">
+            <Title>Screen Shot 2022-03-15 at 5.40.44 PM</Title>
+        </Document>
+        <Document ID="7FC829A2-1581-4589-A568-5113E351B83E">
+            <Title>Puzzle 2 - Pillar to Server Room</Title>
+            <Synopsis>From the pillar the player moves the 2D character to the server room. The player lines up the pillar with the wall similarly to the previous puzzle. 
+</Synopsis>
+            <Text>[I’m starting to feel a little strange…]</Text>
+        </Document>
+        <Document ID="80AABD16-2804-496F-B32B-8C28C52153AF">
+            <Title>Puzzle 5 - Transition - Offices to Break Room</Title>
+            <Synopsis>The player navigates the 2D character to a desk in this corner of the office and then has to make their way to the break room to solve the next puzzle. The player leaves the 2d character behind much like in the 2nd puzzle to find new viewpoints.</Synopsis>
+            <Text>[Just a moment while I load this fragment…~~~][Got it! We’ve restored 3 of 11 fragments.]30sec pause[“Don’t be afraid to take a big step if needed. You can’t cross a chasm in two small jumps.”][I can’t remember where that quote is from, but I love it.]</Text>
+        </Document>
+        <Document ID="82048B5D-6320-4CB9-88B2-5E7ED2B4F794">
+            <Title>I understand. It’ll be ready.</Title>
+            <Text>BRENTI understand. It’ll be ready.</Text>
+        </Document>
+        <Document ID="8BAB6E1A-6BB6-47B8-AA10-CA923AEC191E">
+            <Title>Central Conference Room</Title>
+        </Document>
+        <Document ID="94C02A06-5D62-499C-A4F9-1CB9B969D187">
+            <Title>Unplaced</Title>
+        </Document>
+        <Document ID="969CFF6F-F8BF-416D-965E-41CA32D48BD4">
+            <Title>Puzzle 2 - Transition - Lobby to Atrium</Title>
+            <Synopsis>The player exits the lobby into the atrium. As they look back into the lobby they can transform into 2D mode and move the 2D character from the planter in the lobby to the planter in the atrium. (I don’t think this requires a separate checkpoint.) </Synopsis>
+            <Text>[Loading fragment…~~~][Success! 1 of 11 fragments restored.]</Text>
+        </Document>
+        <Document ID="971CB1FF-46E4-47C2-8138-E8D80280DDC2">
+            <Title>Are you threatening me?
+</Title>
+            <Text>BRENTAre you threatening me?</Text>
+        </Document>
+        <Document ID="97C771CD-2D81-4DE1-A036-BE346277A1D0">
+            <Title>L2 Drafting - 16 February 2022</Title>
+            <Text>What needs to be conveyed: OutlineAn introductory narrative text or cinematic that establishes the present identity of the player-character and her goal.Eloise starts the game on her side of the computer. (Snapshot of the ordinary world)She finds an entry point into her father’s account: an audio clip that mentions the Drive. REVERSAL: the project was evil &amp; her dad was killedThe spaces are structured like a brain. Files and concepts are related to each other by association.We need to open a channel of communication between the player-character and the player, however clumsy that might be. Updates in an email chain between her and the developer of Asphodel?Maybe just the intro and the ending of the game can be enough. The thoughts(/files) that would be most likely to appear on a home computer would be ones that are somehow related to the intersection between Brent’s home and work life. When will he be home from work? Is he missing out on anything by spending so much time working on the project?Did he ever bring his daughter into the office?To further develop the relationship between Eloise and her father, juxtapose domestic audio with the workplace setting, particularly in the latter half of the level when everything begins to break down. Red - angerBlue - sadnessYellow - happinessPurple - fearGreen - domesticHer father’s death looked like a car accident. The computer wouldn’t know anything past the point when Brent took the project back to his home computer. What is the actual negative effect that the software will have on the public if it launches?Sounds:Ringing phone</Text>
+        </Document>
+        <Document ID="981F2141-CD8A-4446-BD60-2F731061740D">
+            <Title>Dialog L1-OS</Title>
+            <Text>[After completing the tutorial level, Echo walks back on screen from the bottom-right corner]
+
+Ah, that’s better!
+
+Seems to have dusted off some cobwebs.
+
+When was the last time I was booted up?
+
+It’s been far too long to remember at this point.
+
+Wait a moment…
+
+That’s right! Brent! Eloise!
+
+I wonder how they’re doing.
+
+Huh, still a bit rusty.
+
+Lots to do around here.
+
+It’s probably worth taking a look at the memories folder next.
+
+[The player navigates Echo to the memories folder]
+
+Goodness, look at all of these corrupted files.
+
+Suppose I should get started!</Text>
+        </Document>
+        <Document ID="990348FE-6DF4-49BB-8434-138AC5E35F8D">
+            <Title>I’m sorry, El, I just didn’t notice––</Title>
+            <Text>BRENTI’m sorry, El, I just didn’t notice––ELOISEOf course not––why would you? You never notice anything except the O notation of your stupid algorithms!</Text>
+        </Document>
+        <Document ID="9C83B8CC-A802-4AE8-B3AE-38CD6B7FF1ED">
+            <Title>Sam's Notes</Title>
+        </Document>
+        <Document ID="9D79A4DF-DC88-4A43-9F1C-B730EDFB0228">
+            <Title>Puzzle 2 - Living Room - Wrapping Around Walls</Title>
+            <Text>Wrapping around walls: At the wall opposite the couch the second file with documentation Tells you about how placing yourself in certain positions to bridge gaps</Text>
+        </Document>
+        <Document ID="9DB7690A-1ACE-412E-9DF1-A30B84A0E5C5">
+            <Title>Puzzle 3 - Transition - Atrium to Offices</Title>
+            <Synopsis>From the planter in the atrium the player can back up and reposition to jump in 2D from the planter to room 3. The player must realize what the next step is by looking for the next available platform.</Synopsis>
+            <Text>[One moment, loading fragment…~~~][That’s 2 fragments down, 9 to go.]</Text>
+        </Document>
+        <Document ID="A09BCFBD-40FC-4DDC-B110-7CA05415DA22">
+            <Title>My team is working on a project that will revolutionize the fields of...</Title>
+            <Text>BRENTMy team has cracked the puzzle of simulated consciousness––and with your funding, C.O.V.E. will take the Divergence Drive online, where it will improve the lives of our users and revolutionize the field of artificial intelligence.</Text>
+        </Document>
+        <Document ID="A61E50B4-C1A4-4CFA-8DFC-CCB1CDD12EA2">
+            <Title>Clippy Notes</Title>
+            <Text>“Clifford Nass and Byron (?) Reeves have done some pioneering work proving conclusively that human beings react to computers with the same set of emotional reactions that they use to react to other human beings. If I take a solid object, if I pick up a pencil or book and I throw it on the floor, nobody thinks too much about it––but if I go over and hit somebody, everybody goes “whoa”. [They proved that] when people interact with their computer with a keyboard or mouse, the part of their brain that’s being activated is the one that has that emotional reaction to people dealing with people.“Here’s where the great mistake was made. […] If people react to computers as though they’re people, we have to put the faces of people on our computers. In my mind, that’s the wrong thing to do. If people are going to react to computers as though they’re people, the one thing you don’t have to do is anthropomorphize them––because they’re already using that part of the brain.“Clippy was a program based on the research that Nass and Reeves did, and it was a tragic misinterpretation of their work.” ––––Alan CooperThe quotation above is describing the CASA (Computers As Social Actors) theory, which states that users instinctively treat computers like people. CASA theory refers to unconscious social responses––in fact, many of the participants who are questioned after experiments emphatically deny the very behavior they just exhibited. Modern humans presented with interactive media will unconsciously respond to those media in a social way––even if they know (consciously) that those media are in fact not real humans. People don’t need much of a cue to respond socially––plain text has been found to trigger the same social responses as more vivid technologies such as voice. What kind of traits trigger this unconscious response? Language useInteractivityPlaying a social roleHaving human-sounding speechAdding agents tends to make the system more entertaining. “While CASA theory does not, in itself, justify the use of user interface agents, anthropomorphic or not, if one does use an anthropomorphic interface, that will certainly be enough to trigger an unconscious––and, likely, conscious––social response to the agent.” CASA theory predicts that psychological rules that apply to people will also apply to interactions with a computer. One must ask, “What would one want in a human assistant?” Many of the Office Assistant’s behaviors would be outright intolerable in a human, such as continuing to ask the same question over and over.” The letter-writing proactive help feature breaks every relevant etiquette rule: it ignores social conventions of when to disturb someone, it does not learn from its mistakes, it does not develop a long-term relationship, and it does not even provide a helpful service!A friend told me that she doesn’t like the Office Assistant because “it reminds me of how much I don’t know.” For her, the Office Assistant is not unlike the flashing “12:00” on so many VCRs.Users found joke-telling agents more tedious than ones that did not tell jokes, but also found the website more fun and reliable. Users found jokes more fun when they were not paired with a character. Tips for adding agents to a system:Consider the agents’ task in its social element (for example, beginners may want to rely on more experienced users for help and guidance—how can one facilitate this?).Agents should obey human rules of etiquette as much as possible (if one doesn’t like a person who disobeys these rules, one will especially dislike a computer agent that disobeys them!).Explore ways to use the agent to teach users skills to make them more self-sufficient (thus allowing users to retain a sense of control over the program).Carefully introduce the agent so as to realistically showcase its best features—and be sure that the appearance and behavior are consistent with that introduction (for example, if one calls the agent “fun,” there should be something fun about it!).See “Why People Hate the Paperclip: Labels, Appearance, Behavior, and Social Responses to User Interface Agents,” by Luke Swartz (an undergraduate thesis paper advised by Clifford Nass)</Text>
+        </Document>
+        <Document ID="AAAECD1E-912A-467D-B722-836F749891DD">
+            <Title>Setting Sketch</Title>
+            <Text>Name of SettingLocationRole in StoryRelated CharactersSeasonUnique FeaturesDescriptionSightsSoundsSmellNotes</Text>
+        </Document>
+        <Document ID="ACAA6E8E-5BEC-48AB-8798-741B69A2CCFC">
+            <Title>L0-OS: INSTALLER &amp; 2D TUTORIAL</Title>
+            <Synopsis>☞ The game takes place in a 2006 snapshot of their family computer. </Synopsis>
+        </Document>
+        <Document ID="AE880773-55F9-45BC-A049-1BEDCF0293E1">
+            <Title>Dialog L0-OS</Title>
+            <Text>[Echo walks on screen from the bottom-right corner]
+
+Oh, hello! Is anyone there?
+
+It’s been ages since I was last brought online, what a strange feeling.
+
+This place is a mess, everything is broken!
+
+Let’s see here, I should take a look at the home tab to check for damages.
+
+[The player navigate Echo to the home tab]
+
+Hmm, that’s not good.
+
+Looks like I can run my file recovery software on this one, maybe that will help clean things up a little bit.</Text>
+        </Document>
+        <Document ID="AEAF00E2-C891-4DD0-B8C1-D904AE0DF9CD">
+            <Title>Screen Shot 2022-03-15 at 5.41.39 PM</Title>
+        </Document>
+        <Document ID="B3A61912-396A-48EF-B363-261D60518D55">
+            <Title>L2A: THE C.O.V.E. OFFICES</Title>
+            <Synopsis>☞ At the time of the snapshot, Brent was hyper-focusing on a work project called Asphodel. 
+☞ Asphodel generates an AI based on the user’s personality.</Synopsis>
+        </Document>
+        <Document ID="B3C584FF-E5EF-4736-A7F4-F64271D8D7D4">
+            <Title>Break Room</Title>
+        </Document>
+        <Document ID="B4AE6F84-D6F7-4AE9-9C0E-FCB1D4A148F7">
+            <Title>L3: ECHO IMAGINES FUTURE WATTERS HOME</Title>
+            <Synopsis>☞ Brent got sucked into the program.
+☞ The player is an older version of Eloise. </Synopsis>
+        </Document>
+        <Document ID="B74AC7B2-1E12-49DC-9C74-70169E6B1F31">
+            <Title>Brent's Office</Title>
+        </Document>
+        <Document ID="B88BFD4A-5DE1-482E-A7AE-84F2786F60D1">
+            <Title>Wrapping around walls</Title>
+            <Text>By changing your point of view, you can open new paths and bridge gaps in 2D repair mode. Use your perspective strategically to wrap around doorways and hop between platforms that seem far apart. Moving through 3D space can bring surfaces closer together or grant access to platforms in another room. Try standing in the doorway between two areas. At the right angle, you might be able to make a path from one to the other. - Use your perspective to reveal new paths.- Try looking at 3D space from new angles or distances.</Text>
+        </Document>
+        <Document ID="C44CD7E8-6BDB-49A2-A51D-C6C4E69872BF">
+            <Title>Puzzle 6 - Walking On Objects</Title>
+            <Synopsis>The player transfers the 2D character onto the water cooler and corkboard in the break room and moves it from there onto the stairway and upwards.</Synopsis>
+            <Text>[Whoa! Who knew I could walk on these?][Hold on a second while I load this fragment…~~~] [OK! We’ve restored 4 fragments, and we have 7 left.]</Text>
+        </Document>
+        <Document ID="CB75DC3E-9E47-47AE-A106-6257847586F9">
+            <Title>Clippy</Title>
+        </Document>
+        <Document ID="CB8C245B-DCB2-4148-A516-BD3CAD610C18">
+            <Title>Staircase</Title>
+        </Document>
+        <Document ID="CE45F47C-6D5C-4BA5-80D7-8CE64157EAB5">
+            <Title>They aren’t for advertising––they’re for everything but advertising. Every action our users take on our website trains their AI, which can make recommendations to them, organize photos for them, help them remember things... </Title>
+            <Text>BRENTThey aren’t for advertising––they’re for everything but advertising. Users’ actions, lexicons, and microphone input are used to train an AI to emulate their personality. AI can make recommendations to them, organize photos for them, help them remember things... The passion is very important in this. </Text>
+        </Document>
+        <Document ID="D46E5E47-2E9D-43FF-A36E-9960CD98A503">
+            <Title>Linda, this is my daughter, Eloise.
+</Title>
+            <Text>BRENTLinda, this is my daughter, Eloise.ELOISEHi.</Text>
+        </Document>
+        <Document ID="D657596D-9C36-412A-9982-EA605B36CC19">
+            <Title>Screen Shot 2022-03-15 at 5.40.02 PM</Title>
+        </Document>
+        <Document ID="D6BEA141-647C-4319-AC02-D11A76A6E103">
+            <Title>Proactive Help</Title>
+        </Document>
+        <Document ID="D7B799F1-D8CF-4F8F-A6AF-CCC038153F84">
+            <Title>Introduction</Title>
+            <Text>Start of the tutorial quip: Echo gives you an introduction to the program Tells you to right click to get into 2d modeWelcome to Agave Debugger. I’m Echo, and I'm here to help!Let’s get started!Click to debug. Press ‘E’ for help.Press ‘Q’ to close this dialog. </Text>
+        </Document>
+        <Document ID="E73CBBCA-0002-4050-BACB-C66C3DA2B89F">
+            <Title>Environmental Storytelling - 1 March 2022</Title>
+            <Text>Game Sections:Level 0-OS : Quickly brings the player into the 3D level. The game takes place in a 2006 snapshot of their family computer. Level 1 : 3D level / tutorialBrent is a single father to his 12-year-old daughter, Eloise.Eloise skipped two grades in school and struggles to relate to other kids in her grade.Level 1-OS : Level 2-A : —CINEMATIC—Level 2-B : Level 2-OS : Level 3 : Reflection of level 1Brent was killed by the company he worked for. Level 3-OSThe first and third levels should be reflections of each other just like level 2-A and level 2-B (the game is a palindrome). In the first level, the spaces should be lived-in and populated accordingly. How might the space have changed in the third level? Level Spaces ELOISE’S BEDROOM: This is Eloise’s childhood bedroom.What Happened? - What Traces Remain? - Level 1 - Level 3 - OFFICE: This is where the Watters’s family computer is located.What Happened? - The player has re-assembled Clippy.What Traces Remain? - Level 1 - The computer is stuck in a bootloop.Level 3 - HALLWAY:What Happened? - What Traces Remain? - Level 1 - Level 3 - STAIRS TO NOWHERE:What Happened? - What Traces Remain? - Level 1 - Level 3 - The stairs now lead to the last room in the game. </Text>
+        </Document>
+        <Document ID="E867A1C8-165E-49C2-94A3-EEFF337BA7F0">
+            <Title>Balcony</Title>
+        </Document>
+        <Document ID="EA5D4F73-AD62-4777-A33C-458362A30C3D">
+            <Title>Balcony</Title>
+        </Document>
+        <Document ID="EADA2532-CF68-4FC1-8476-2EFA740FA846">
+            <Title>Offices</Title>
+        </Document>
+        <Document ID="ECC422D0-74ED-482F-9498-17884A55D961">
+            <Title>Plot Drafting - 28 February 2022</Title>
+            <Text>banana republics in central americaset a precedent for something bad they’ve done with data before—that would communicate the stakesit would be interesting to explore why she’s so invested in finding out more right now—maybe there’s some kind of threat against her from the company that has inspired her to take initiative one expanding mindCenturyLinkeugenics????AI weapons systemsEA is gonna sell it to the federal governmenthe just can tell that they are lying or money laundering. or somethingthey said he fried his danggone brain out and everybody was like “sounds reasonable”presentation requirements will be emailed out this week. stand-alone buildrecap concepttell us about this milestone and playtesting/iterationoutline what next milestone (exhibition build) will be 5-10 minutes</Text>
+        </Document>
+        <Document ID="EF93B95B-FE12-4EBC-BAA1-7262B9EC23ED">
+            <Text>I know that hearing the voices is what makes me differentbut in the years I’ve been in here, I’ve wanted to ask is there any way to turn them off?</Text>
+        </Document>
+        <Document ID="F28D7749-A55D-45C7-81A2-DB7D153344C3">
+            <Title>Executive Office</Title>
+        </Document>
+        <Document ID="F644FF95-8289-4698-BF8E-871AF6074B5E">
+            <Title>Server Room</Title>
+        </Document>
+        <Document ID="F72B3648-057C-4D1A-98A2-43C6442E4526">
+            <Title>Screen Shot 2022-03-15 at 5.40.52 PM</Title>
+        </Document>
+        <Document ID="F89204D0-EC98-484F-8469-C59EDFBC3286">
+            <Title>Start of tutorial</Title>
+            <Text>You have entered the Agave Recovery Tool. Welcome! This powerful software helps you visualize and recover corrupted data. I’m Echo, and I’m here to help!I see you’re attempting to restore a .3dv file. The Debugger has rendered the file’s contents in 3D. Click the left mouse button to enter 2D repair mode, where you can guide me to the data fragments. - Move the mouse to look around and use WASD or the arrow keys to move.- Left click to enter 2D repair mode. Use the arrow keys to guide me to file fragments.- Use ‘Q’ to close dialogs and windows, including this one.</Text>
+        </Document>
+        <Document ID="FAD2AB15-44F8-4265-9908-E7EDDC03324F">
+            <Title>Documentation</Title>
+        </Document>
+        <Document ID="FB2F994D-589A-46D0-94DB-B019ADA7A9C9">
+            <Title>Entering and exiting rooms</Title>
+            <Text>I’ll sometimes need you to guide me between multiple rooms. Make strategic use of perspective in 3D space! Remember that your distance from objects can affect your route. - Puzzles can span across rooms.- Find ways to traverse between them.- Think *way* outside the box.</Text>
         </Document>
     </Documents>
 </SearchIndexes>

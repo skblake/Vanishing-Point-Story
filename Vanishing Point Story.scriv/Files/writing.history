@@ -12,12 +12,13 @@
     <Day dwc="7" dcc="40" owc="4" occ="34">2022-03-04</Day>
     <Day dwc="0" dcc="0" owc="13" occ="78">2022-03-07</Day>
     <Day dwc="0" dcc="0" owc="926" occ="5561">2022-03-15</Day>
-    <Day dwc="0" dcc="0" dtwc="0" owc="12" occ="54" dtcc="0">2022-03-23</Day>
-    <Day dwc="0" dcc="0" dtwc="0" owc="85" occ="474" dtcc="0">2022-03-30</Day>
+    <Day dwc="0" dcc="0" owc="12" occ="54">2022-03-23</Day>
+    <Day dwc="0" dcc="0" owc="85" occ="474">2022-03-30</Day>
     <Day dwc="0" dcc="0" owc="1" occ="9">2022-04-06</Day>
     <Day dwc="0" dcc="0" owc="12" occ="54">2022-03-23</Day>
     <Day dwc="0" dcc="0" owc="85" occ="474">2022-03-30</Day>
     <Day dwc="0" dcc="0" owc="464" occ="2601">2022-04-06</Day>
-    <Day dwc="0" dcc="0" dtwc="0" owc="185" occ="1043" dtcc="0">2022-04-11</Day>
+    <Day dwc="0" dcc="0" owc="185" occ="1043">2022-04-11</Day>
     <Day dwc="0" dcc="0" owc="8" occ="49">2022-04-12</Day>
+    <Day dwc="0" dcc="0" owc="13" occ="82">2022-04-22</Day>
 </WritingHistory>

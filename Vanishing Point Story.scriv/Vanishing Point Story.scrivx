@@ -1,16 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Identifier="F1BB5BCB-C42B-4817-93C5-482B8E656448" Version="2.0" Creator="SCRMAC-3.2.3-14869" Device="Sams-MacBook-Pro" Author="" Modified="2022-04-06 15:51:43 -0400" ModID="2598AE3E-0A56-4783-B7AF-B237B133FCA7">
+<ScrivenerProject Template="No" Version="2.0" Identifier="F1BB5BCB-C42B-4817-93C5-482B8E656448" Creator="SCRWIN-3.1.1.0" Device="LAPTOP-CC1T0PUN" Modified="2022-04-22 08:10:16 -0400" ModID="E6E8DA28-F3F8-4E64-B919-07DC3EE9148E">
     <Binder>
-        <BinderItem UUID="3C57A925-E91E-4D5D-A1D6-F16A2F7A3D35" Type="DraftFolder" Created="2022-02-20 15:47:18 -0500" Modified="2022-02-20 18:05:15 -0500">
+        <BinderItem UUID="3C57A925-E91E-4D5D-A1D6-F16A2F7A3D35" Type="DraftFolder" Created="2022-02-20 15:47:18 -0400" Modified="2022-02-20 18:05:15 -0400">
             <Title>Spatial Audio</Title>
             <MetaData>
                 <IconFileName>Speech Marks</IconFileName>
             </MetaData>
             <CorkboardAndOutliner>
                 <SelectedSubdocumentUUIDs>7B5EDD45-0861-4822-A106-979663576E3D</SelectedSubdocumentUUIDs>
+                <CorkboardSettings>
+                    <Arrangement>Linear</Arrangement>
+                </CorkboardSettings>
             </CorkboardAndOutliner>
             <Children>
-                <BinderItem UUID="0CC4111C-7FC9-46BA-8680-0DE034DA09BE" Type="Folder" Created="2022-02-20 15:58:44 -0500" Modified="2022-02-20 18:11:28 -0500">
+                <BinderItem UUID="0CC4111C-7FC9-46BA-8680-0DE034DA09BE" Type="Folder" Created="2022-02-20 15:58:44 -0400" Modified="2022-02-20 18:11:28 -0400">
                     <Title>Level 2-A</Title>
                     <MetaData>
                         <IconFileName>Locations (Map)</IconFileName>
@@ -19,7 +22,7 @@
                         <TextSelection>0,0</TextSelection>
                     </TextSettings>
                     <Children>
-                        <BinderItem UUID="5F05C250-9576-48A7-9A0F-54C064B50198" Type="Folder" Created="2022-02-20 15:58:54 -0500" Modified="2022-02-20 15:58:56 -0500">
+                        <BinderItem UUID="5F05C250-9576-48A7-9A0F-54C064B50198" Type="Folder" Created="2022-02-20 15:58:54 -0400" Modified="2022-02-20 15:58:56 -0400">
                             <Title>Reception</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
@@ -29,7 +32,7 @@
                                 <TextSelection>0,0</TextSelection>
                             </TextSettings>
                             <Children>
-                                <BinderItem UUID="4AB3BC7C-97D3-42A0-995C-D04BAAB27D92" Type="Text" Created="2022-02-20 18:21:03 -0500" Modified="2022-02-23 13:19:23 -0500">
+                                <BinderItem UUID="4AB3BC7C-97D3-42A0-995C-D04BAAB27D92" Type="Text" Created="2022-02-20 18:21:03 -0400" Modified="2022-02-23 13:19:23 -0400">
                                     <Title>Morning, Tami! How’s the coffee?</Title>
                                     <MetaData>
                                         <StatusID>7</StatusID>
@@ -42,7 +45,7 @@
                                 </BinderItem>
                             </Children>
                         </BinderItem>
-                        <BinderItem UUID="189CE60D-6688-4D65-8683-A211F60CF740" Type="Folder" Created="2022-02-20 16:04:23 -0500" Modified="2022-02-20 16:04:28 -0500">
+                        <BinderItem UUID="189CE60D-6688-4D65-8683-A211F60CF740" Type="Folder" Created="2022-02-20 16:04:23 -0400" Modified="2022-02-20 16:04:28 -0400">
                             <Title>Central Conference Room</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
@@ -53,9 +56,12 @@
                             </TextSettings>
                             <CorkboardAndOutliner>
                                 <SelectedSubdocumentUUIDs>A09BCFBD-40FC-4DDC-B110-7CA05415DA22</SelectedSubdocumentUUIDs>
+                                <CorkboardSettings>
+                                    <Arrangement>Linear</Arrangement>
+                                </CorkboardSettings>
                             </CorkboardAndOutliner>
                             <Children>
-                                <BinderItem UUID="A09BCFBD-40FC-4DDC-B110-7CA05415DA22" Type="Text" Created="2022-02-20 15:59:23 -0500" Modified="2022-03-03 15:16:03 -0500">
+                                <BinderItem UUID="A09BCFBD-40FC-4DDC-B110-7CA05415DA22" Type="Text" Created="2022-02-20 15:59:23 -0400" Modified="2022-03-03 15:16:03 -0400">
                                     <Title>My team is working on a project that will revolutionize the fields of...</Title>
                                     <MetaData>
                                         <StatusID>2</StatusID>
@@ -68,7 +74,7 @@
                                 </BinderItem>
                             </Children>
                         </BinderItem>
-                        <BinderItem UUID="2F62AA69-011D-4E8D-BBD4-AE28E663C5FB" Type="Folder" Created="2022-02-20 16:04:23 -0500" Modified="2022-02-20 19:06:31 -0500">
+                        <BinderItem UUID="2F62AA69-011D-4E8D-BBD4-AE28E663C5FB" Type="Folder" Created="2022-02-20 16:04:23 -0400" Modified="2022-02-20 19:06:31 -0400">
                             <Title>Offices</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
@@ -79,9 +85,12 @@
                             </TextSettings>
                             <CorkboardAndOutliner>
                                 <SelectedSubdocumentUUIDs>D46E5E47-2E9D-43FF-A36E-9960CD98A503</SelectedSubdocumentUUIDs>
+                                <CorkboardSettings>
+                                    <Arrangement>Linear</Arrangement>
+                                </CorkboardSettings>
                             </CorkboardAndOutliner>
                             <Children>
-                                <BinderItem UUID="D46E5E47-2E9D-43FF-A36E-9960CD98A503" Type="Text" Created="2022-02-20 18:19:31 -0500" Modified="2022-02-23 14:23:31 -0500">
+                                <BinderItem UUID="D46E5E47-2E9D-43FF-A36E-9960CD98A503" Type="Text" Created="2022-02-20 18:19:31 -0400" Modified="2022-02-23 14:23:31 -0400">
                                     <Title>Linda, this is my daughter, Eloise.
 </Title>
                                     <MetaData>
@@ -93,7 +102,7 @@
                                         <TextSelection>53,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
-                                <BinderItem UUID="74B42465-7C80-4D53-8F60-EBAE2F966825" Type="Text" Created="2022-02-20 18:21:51 -0500" Modified="2022-02-23 13:19:02 -0500">
+                                <BinderItem UUID="74B42465-7C80-4D53-8F60-EBAE2F966825" Type="Text" Created="2022-02-20 18:21:51 -0400" Modified="2022-02-23 13:19:02 -0400">
                                     <Title>Can I go to a party on Saturday?
 Can I go to a party on Saturday?
 </Title>
@@ -108,7 +117,7 @@ Can I go to a party on Saturday?
                                 </BinderItem>
                             </Children>
                         </BinderItem>
-                        <BinderItem UUID="3B85E9CD-0407-4D4B-8CF4-C02C87C8F9B5" Type="Folder" Created="2022-02-20 16:04:23 -0500" Modified="2022-02-20 19:06:59 -0500">
+                        <BinderItem UUID="3B85E9CD-0407-4D4B-8CF4-C02C87C8F9B5" Type="Folder" Created="2022-02-20 16:04:23 -0400" Modified="2022-02-20 19:06:59 -0400">
                             <Title>Break Room</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
@@ -118,7 +127,7 @@ Can I go to a party on Saturday?
                                 <TextSelection>0,0</TextSelection>
                             </TextSettings>
                             <Children>
-                                <BinderItem UUID="6A73CAF9-45F2-4396-91A1-8A3197BF03A9" Type="Text" Created="2022-02-20 18:18:49 -0500" Modified="2022-02-23 13:18:42 -0500">
+                                <BinderItem UUID="6A73CAF9-45F2-4396-91A1-8A3197BF03A9" Type="Text" Created="2022-02-20 18:18:49 -0400" Modified="2022-02-23 13:18:42 -0400">
                                     <Title>Are we gonna watch a movie tonight?
 </Title>
                                     <MetaData>
@@ -132,7 +141,7 @@ Can I go to a party on Saturday?
                                 </BinderItem>
                             </Children>
                         </BinderItem>
-                        <BinderItem UUID="CB8C245B-DCB2-4148-A516-BD3CAD610C18" Type="Folder" Created="2022-02-20 16:04:23 -0500" Modified="2022-02-20 19:07:06 -0500">
+                        <BinderItem UUID="CB8C245B-DCB2-4148-A516-BD3CAD610C18" Type="Folder" Created="2022-02-20 16:04:23 -0400" Modified="2022-02-20 19:07:06 -0400">
                             <Title>Staircase</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
@@ -142,7 +151,7 @@ Can I go to a party on Saturday?
                                 <TextSelection>0,0</TextSelection>
                             </TextSettings>
                             <Children>
-                                <BinderItem UUID="0B8B95E1-23BD-47BE-B12F-6ABCCDE34940" Type="Text" Created="2022-02-20 18:23:00 -0500" Modified="2022-02-23 13:19:12 -0500">
+                                <BinderItem UUID="0B8B95E1-23BD-47BE-B12F-6ABCCDE34940" Type="Text" Created="2022-02-20 18:23:00 -0400" Modified="2022-02-23 13:19:12 -0400">
                                     <Title>Listen––I know. I know. It’s going to be fine. I’ll handle it.</Title>
                                     <MetaData>
                                         <StatusID>7</StatusID>
@@ -155,7 +164,7 @@ Can I go to a party on Saturday?
                                 </BinderItem>
                             </Children>
                         </BinderItem>
-                        <BinderItem UUID="EA5D4F73-AD62-4777-A33C-458362A30C3D" Type="Folder" Created="2022-02-20 16:04:23 -0500" Modified="2022-02-20 19:07:42 -0500">
+                        <BinderItem UUID="EA5D4F73-AD62-4777-A33C-458362A30C3D" Type="Folder" Created="2022-02-20 16:04:23 -0400" Modified="2022-02-20 19:07:42 -0400">
                             <Title>Balcony</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
@@ -166,9 +175,12 @@ Can I go to a party on Saturday?
                             </TextSettings>
                             <CorkboardAndOutliner>
                                 <SelectedSubdocumentUUIDs>CE45F47C-6D5C-4BA5-80D7-8CE64157EAB5</SelectedSubdocumentUUIDs>
+                                <CorkboardSettings>
+                                    <Arrangement>Linear</Arrangement>
+                                </CorkboardSettings>
                             </CorkboardAndOutliner>
                             <Children>
-                                <BinderItem UUID="CE45F47C-6D5C-4BA5-80D7-8CE64157EAB5" Type="Text" Created="2022-02-20 20:25:44 -0500" Modified="2022-03-04 19:20:49 -0500">
+                                <BinderItem UUID="CE45F47C-6D5C-4BA5-80D7-8CE64157EAB5" Type="Text" Created="2022-02-20 20:25:44 -0400" Modified="2022-03-04 19:20:49 -0400">
                                     <Title>They aren’t for advertising––they’re for everything but advertising. Every action our users take on our website trains their AI, which can make recommendations to them, organize photos for them, help them remember things... </Title>
                                     <MetaData>
                                         <StatusID>9</StatusID>
@@ -179,7 +191,7 @@ Can I go to a party on Saturday?
                                         <TextSelection>308,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
-                                <BinderItem UUID="39007539-933D-4C70-AFA7-80C46DEE7DD7" Type="Text" Created="2022-02-20 18:20:20 -0500" Modified="2022-02-23 13:18:54 -0500">
+                                <BinderItem UUID="39007539-933D-4C70-AFA7-80C46DEE7DD7" Type="Text" Created="2022-02-20 18:20:20 -0400" Modified="2022-02-23 13:18:54 -0400">
                                     <Title>It’s not fair! You’re never there for me...</Title>
                                     <MetaData>
                                         <StatusID>7</StatusID>
@@ -192,7 +204,7 @@ Can I go to a party on Saturday?
                                 </BinderItem>
                             </Children>
                         </BinderItem>
-                        <BinderItem UUID="F644FF95-8289-4698-BF8E-871AF6074B5E" Type="Folder" Created="2022-02-20 16:04:23 -0500" Modified="2022-02-20 19:07:49 -0500">
+                        <BinderItem UUID="F644FF95-8289-4698-BF8E-871AF6074B5E" Type="Folder" Created="2022-02-20 16:04:23 -0400" Modified="2022-02-20 19:07:49 -0400">
                             <Title>Server Room</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
@@ -202,7 +214,7 @@ Can I go to a party on Saturday?
                                 <TextSelection>0,0</TextSelection>
                             </TextSettings>
                             <Children>
-                                <BinderItem UUID="82048B5D-6320-4CB9-88B2-5E7ED2B4F794" Type="Text" Created="2022-02-20 18:21:29 -0500" Modified="2022-02-23 13:18:59 -0500">
+                                <BinderItem UUID="82048B5D-6320-4CB9-88B2-5E7ED2B4F794" Type="Text" Created="2022-02-20 18:21:29 -0400" Modified="2022-02-23 13:18:59 -0400">
                                     <Title>I understand. It’ll be ready.</Title>
                                     <MetaData>
                                         <StatusID>7</StatusID>
@@ -215,7 +227,7 @@ Can I go to a party on Saturday?
                                 </BinderItem>
                             </Children>
                         </BinderItem>
-                        <BinderItem UUID="F28D7749-A55D-45C7-81A2-DB7D153344C3" Type="Folder" Created="2022-02-20 16:04:23 -0500" Modified="2022-02-20 19:08:41 -0500">
+                        <BinderItem UUID="F28D7749-A55D-45C7-81A2-DB7D153344C3" Type="Folder" Created="2022-02-20 16:04:23 -0400" Modified="2022-02-20 19:08:41 -0400">
                             <Title>Executive Office</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
@@ -225,7 +237,7 @@ Can I go to a party on Saturday?
                                 <TextSelection>0,0</TextSelection>
                             </TextSettings>
                             <Children>
-                                <BinderItem UUID="01CAC4D9-0749-45BE-8D5C-15AF12886D91" Type="Text" Created="2022-02-20 18:23:43 -0500" Modified="2022-02-23 13:19:15 -0500">
+                                <BinderItem UUID="01CAC4D9-0749-45BE-8D5C-15AF12886D91" Type="Text" Created="2022-02-20 18:23:43 -0400" Modified="2022-02-23 13:19:15 -0400">
                                     <Title>You think I’m just gonna let you do this? I’ll make sure everyone...</Title>
                                     <MetaData>
                                         <StatusID>7</StatusID>
@@ -236,7 +248,7 @@ Can I go to a party on Saturday?
                                         <TextSelection>169,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
-                                <BinderItem UUID="971CB1FF-46E4-47C2-8138-E8D80280DDC2" Type="Text" Created="2022-02-20 18:24:40 -0500" Modified="2022-02-23 13:19:19 -0500">
+                                <BinderItem UUID="971CB1FF-46E4-47C2-8138-E8D80280DDC2" Type="Text" Created="2022-02-20 18:24:40 -0400" Modified="2022-02-23 13:19:19 -0400">
                                     <Title>Are you threatening me?
 </Title>
                                     <MetaData>
@@ -250,7 +262,7 @@ Can I go to a party on Saturday?
                                 </BinderItem>
                             </Children>
                         </BinderItem>
-                        <BinderItem UUID="B74AC7B2-1E12-49DC-9C74-70169E6B1F31" Type="Folder" Created="2022-02-20 16:04:23 -0500" Modified="2022-02-20 19:08:49 -0500">
+                        <BinderItem UUID="B74AC7B2-1E12-49DC-9C74-70169E6B1F31" Type="Folder" Created="2022-02-20 16:04:23 -0400" Modified="2022-02-20 19:08:49 -0400">
                             <Title>Brent's Office</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
@@ -260,7 +272,7 @@ Can I go to a party on Saturday?
                                 <TextSelection>0,0</TextSelection>
                             </TextSettings>
                             <Children>
-                                <BinderItem UUID="06C48358-7DB0-4DC4-B076-EBA15D01FF32" Type="Text" Created="2022-02-20 18:22:20 -0500" Modified="2022-02-23 13:19:09 -0500">
+                                <BinderItem UUID="06C48358-7DB0-4DC4-B076-EBA15D01FF32" Type="Text" Created="2022-02-20 18:22:20 -0400" Modified="2022-02-23 13:19:09 -0400">
                                     <Title>We just need to be flexible right now. Once this project is done, I’ll have a lot more...
 </Title>
                                     <MetaData>
@@ -276,7 +288,7 @@ Can I go to a party on Saturday?
                         </BinderItem>
                     </Children>
                 </BinderItem>
-                <BinderItem UUID="7B5EDD45-0861-4822-A106-979663576E3D" Type="Folder" Created="2022-02-20 15:58:44 -0500" Modified="2022-02-20 19:09:15 -0500">
+                <BinderItem UUID="7B5EDD45-0861-4822-A106-979663576E3D" Type="Folder" Created="2022-02-20 15:58:44 -0400" Modified="2022-02-20 19:09:15 -0400">
                     <Title>Level 2-B</Title>
                     <MetaData>
                         <IconFileName>Locations (Map)</IconFileName>
@@ -285,7 +297,7 @@ Can I go to a party on Saturday?
                         <TextSelection>0,0</TextSelection>
                     </TextSettings>
                     <Children>
-                        <BinderItem UUID="2C62036E-5DCA-43CB-A87F-EF722AFC8BA8" Type="Folder" Created="2022-02-20 16:04:23 -0500" Modified="2022-02-20 19:08:49 -0500">
+                        <BinderItem UUID="2C62036E-5DCA-43CB-A87F-EF722AFC8BA8" Type="Folder" Created="2022-02-20 16:04:23 -0400" Modified="2022-02-20 19:08:49 -0400">
                             <Title>Brent's Office</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
@@ -295,7 +307,7 @@ Can I go to a party on Saturday?
                                 <TextSelection>0,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem UUID="0D5ADFB1-2B97-4E08-A1B9-B1D5D676F54B" Type="Folder" Created="2022-02-20 16:04:23 -0500" Modified="2022-02-20 19:08:41 -0500">
+                        <BinderItem UUID="0D5ADFB1-2B97-4E08-A1B9-B1D5D676F54B" Type="Folder" Created="2022-02-20 16:04:23 -0400" Modified="2022-02-20 19:08:41 -0400">
                             <Title>Executive Office</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
@@ -305,7 +317,7 @@ Can I go to a party on Saturday?
                                 <TextSelection>0,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem UUID="066ABD97-1528-4816-AEA9-A1EB3A12E784" Type="Folder" Created="2022-02-20 16:04:23 -0500" Modified="2022-02-20 19:07:49 -0500">
+                        <BinderItem UUID="066ABD97-1528-4816-AEA9-A1EB3A12E784" Type="Folder" Created="2022-02-20 16:04:23 -0400" Modified="2022-02-20 19:07:49 -0400">
                             <Title>Server Room</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
@@ -315,7 +327,7 @@ Can I go to a party on Saturday?
                                 <TextSelection>0,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem UUID="E867A1C8-165E-49C2-94A3-EEFF337BA7F0" Type="Folder" Created="2022-02-20 16:04:23 -0500" Modified="2022-02-20 19:07:42 -0500">
+                        <BinderItem UUID="E867A1C8-165E-49C2-94A3-EEFF337BA7F0" Type="Folder" Created="2022-02-20 16:04:23 -0400" Modified="2022-02-20 19:07:42 -0400">
                             <Title>Balcony</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
@@ -325,7 +337,7 @@ Can I go to a party on Saturday?
                                 <TextSelection>0,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem UUID="7F2D6008-D815-425D-9DC9-767F0CCEE8C0" Type="Folder" Created="2022-02-20 16:04:23 -0500" Modified="2022-02-20 19:07:06 -0500">
+                        <BinderItem UUID="7F2D6008-D815-425D-9DC9-767F0CCEE8C0" Type="Folder" Created="2022-02-20 16:04:23 -0400" Modified="2022-02-20 19:07:06 -0400">
                             <Title>Staircase</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
@@ -335,7 +347,7 @@ Can I go to a party on Saturday?
                                 <TextSelection>0,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem UUID="8BAB6E1A-6BB6-47B8-AA10-CA923AEC191E" Type="Folder" Created="2022-02-20 16:04:23 -0500" Modified="2022-02-20 16:04:28 -0500">
+                        <BinderItem UUID="8BAB6E1A-6BB6-47B8-AA10-CA923AEC191E" Type="Folder" Created="2022-02-20 16:04:23 -0400" Modified="2022-02-20 16:04:28 -0400">
                             <Title>Central Conference Room</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
@@ -345,7 +357,7 @@ Can I go to a party on Saturday?
                                 <TextSelection>0,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem UUID="B3C584FF-E5EF-4736-A7F4-F64271D8D7D4" Type="Folder" Created="2022-02-20 16:04:23 -0500" Modified="2022-02-20 19:06:59 -0500">
+                        <BinderItem UUID="B3C584FF-E5EF-4736-A7F4-F64271D8D7D4" Type="Folder" Created="2022-02-20 16:04:23 -0400" Modified="2022-02-20 19:06:59 -0400">
                             <Title>Break Room</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
@@ -355,7 +367,7 @@ Can I go to a party on Saturday?
                                 <TextSelection>0,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem UUID="EADA2532-CF68-4FC1-8476-2EFA740FA846" Type="Folder" Created="2022-02-20 16:04:23 -0500" Modified="2022-02-20 19:06:31 -0500">
+                        <BinderItem UUID="EADA2532-CF68-4FC1-8476-2EFA740FA846" Type="Folder" Created="2022-02-20 16:04:23 -0400" Modified="2022-02-20 19:06:31 -0400">
                             <Title>Offices</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
@@ -365,7 +377,7 @@ Can I go to a party on Saturday?
                                 <TextSelection>0,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem UUID="2EAF0270-E6E0-44E5-A1CA-2FC8C6B9AE69" Type="Folder" Created="2022-02-20 15:58:54 -0500" Modified="2022-02-20 15:58:56 -0500">
+                        <BinderItem UUID="2EAF0270-E6E0-44E5-A1CA-2FC8C6B9AE69" Type="Folder" Created="2022-02-20 15:58:54 -0400" Modified="2022-02-20 15:58:56 -0400">
                             <Title>Reception</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
@@ -377,7 +389,7 @@ Can I go to a party on Saturday?
                         </BinderItem>
                     </Children>
                 </BinderItem>
-                <BinderItem UUID="60BEFF3B-B66C-4CD8-891A-36496EE6D71F" Type="Folder" Created="2022-02-20 15:59:36 -0500" Modified="2022-02-20 15:59:39 -0500">
+                <BinderItem UUID="60BEFF3B-B66C-4CD8-891A-36496EE6D71F" Type="Folder" Created="2022-02-20 15:59:36 -0400" Modified="2022-02-20 15:59:39 -0400">
                     <Title>Unplaced</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
@@ -387,7 +399,7 @@ Can I go to a party on Saturday?
                         <TextSelection>0,0</TextSelection>
                     </TextSettings>
                     <Children>
-                        <BinderItem UUID="990348FE-6DF4-49BB-8434-138AC5E35F8D" Type="Text" Created="2022-02-21 11:34:37 -0500" Modified="2022-02-23 15:27:20 -0500">
+                        <BinderItem UUID="990348FE-6DF4-49BB-8434-138AC5E35F8D" Type="Text" Created="2022-02-21 11:34:37 -0400" Modified="2022-02-23 15:27:20 -0400">
                             <Title>I’m sorry, El, I just didn’t notice––</Title>
                             <MetaData>
                                 <StatusID>7</StatusID>
@@ -401,7 +413,7 @@ Can I go to a party on Saturday?
                 </BinderItem>
             </Children>
         </BinderItem>
-        <BinderItem UUID="26CF3935-7390-475A-95C6-30762B0C6DBB" Type="Folder" Created="2022-02-20 18:02:13 -0500" Modified="2022-03-07 16:13:08 -0500">
+        <BinderItem UUID="26CF3935-7390-475A-95C6-30762B0C6DBB" Type="Folder" Created="2022-02-20 18:02:13 -0400" Modified="2022-03-07 16:13:08 -0400">
             <Title>Echo Dialogue</Title>
             <MetaData>
                 <IncludeInCompile>Yes</IncludeInCompile>
@@ -413,9 +425,12 @@ Can I go to a party on Saturday?
             </TextSettings>
             <CorkboardAndOutliner>
                 <SelectedSubdocumentUUIDs>B4AE6F84-D6F7-4AE9-9C0E-FCB1D4A148F7</SelectedSubdocumentUUIDs>
+                <CorkboardSettings>
+                    <Arrangement>Linear</Arrangement>
+                </CorkboardSettings>
             </CorkboardAndOutliner>
             <Children>
-                <BinderItem UUID="ACAA6E8E-5BEC-48AB-8798-741B69A2CCFC" Type="Folder" Created="2022-02-20 19:43:14 -0500" Modified="2022-03-15 17:05:45 -0400">
+                <BinderItem UUID="ACAA6E8E-5BEC-48AB-8798-741B69A2CCFC" Type="Folder" Created="2022-02-20 19:43:14 -0400" Modified="2022-03-15 17:05:45 -0400">
                     <Title>L0-OS: INSTALLER &amp; 2D TUTORIAL</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
@@ -426,9 +441,12 @@ Can I go to a party on Saturday?
                     </TextSettings>
                     <CorkboardAndOutliner>
                         <SelectedSubdocumentUUIDs>355168CC-4383-4C44-BB0C-FD00C5ED9686</SelectedSubdocumentUUIDs>
+                        <CorkboardSettings>
+                            <Arrangement>Linear</Arrangement>
+                        </CorkboardSettings>
                     </CorkboardAndOutliner>
                     <Children>
-                        <BinderItem UUID="355168CC-4383-4C44-BB0C-FD00C5ED9686" Type="Text" Created="2022-02-20 19:43:43 -0500" Modified="2022-02-24 15:40:40 -0500">
+                        <BinderItem UUID="355168CC-4383-4C44-BB0C-FD00C5ED9686" Type="Text" Created="2022-02-20 19:43:43 -0400" Modified="2022-02-24 15:40:40 -0400">
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
@@ -436,9 +454,18 @@ Can I go to a party on Saturday?
                                 <TextSelection>44,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
+                        <BinderItem UUID="AE880773-55F9-45BC-A049-1BEDCF0293E1" Type="Text" Created="2022-04-20 18:47:52 -0400" Modified="2022-04-22 08:06:16 -0400">
+                            <Title>Dialog L0-OS</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>453,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
                     </Children>
                 </BinderItem>
-                <BinderItem UUID="07CF87E8-8EBD-4AF6-81F0-02EB58ED1584" Type="Folder" Created="2022-02-20 19:43:14 -0500" Modified="2022-03-15 17:05:40 -0400">
+                <BinderItem UUID="07CF87E8-8EBD-4AF6-81F0-02EB58ED1584" Type="Folder" Created="2022-02-20 19:43:14 -0400" Modified="2022-03-15 17:05:40 -0400">
                     <Title>L1: WATTERS FAMILY HOME</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
@@ -513,7 +540,7 @@ Can I go to a party on Saturday?
                         </BinderItem>
                     </Children>
                 </BinderItem>
-                <BinderItem UUID="2FDCBA14-4445-48E0-BF59-C0A4DE3BC46D" Type="Folder" Created="2022-02-20 19:43:14 -0500" Modified="2022-03-15 17:05:55 -0400">
+                <BinderItem UUID="2FDCBA14-4445-48E0-BF59-C0A4DE3BC46D" Type="Folder" Created="2022-02-20 19:43:14 -0400" Modified="2022-03-15 17:05:55 -0400">
                     <Title>L1-OS: </Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
@@ -522,8 +549,19 @@ Can I go to a party on Saturday?
                     <TextSettings>
                         <TextSelection>0,0</TextSelection>
                     </TextSettings>
+                    <Children>
+                        <BinderItem UUID="981F2141-CD8A-4446-BD60-2F731061740D" Type="Text" Created="2022-04-20 18:48:15 -0400" Modified="2022-04-22 08:10:10 -0400">
+                            <Title>Dialog L1-OS</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>566,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                    </Children>
                 </BinderItem>
-                <BinderItem UUID="B3A61912-396A-48EF-B363-261D60518D55" Type="Folder" Created="2022-02-20 19:43:14 -0500" Modified="2022-03-15 17:06:19 -0400">
+                <BinderItem UUID="B3A61912-396A-48EF-B363-261D60518D55" Type="Folder" Created="2022-02-20 19:43:14 -0400" Modified="2022-03-15 17:06:19 -0400">
                     <Title>L2A: THE C.O.V.E. OFFICES</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
@@ -658,7 +696,7 @@ Can I go to a party on Saturday?
                         </BinderItem>
                     </Children>
                 </BinderItem>
-                <BinderItem UUID="4066EB37-FC50-4357-AB66-D61FB41DCA8C" Type="Folder" Created="2022-02-20 19:43:14 -0500" Modified="2022-03-15 17:06:28 -0400">
+                <BinderItem UUID="4066EB37-FC50-4357-AB66-D61FB41DCA8C" Type="Folder" Created="2022-02-20 19:43:14 -0400" Modified="2022-03-15 17:06:28 -0400">
                     <Title>L2B: CORRUPTED C.O.V.E. OFFICES</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
@@ -668,7 +706,7 @@ Can I go to a party on Saturday?
                         <TextSelection>0,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem UUID="38DD2931-EA09-44D0-A48A-847ED1A11FB3" Type="Folder" Created="2022-02-20 19:43:14 -0500" Modified="2022-03-15 17:07:25 -0400">
+                <BinderItem UUID="38DD2931-EA09-44D0-A48A-847ED1A11FB3" Type="Folder" Created="2022-02-20 19:43:14 -0400" Modified="2022-03-15 17:07:25 -0400">
                     <Title>L2-OS: </Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
@@ -678,7 +716,7 @@ Can I go to a party on Saturday?
                         <TextSelection>0,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem UUID="B4AE6F84-D6F7-4AE9-9C0E-FCB1D4A148F7" Type="Folder" Created="2022-02-20 19:43:14 -0500" Modified="2022-03-15 17:07:10 -0400">
+                <BinderItem UUID="B4AE6F84-D6F7-4AE9-9C0E-FCB1D4A148F7" Type="Folder" Created="2022-02-20 19:43:14 -0400" Modified="2022-03-15 17:07:10 -0400">
                     <Title>L3: ECHO IMAGINES FUTURE WATTERS HOME</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
@@ -688,7 +726,7 @@ Can I go to a party on Saturday?
                         <TextSelection>0,0</TextSelection>
                     </TextSettings>
                     <Children>
-                        <BinderItem UUID="1F2616B2-08DD-44E5-A40A-6DF8EC31A2C6" Type="Text" Created="2022-03-07 16:14:05 -0500" Modified="2022-03-07 16:16:06 -0500">
+                        <BinderItem UUID="1F2616B2-08DD-44E5-A40A-6DF8EC31A2C6" Type="Text" Created="2022-03-07 16:14:05 -0400" Modified="2022-03-07 16:16:06 -0400">
                             <MetaData>
                                 <StatusID>1</StatusID>
                                 <IncludeInCompile>Yes</IncludeInCompile>
@@ -699,7 +737,7 @@ Can I go to a party on Saturday?
                         </BinderItem>
                     </Children>
                 </BinderItem>
-                <BinderItem UUID="94C02A06-5D62-499C-A4F9-1CB9B969D187" Type="Folder" Created="2022-02-25 19:07:02 -0500" Modified="2022-02-25 19:07:05 -0500">
+                <BinderItem UUID="94C02A06-5D62-499C-A4F9-1CB9B969D187" Type="Folder" Created="2022-02-25 19:07:02 -0400" Modified="2022-02-25 19:07:05 -0400">
                     <Title>Unplaced</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
@@ -709,7 +747,7 @@ Can I go to a party on Saturday?
                         <TextSelection>0,0</TextSelection>
                     </TextSettings>
                     <Children>
-                        <BinderItem UUID="EF93B95B-FE12-4EBC-BAA1-7262B9EC23ED" Type="Text" Created="2022-02-25 19:07:16 -0500" Modified="2022-02-25 19:17:51 -0500">
+                        <BinderItem UUID="EF93B95B-FE12-4EBC-BAA1-7262B9EC23ED" Type="Text" Created="2022-02-25 19:07:16 -0400" Modified="2022-02-25 19:17:51 -0400">
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
@@ -731,7 +769,7 @@ Can I go to a party on Saturday?
                 </BinderItem>
             </Children>
         </BinderItem>
-        <BinderItem UUID="9C83B8CC-A802-4AE8-B3AE-38CD6B7FF1ED" Type="Folder" Created="2022-02-20 15:47:18 -0500" Modified="2022-03-23 13:29:34 -0400">
+        <BinderItem UUID="9C83B8CC-A802-4AE8-B3AE-38CD6B7FF1ED" Type="Folder" Created="2022-02-20 15:47:18 -0400" Modified="2022-03-23 13:29:34 -0400">
             <Title>Sam's Notes</Title>
             <MetaData>
                 <IncludeInCompile>Yes</IncludeInCompile>
@@ -743,9 +781,12 @@ Can I go to a party on Saturday?
             </TextSettings>
             <CorkboardAndOutliner>
                 <SelectedSubdocumentUUIDs>0D560FA2-6AD5-45F6-848A-928FD1EC1172</SelectedSubdocumentUUIDs>
+                <CorkboardSettings>
+                    <Arrangement>Linear</Arrangement>
+                </CorkboardSettings>
             </CorkboardAndOutliner>
             <Children>
-                <BinderItem UUID="97C771CD-2D81-4DE1-A036-BE346277A1D0" Type="Text" Created="2022-02-20 18:04:21 -0500" Modified="2022-02-20 18:05:05 -0500">
+                <BinderItem UUID="97C771CD-2D81-4DE1-A036-BE346277A1D0" Type="Text" Created="2022-02-20 18:04:21 -0400" Modified="2022-02-20 18:05:05 -0400">
                     <Title>L2 Drafting - 16 February 2022</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
@@ -754,7 +795,7 @@ Can I go to a party on Saturday?
                         <TextSelection>1059,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem UUID="31DADEBD-AFFF-4230-9EF7-9DB67DA6B668" Type="Text" Created="2022-02-20 18:34:13 -0500" Modified="2022-02-20 20:05:44 -0500">
+                <BinderItem UUID="31DADEBD-AFFF-4230-9EF7-9DB67DA6B668" Type="Text" Created="2022-02-20 18:34:13 -0400" Modified="2022-02-20 20:05:44 -0400">
                     <Title>L2 Drafting - 20 February 2022</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
@@ -763,7 +804,7 @@ Can I go to a party on Saturday?
                         <TextSelection>708,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem UUID="0D560FA2-6AD5-45F6-848A-928FD1EC1172" Type="Text" Created="2022-02-25 18:18:53 -0500" Modified="2022-02-27 15:36:06 -0500">
+                <BinderItem UUID="0D560FA2-6AD5-45F6-848A-928FD1EC1172" Type="Text" Created="2022-02-25 18:18:53 -0400" Modified="2022-02-27 15:36:06 -0400">
                     <Title>Plot Drafting - 25 February 2022</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
@@ -772,7 +813,7 @@ Can I go to a party on Saturday?
                         <TextSelection>508,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem UUID="095E97C2-0222-48EB-920D-6AA5D9787DBE" Type="Text" Created="2022-02-27 13:14:41 -0500" Modified="2022-02-28 11:37:54 -0500">
+                <BinderItem UUID="095E97C2-0222-48EB-920D-6AA5D9787DBE" Type="Text" Created="2022-02-27 13:14:41 -0400" Modified="2022-02-28 11:37:54 -0400">
                     <Title>Plot Drafting - 27 February 2022</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
@@ -784,7 +825,7 @@ Can I go to a party on Saturday?
                         <Bookmark BinderUUID="5D01B960-E88B-41E0-BE9C-ADD7133FF134"/>
                     </Bookmarks>
                 </BinderItem>
-                <BinderItem UUID="ECC422D0-74ED-482F-9498-17884A55D961" Type="Text" Created="2022-03-01 16:35:25 -0500" Modified="2022-03-01 16:50:18 -0500">
+                <BinderItem UUID="ECC422D0-74ED-482F-9498-17884A55D961" Type="Text" Created="2022-03-01 16:35:25 -0400" Modified="2022-03-01 16:50:18 -0400">
                     <Title>Plot Drafting - 28 February 2022</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
@@ -793,7 +834,7 @@ Can I go to a party on Saturday?
                         <TextSelection>599,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem UUID="E73CBBCA-0002-4050-BACB-C66C3DA2B89F" Type="Text" Created="2022-03-01 16:50:00 -0500" Modified="2022-03-01 16:59:44 -0500">
+                <BinderItem UUID="E73CBBCA-0002-4050-BACB-C66C3DA2B89F" Type="Text" Created="2022-03-01 16:50:00 -0400" Modified="2022-03-01 16:59:44 -0400">
                     <Title>Environmental Storytelling - 1 March 2022</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
@@ -802,7 +843,7 @@ Can I go to a party on Saturday?
                         <TextSelection>790,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem UUID="5D01B960-E88B-41E0-BE9C-ADD7133FF134" Type="Text" Created="2022-03-02 13:15:28 -0500" Modified="2022-03-04 13:52:16 -0500">
+                <BinderItem UUID="5D01B960-E88B-41E0-BE9C-ADD7133FF134" Type="Text" Created="2022-03-02 13:15:28 -0400" Modified="2022-03-04 13:52:16 -0400">
                     <Title>Plot Drafting - 2 March 2022</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
@@ -811,7 +852,7 @@ Can I go to a party on Saturday?
                         <TextSelection>251,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem UUID="360A67C4-9B57-4004-9572-0131CB485835" Type="Text" Created="2022-03-03 15:06:48 -0500" Modified="2022-03-03 15:26:09 -0500">
+                <BinderItem UUID="360A67C4-9B57-4004-9572-0131CB485835" Type="Text" Created="2022-03-03 15:06:48 -0400" Modified="2022-03-03 15:26:09 -0400">
                     <Title>Clippy Drafting - 3 March 2022</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
@@ -868,7 +909,7 @@ Can I go to a party on Saturday?
                                 <ShowSynopsisImage>Yes</ShowSynopsisImage>
                             </MetaData>
                             <MediaSettings>
-                                <ImageScaleFactor>1.0</ImageScaleFactor>
+                                <ImageScaleFactor>1</ImageScaleFactor>
                                 <ImageRotation>None</ImageRotation>
                                 <ImageScalesProportionally>No</ImageScalesProportionally>
                             </MediaSettings>
@@ -881,7 +922,7 @@ Can I go to a party on Saturday?
                                 <ShowSynopsisImage>Yes</ShowSynopsisImage>
                             </MetaData>
                             <MediaSettings>
-                                <ImageScaleFactor>1.0</ImageScaleFactor>
+                                <ImageScaleFactor>1</ImageScaleFactor>
                                 <ImageRotation>None</ImageRotation>
                                 <ImageScalesProportionally>No</ImageScalesProportionally>
                             </MediaSettings>
@@ -894,7 +935,7 @@ Can I go to a party on Saturday?
                                 <ShowSynopsisImage>Yes</ShowSynopsisImage>
                             </MetaData>
                             <MediaSettings>
-                                <ImageScaleFactor>1.0</ImageScaleFactor>
+                                <ImageScaleFactor>1</ImageScaleFactor>
                                 <ImageRotation>None</ImageRotation>
                                 <ImageScalesProportionally>No</ImageScalesProportionally>
                             </MediaSettings>
@@ -907,7 +948,7 @@ Can I go to a party on Saturday?
                                 <ShowSynopsisImage>Yes</ShowSynopsisImage>
                             </MetaData>
                             <MediaSettings>
-                                <ImageScaleFactor>1.0</ImageScaleFactor>
+                                <ImageScaleFactor>1</ImageScaleFactor>
                                 <ImageRotation>None</ImageRotation>
                                 <ImageScalesProportionally>No</ImageScalesProportionally>
                             </MediaSettings>
@@ -920,7 +961,7 @@ Can I go to a party on Saturday?
                                 <ShowSynopsisImage>Yes</ShowSynopsisImage>
                             </MetaData>
                             <MediaSettings>
-                                <ImageScaleFactor>1.0</ImageScaleFactor>
+                                <ImageScaleFactor>1</ImageScaleFactor>
                                 <ImageRotation>None</ImageRotation>
                                 <ImageScalesProportionally>No</ImageScalesProportionally>
                             </MediaSettings>
@@ -933,7 +974,7 @@ Can I go to a party on Saturday?
                                 <ShowSynopsisImage>Yes</ShowSynopsisImage>
                             </MetaData>
                             <MediaSettings>
-                                <ImageScaleFactor>1.0</ImageScaleFactor>
+                                <ImageScaleFactor>1</ImageScaleFactor>
                                 <ImageRotation>None</ImageRotation>
                                 <ImageScalesProportionally>No</ImageScalesProportionally>
                             </MediaSettings>
@@ -946,7 +987,7 @@ Can I go to a party on Saturday?
                                 <ShowSynopsisImage>Yes</ShowSynopsisImage>
                             </MetaData>
                             <MediaSettings>
-                                <ImageScaleFactor>1.0</ImageScaleFactor>
+                                <ImageScaleFactor>1</ImageScaleFactor>
                                 <ImageRotation>None</ImageRotation>
                                 <ImageScalesProportionally>No</ImageScalesProportionally>
                             </MediaSettings>
@@ -959,7 +1000,7 @@ Can I go to a party on Saturday?
                                 <ShowSynopsisImage>Yes</ShowSynopsisImage>
                             </MetaData>
                             <MediaSettings>
-                                <ImageScaleFactor>1.0</ImageScaleFactor>
+                                <ImageScaleFactor>1</ImageScaleFactor>
                                 <ImageRotation>None</ImageRotation>
                                 <ImageScalesProportionally>No</ImageScalesProportionally>
                             </MediaSettings>
@@ -1051,10 +1092,11 @@ Can I go to a party on Saturday?
                 </BinderItem>
             </Children>
         </BinderItem>
-        <BinderItem UUID="56F3251B-33DB-489A-8F16-B05AE53D648A" Type="ResearchFolder" Created="2022-02-20 15:47:18 -0500" Modified="2022-02-20 15:51:55 -0500">
+        <BinderItem UUID="56F3251B-33DB-489A-8F16-B05AE53D648A" Type="ResearchFolder" Created="2022-02-20 15:47:18 -0400" Modified="2022-02-20 15:51:55 -0400">
             <Title>Resources</Title>
+            <MetaData/>
             <Children>
-                <BinderItem UUID="3544F9B7-6401-4963-8960-53F6921DFDC4" Type="PDF" Created="2022-02-20 15:47:18 -0500" Modified="2022-02-20 15:47:18 -0500">
+                <BinderItem UUID="3544F9B7-6401-4963-8960-53F6921DFDC4" Type="PDF" Created="2022-02-20 15:47:18 -0400" Modified="2022-02-20 15:47:18 -0400">
                     <Title>Sample Script</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
@@ -1064,7 +1106,7 @@ Can I go to a party on Saturday?
                         <CurrentPDFPage>0</CurrentPDFPage>
                     </MediaSettings>
                 </BinderItem>
-                <BinderItem UUID="4BC5A8B2-ECF0-4276-95B8-180491ED1288" Type="Text" Created="2022-02-20 15:47:18 -0500" Modified="2022-02-20 15:47:18 -0500">
+                <BinderItem UUID="4BC5A8B2-ECF0-4276-95B8-180491ED1288" Type="Text" Created="2022-02-20 15:47:18 -0400" Modified="2022-02-20 15:47:18 -0400">
                     <Title>Screenplay Format</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
@@ -1074,7 +1116,7 @@ Can I go to a party on Saturday?
                         <TextSelection>3156,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem UUID="0B19D630-7D8D-4209-9D3D-205B3441842A" Type="Folder" Created="2022-02-20 15:47:18 -0500" Modified="2022-02-20 15:47:18 -0500">
+                <BinderItem UUID="0B19D630-7D8D-4209-9D3D-205B3441842A" Type="Folder" Created="2022-02-20 15:47:18 -0400" Modified="2022-02-20 15:47:18 -0400">
                     <Title>Template Sheets</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
@@ -1083,18 +1125,18 @@ Can I go to a party on Saturday?
                         <TextSelection>0,0</TextSelection>
                     </TextSettings>
                     <Children>
-                        <BinderItem UUID="028F65FD-826A-4D5E-B70A-62E5D31CC3D6" Type="Text" Created="2022-02-20 15:47:18 -0500" Modified="2022-02-20 15:47:18 -0500">
+                        <BinderItem UUID="028F65FD-826A-4D5E-B70A-62E5D31CC3D6" Type="Text" Created="2022-02-20 15:47:18 -0400" Modified="2022-02-20 15:47:18 -0400">
                             <Title>Character Sketch</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
-                                <ShowSynopsisImage>Yes</ShowSynopsisImage>
                                 <IconFileName>Characters (Character Sheet)</IconFileName>
+                                <ShowSynopsisImage>Yes</ShowSynopsisImage>
                             </MetaData>
                             <TextSettings>
                                 <TextSelection>0,14</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem UUID="AAAECD1E-912A-467D-B722-836F749891DD" Type="Text" Created="2022-02-20 15:47:18 -0500" Modified="2022-02-20 15:47:18 -0500">
+                        <BinderItem UUID="AAAECD1E-912A-467D-B722-836F749891DD" Type="Text" Created="2022-02-20 15:47:18 -0400" Modified="2022-02-20 15:47:18 -0400">
                             <Title>Setting Sketch</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
@@ -1108,8 +1150,9 @@ Can I go to a party on Saturday?
                 </BinderItem>
             </Children>
         </BinderItem>
-        <BinderItem UUID="F4B0825A-2389-47FD-9E79-22D353C5F555" Type="TrashFolder" Created="2022-02-20 15:47:18 -0500" Modified="2022-02-20 15:47:18 -0500">
+        <BinderItem UUID="F4B0825A-2389-47FD-9E79-22D353C5F555" Type="TrashFolder" Created="2022-02-20 15:47:18 -0400" Modified="2022-02-20 15:47:18 -0400">
             <Title>Trash</Title>
+            <MetaData/>
             <Children>
                 <BinderItem UUID="0B096BA1-BD6A-4B11-9A06-EF7B0CD960D6" Type="Text" Created="2022-03-23 13:32:44 -0400" Modified="2022-03-23 15:40:03 -0400">
                     <Title>New document</Title>
@@ -1140,12 +1183,12 @@ Can I go to a party on Saturday?
         </BinderItem>
     </Binder>
     <Collections>
-        <Collection Type="Binder" ID="6AE1732B-8E66-4B56-B7E2-C7B1462B31DB" Color="1.0 1.0 1.0">
+        <Collection Type="Binder" ID="6AE1732B-8E66-4B56-B7E2-C7B1462B31DB" Color="0.941176 0.937255 0.956863">
             <Title>Binder</Title>
         </Collection>
-        <Collection Type="RecentSearch" ID="68DB4E73-0B33-4FEE-9600-053ED547B6DC" Color="0.922173 0.818612 0.999627">
+        <Collection Type="RecentSearch" ID="68DB4E73-0B33-4FEE-9600-053ED547B6DC" Color="0.901961 0.901961 0.980392">
             <Title>Search Results</Title>
-            <SearchSettings Operator="Any" Type="All" CaseSensitive="No" IgnoreDiacritics="No">?</SearchSettings>
+            <SearchSettings Operator="Any" Type="All" Scope="All" CompileSetting="All" CaseSensitive="No" IgnoreDiacritics="No">?</SearchSettings>
         </Collection>
     </Collections>
     <SectionTypes>
@@ -1171,13 +1214,13 @@ Can I go to a party on Saturday?
         <DefaultLabelID>-1</DefaultLabelID>
         <Labels>
             <Label ID="-1">No Label</Label>
-            <Label ID="15" Color="0.9935 0.701228 0.732601">Level 0-OS</Label>
+            <Label ID="15" Color="0.993500 0.701228 0.732601">Level 0-OS</Label>
             <Label ID="16" Color="0.995422 0.790967 0.652384">Level 1</Label>
-            <Label ID="17" Color="0.997726 0.89276 0.652567">Level 1-OS</Label>
-            <Label ID="18" Color="0.715846 0.94873 0.697704">Level 2-A</Label>
+            <Label ID="17" Color="0.997726 0.892760 0.652567">Level 1-OS</Label>
+            <Label ID="18" Color="0.715846 0.948730 0.697704">Level 2-A</Label>
             <Label ID="19" Color="0.702312 0.888304 0.974258">Level 2-B</Label>
             <Label ID="20" Color="0.957565 0.766766 0.999619">Level 2-OS</Label>
-            <Label ID="21" Color="0.9935 0.701228 0.732601">Level 3</Label>
+            <Label ID="21" Color="0.993500 0.701228 0.732601">Level 3</Label>
             <Label ID="22" Color="0.995422 0.790967 0.652384">Level 3-OS</Label>
         </Labels>
     </LabelSettings>
@@ -1197,20 +1240,20 @@ Can I go to a party on Saturday?
     </StatusSettings>
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="Yes" Deadline="2011-04-21 06:44:59 -0400" IgnoreDeadline="Yes">0</DraftTarget>
-        <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="No" NextResetDate="2022-04-07 01:00:00 -0400" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
-        <PreviousSession Words="0" Characters="0" Date="2022-04-06 15:13:11 -0400"/>
+        <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="No" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" CanWriteOnDeadlineDate="No" WritingDays="">0</SessionTarget>
+        <PreviousSession Words="0" Characters="0" Date="2022-04-22 08:10:16 -0400"/>
     </ProjectTargets>
-    <RecentWritingHistory Date="2022-04-06 00:00:00 -0400">
-        <DraftWordCount>0</DraftWordCount>
-        <DraftCharCount>0</DraftCharCount>
-        <OtherWordCount>192</OtherWordCount>
-        <OtherCharCount>1142</OtherCharCount>
-    </RecentWritingHistory>
-    <TemplateFolderUUID>0B19D630-7D8D-4209-9D3D-205B3441842A</TemplateFolderUUID>
-    <BookmarksFolderUUID>9C83B8CC-A802-4AE8-B3AE-38CD6B7FF1ED</BookmarksFolderUUID>
     <AutoCompleteList>
         <Completion Scope="2">Brent</Completion>
         <Completion Scope="2">Eloise</Completion>
     </AutoCompleteList>
+    <TemplateFolderUUID>0B19D630-7D8D-4209-9D3D-205B3441842A</TemplateFolderUUID>
+    <BookmarksFolderUUID>9C83B8CC-A802-4AE8-B3AE-38CD6B7FF1ED</BookmarksFolderUUID>
+    <RecentWritingHistory Date="2022-04-22 00:00:00 -0400">
+        <DraftWordCount>0</DraftWordCount>
+        <DraftCharCount>0</DraftCharCount>
+        <OtherWordCount>181</OtherWordCount>
+        <OtherCharCount>1019</OtherCharCount>
+    </RecentWritingHistory>
     <PrintSettings PaperSize="612.0,792.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="na-letter" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"/>
 </ScrivenerProject>
